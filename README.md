@@ -25,3 +25,6 @@ Localizations need to be updated everytime new vehicles are added to War Thunder
 2. Go into War Thunder and change your language from English to Russian, which should regenerate a new "lang" folder.
 3. Copy the **NEW** units.csv file into the newly generated "lang" folder.
 4. Change language back to English.
+## Auto Parser
+The purpose of the auto parser file is to automatically do most of the localization process, thus making new localization updates easier. This file should be ignored for the most part, as the only file necessary to update your localization is the units.csv file.
+To use auto_parser.py, the user needs to create an input.txt and output.txt in the auto_parser folder. Then, the user should copy and paste the new units from the default Gaijin units.csv into the input.txt. Then, the auto_parser.py file should be run, creating a parsed and localized version in output.txt, which can be copy and pasted into your local (localized) units.csv file where custom changes may be made if necessary.
