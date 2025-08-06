@@ -22,7 +22,7 @@ wheeled_vehicles/truck_arcade_1;Truck
 wheeled_vehicles/truck_arcade_2;Truck
 ships/cargo_ship_arcade_0;Cargo ship
 ships/cargo_ship_arcade_1;Cargo ship
-ships/cargo_ship_arcade_2;Ship
+ships/cargo_ship_arcade_2;Cargo ship
 structures/dummy_arcade_0;Base building
 structures/dummy_arcade_1;Base building
 structures/dummy_arcade_2;Base building
@@ -62,59 +62,59 @@ structures/tank_target_9_char_2;Target №9
 unic_hornet;USS Hornet CV-8
 unic_hornet_0;USS Hornet CV-8
 unic_hornet_1;USS Hornet
-unic_hornet_2;Carrier
+unic_hornet_2;USS Hornet
 unic_enterprise;USS Enterprise CV-6
 unic_enterprise_0;USS Enterprise CV-6
 unic_enterprise_1;USS Enterprise
-unic_enterprise_2;Carrier
+unic_enterprise_2;USS Enterprise
 unic_yorktown;USS Yorktown CV-5
 unic_yorktown_0;USS Yorktown CV-5
 unic_yorktown_1;USS Yorktown
-unic_yorktown_2;Carrier
+unic_yorktown_2;USS Yorktown
 unic_soryu;IJN Sōryū
 unic_soryu_0;IJN Sōryū
 unic_soryu_1;IJN Sōryū
-unic_soryu_2;Carrier
+unic_soryu_2;IJN Sōryū
 unic_hiryu;IJN Hiryū
 unic_hiryu_0;IJN Hiryū
 unic_hiryu_1;IJN Hiryū
-unic_hiryu_2;Carrier
+unic_hiryu_2;IJN Hiryū
 unic_kaga;IJN Kaga
 unic_kaga_0;IJN Kaga
 unic_kaga_1;IJN Kaga
-unic_kaga_2;Carrier
+unic_kaga_2;IJN Kaga
 unic_akagi;IJN Akagi
 unic_akagi_0;IJN Akagi
 unic_akagi_1;IJN Akagi
-unic_akagi_2;Carrier
+unic_akagi_2;IJN Akagi
 unic_shokaku;IJN Shōkaku
 unic_shokaku_0;IJN Shōkaku
 unic_shokaku_1;IJN Shōkaku
-unic_shokaku_2;Carrier
+unic_shokaku_2;IJN Shōkaku
 unic_zuikaku;IJN Zuikaku
 unic_zuikaku_0;IJN Zuikaku
 unic_zuikaku_1;IJN Zuikaku
-unic_zuikaku_2;Carrier
+unic_zuikaku_2;IJN Zuikaku
 unic_saratoga;USS Saratoga CV-3
 unic_saratoga_0;USS Saratoga CV-3
 unic_saratoga_1;USS Saratoga
-unic_saratoga_2;Carrier
+unic_saratoga_2;USS Saratoga
 unic_zuiho;IJN Zuiho
 unic_zuiho_0;IJN Zuiho
 unic_zuiho_1;IJN Zuiho
-unic_zuiho_2;Carrier
+unic_zuiho_2;IJN Zuiho
 unic_wasp;USS Wasp CV-7
 unic_wasp_0;USS Wasp CV-7
 unic_wasp_1;USS Wasp
-unic_wasp_2;Carrier
+unic_wasp_2;USS Wasp
 unic_lexington;USS Lexington CV-2
 unic_lexington_0;USS Lexington CV-2
 unic_lexington_1;USS Lexington
-unic_lexington_2;Carrier
+unic_lexington_2;USS Lexington
 unic_shoho;IJN Shoho
 unic_shoho_0;IJN Shoho
 unic_shoho_1;IJN Shoho
-unic_shoho_2;Carrier
+unic_shoho_2;IJN Shoho
 unic_wheeler_hangar;Hangar
 unic_wheeler_hangar_0;Hangar
 unic_wheeler_hangar_1;Hangar
