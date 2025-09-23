@@ -8,6 +8,14 @@ def main():
     input_file = os.path.join(base_dir, "input.txt")
     output_file = os.path.join(base_dir, "output.txt")
 
+
+    if not os.path.exists(input_file):
+        print(f"Error: Input file '{input_file}' not found.")
+        return
+
+    print(f"Processing: {input_file}")
+    print(f"Output to: {output_file}")
+    
     with open(input_file, 'r', encoding='utf-8') as infile:
         lines = infile.readlines()
 

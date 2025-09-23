@@ -1,2 +1,4 @@
 *.txt
+input.csv
+output.csv
 update_comparison
