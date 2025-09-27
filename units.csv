@@ -12694,8 +12694,8 @@ fr_destroyer_vauquelin_class_vauquelin_1;Vauquelin
 fr_destroyer_vauquelin_class_vauquelin_2;Vauquelin
 saab_jas39c_south_africa_shop;▄JAS39C
 saab_jas39c_south_africa_0;▄JAS39C Gripen
-saab_jas39c_south_africa_1;▄JAS39C
-saab_jas39c_south_africa_2;▄JAS39C
+saab_jas39c_south_africa_1;▄JAS39C [ZA]
+saab_jas39c_south_africa_2;▄JAS39C [ZA]
 mirage_2000c_s4_shop;Mirage 2000C-S4
 mirage_2000c_s4_0;Mirage 2000C-S4
 mirage_2000c_s4_1;Mirage 2000C-S4
@@ -13572,8 +13572,8 @@ ef_2000a_1;▄F-2000A
 ef_2000a_2;▄F-2000A
 f_16a_block_15_ocu_thailand_shop;▄F-16A OCU
 f_16a_block_15_ocu_thailand_0;▄F-16A Block 15 OCU Fighting Falcon
-f_16a_block_15_ocu_thailand_1;▄F-16A OCU
-f_16a_block_15_ocu_thailand_2;▄F-16A OCU
+f_16a_block_15_ocu_thailand_1;▄F-16A OCU [TH]
+f_16a_block_15_ocu_thailand_2;▄F-16A OCU [TH]
 f-5a_thailand_shop;▄F-5A
 f-5a_thailand_0;▄F-5A Freedom Fighter
 f-5a_thailand_1;▄F-5A
@@ -13636,8 +13636,8 @@ rafale_c_f3_1;Rafale C
 rafale_c_f3_2;Rafale C
 saab_jas39c_thailand_shop;▄JAS39C
 saab_jas39c_thailand_0;▄JAS39C Gripen
-saab_jas39c_thailand_1;▄JAS39C
-saab_jas39c_thailand_2;▄JAS39C
+saab_jas39c_thailand_1;▄JAS39C [TH]
+saab_jas39c_thailand_2;▄JAS39C [TH]
 shop/group/fr_arl_jumbo_group;ARL/M4A3E2
 shop/group/fr_auf_acra_group;AuF/ACRA
 shop/group/germ_dicker_sturer_group;Max/Emil
@@ -14021,11 +14021,11 @@ ussr_t_34_85_zis_53_v80_0;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_1;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_2;T-34-85 "Partisan"
 jp_type_81_tansam_fcs_shop;Tan-SAM Kai [TADS]
-jp_type_81_tansam_fcs_0;Tan-SAM Kai [Target Acquisition and Designation System]
+jp_type_81_tansam_fcs_0;Tan-SAM Kai, Target Acquisition and Designation System
 jp_type_81_tansam_fcs_1;Tan-SAM Kai [TADS]
 jp_type_81_tansam_fcs_2;Tan-SAM Kai [TADS]
-jp_type_81_tansam_launcher_shop;Tan-SAM Kai [TEL]
-jp_type_81_tansam_launcher_0;Tan-SAM Kai [Transporter Erector Launcher]
+jp_type_81_tansam_launcher_shop;Tan-SAM Kai (TEL]
+jp_type_81_tansam_launcher_0;Tan-SAM Kai, Transporter Erector Launcher
 jp_type_81_tansam_launcher_1;Tan-SAM Kai [TEL]
 jp_type_81_tansam_launcher_2;Tan-SAM Kai [TEL]
 shop/group/us_kit_3rank_group;Hell on Wheels
@@ -14070,11 +14070,11 @@ us_skink_aa_kit_3rank_0;▃Skink, Tank, Anti-Aircraft, 20 mm, Quad (Hell)
 us_skink_aa_kit_3rank_1;▃Skink (Hell)
 us_skink_aa_kit_3rank_2;▃Skink (Hell)
 germ_iris_slm_launcher_shop;IRIS-T SLM [TEL]
-germ_iris_slm_launcher_0;IRIS-T SLM [Transporter Erector Launcher]
+germ_iris_slm_launcher_0;IRIS-T SLM, Transporter Erector Launcher
 germ_iris_slm_launcher_1;IRIS-T SLM [TEL]
 germ_iris_slm_launcher_2;IRIS-T SLM [TEL]
 germ_iris_slm_fcs_shop;IRIS-T SLM [TADS]
-germ_iris_slm_fcs_0;IRIS-T SLM [Target Acquisition and Designation System]
+germ_iris_slm_fcs_0;IRIS-T SLM, Target Acquisition and Designation System
 germ_iris_slm_fcs_1;IRIS-T SLM [TADS]
 germ_iris_slm_fcs_2;IRIS-T SLM [TADS]
 sc_1_shop;SC-1
@@ -14227,11 +14227,11 @@ z_10me_0;Z-10ME
 z_10me_1;Z-10ME
 z_10me_2;Z-10ME
 us_sl_amraam_fcs_shop;CLAWS [TADS]
-us_sl_amraam_fcs_0;M1097A2 CLAWS [Target Acquisition and Designation System]
+us_sl_amraam_fcs_0;M1097A2 CLAWS, Target Acquisition and Designation System
 us_sl_amraam_fcs_1;CLAWS [TADS]
 us_sl_amraam_fcs_2;CLAWS [TADS]
 us_sl_amraam_launcher_shop;CLAWS [TEL]
-us_sl_amraam_launcher_0;M1097A2 CLAWS [Transporter Erector Launcher]
+us_sl_amraam_launcher_0;M1097A2 CLAWS, Transporter Erector Launcher
 us_sl_amraam_launcher_1;CLAWS [TEL]
 us_sl_amraam_launcher_2;CLAWS [TEL]
 mig_29_9_12_sniper_shop;MiG-29 Sniper;
@@ -14335,14 +14335,14 @@ fr_m55_shop;▄M55
 fr_m55_0;▄Howitzer, Self-propelled, Full Tracked: 203-mm, M55
 fr_m55_1;▄M55
 fr_m55_2;▄M55
-ussr_buk_m3_launcher_shop;9K317M "BUK-M3" (TELAR)
+ussr_buk_m3_launcher_shop;9K317M "BUK-M3" [TELAR]
 ussr_buk_m3_launcher_0;9K317M "BUK-M3", Transporter erector launcher and radar 9A317M
-ussr_buk_m3_launcher_1;"BUK-M3" (TELAR)
-ussr_buk_m3_launcher_2;"BUK-M3" (TELAR)
-ussr_buk_m3_fcs_shop;9K317M "BUK-M3" (TADS)
+ussr_buk_m3_launcher_1;BUK-M3 [TELAR]
+ussr_buk_m3_launcher_2;BUK-M3 [TELAR]
+ussr_buk_m3_fcs_shop;9K317M "BUK-M3" [TADS]
 ussr_buk_m3_fcs_0;9K317M "BUK-M3", Target acquisition and designation system 9S18M3
-ussr_buk_m3_fcs_1;"BUK-M3" (TADS)
-ussr_buk_m3_fcs_2;"BUK-M3" (TADS)
+ussr_buk_m3_fcs_1;BUK-M3 [TADS]
+ussr_buk_m3_fcs_2;BUK-M3 [TADS]
 quing_6_shop;Qing-6
 quing_6_0;Qing-6
 quing_6_1;Qing-6
@@ -14431,8 +14431,8 @@ cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188A
 f_16a_block_15_ocu_belgium_shop;▄F-16A OCU
 f_16a_block_15_ocu_belgium_0;▄F-16A Block 15 OCU Fighting Falcon
-f_16a_block_15_ocu_belgium_1;▄F-16A OCU
-f_16a_block_15_ocu_belgium_2;▄F-16A OCU
+f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BE]
+f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BE]
 f_16i_sufa_shop;F-16I Sufa
 f_16i_sufa_0;F-16I Sufa
 f_16i_sufa_1;F-16I
@@ -14513,34 +14513,34 @@ jp_battlecruiser_hiei_shop;IJN Hiei
 jp_battlecruiser_hiei_0;Kongo-class, IJN Hiei, 1926
 jp_battlecruiser_hiei_1;IJN Hiei
 jp_battlecruiser_hiei_2;IJN Hiei
-uk_sky_sabre_launcher_shop;Sky Sabre (TEL)
+uk_sky_sabre_launcher_shop;Sky Sabre [TEL]
 uk_sky_sabre_launcher_0;Sky Sabre, Transporter erector launcher
-uk_sky_sabre_launcher_1;Sky Sabre (TEL)
-uk_sky_sabre_launcher_2;Sky Sabre (TEL)
-uk_sky_sabre_fcs_shop;Sky Sabre (TADS)
+uk_sky_sabre_launcher_1;Sky Sabre [TEL]
+uk_sky_sabre_launcher_2;Sky Sabre [TEL]
+uk_sky_sabre_fcs_shop;Sky Sabre [TADS]
 uk_sky_sabre_fcs_0;Sky Sabre, Target acquisition and designation system
-uk_sky_sabre_fcs_1;Sky Sabre (TADS)
-uk_sky_sabre_fcs_2;Sky Sabre (TADS)
-it_samp_t_launcher_shop;FSAF SAMP/T (TEL)
+uk_sky_sabre_fcs_1;Sky Sabre [TADS]
+uk_sky_sabre_fcs_2;Sky Sabre [TADS]
+it_samp_t_launcher_shop;FSAF SAMP/T [TEL]
 it_samp_t_launcher_0;FSAF SAMP/T, Transporter erector launcher
-it_samp_t_launcher_1;FSAF SAMP/T (TEL)
-it_samp_t_launcher_2;FSAF SAMP/T (TEL)
-it_samp_t_fcs_shop;FSAF SAMP/T (TADS)
+it_samp_t_launcher_1;FSAF SAMP/T [TEL]
+it_samp_t_launcher_2;FSAF SAMP/T [TEL]
+it_samp_t_fcs_shop;FSAF SAMP/T [TADS]
 it_samp_t_fcs_0;FSAF SAMP/T, Target acquisition and designation system
-it_samp_t_fcs_1;FSAF SAMP/T (TADS)
-it_samp_t_fcs_2;FSAF SAMP/T (TADS)
+it_samp_t_fcs_1;FSAF SAMP/T [TADS]
+it_samp_t_fcs_2;FSAF SAMP/T [TADS]
 ussr_bmd_4m2_shop;BMD-4M2
 ussr_bmd_4m2_0;BMD-4M2
 ussr_bmd_4m2_1;BMD-4M2
 ussr_bmd_4m2_2;BMD-4M2
-fr_samp_t_launcher_shop;FSAF SAMP/T (Mamba) (TEL)
+fr_samp_t_launcher_shop;FSAF SAMP/T (Mamba) [TEL]
 fr_samp_t_launcher_0;FSAF SAMP/T (Mamba), Transporter erector launcher
-fr_samp_t_launcher_1;FSAF SAMP/T (Mamba) (TEL)
-fr_samp_t_launcher_2;FSAF SAMP/T (Mamba) (TEL)
-fr_samp_t_fcs_shop;FSAF SAMP/T (Mamba) (TADS)
+fr_samp_t_launcher_1;FSAF SAMP/T (Mamba) [TEL]
+fr_samp_t_launcher_2;FSAF SAMP/T (Mamba) [TEL]
+fr_samp_t_fcs_shop;FSAF SAMP/T (Mamba) [TADS]
 fr_samp_t_fcs_0;FSAF SAMP/T (Mamba), Target acquisition and designation system
-fr_samp_t_fcs_1;FSAF SAMP/T (Mamba) (TADS)
-fr_samp_t_fcs_2;FSAF SAMP/T (Mamba) (TADS)
+fr_samp_t_fcs_1;FSAF SAMP/T (Mamba) [TADS]
+fr_samp_t_fcs_2;FSAF SAMP/T (Mamba) [TADS]
 jp_m60a3_tts_shop;▄M60A3 TTS
 jp_m60a3_tts_0;▄105 mm Gun Tank M60A3 TTS
 jp_m60a3_tts_1;▄M60A3 TTS
