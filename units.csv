@@ -2302,10 +2302,10 @@ us_m1_abrams_shop;M1 Abrams
 us_m1_abrams_0;Tank, Combat, Full Tracked, 105-mm Gun M1
 us_m1_abrams_1;M1 Abrams
 us_m1_abrams_2;M1 Abrams
-germ_leopard_2pl_shop;Leopard 2 PL
-germ_leopard_2pl_0;Leopard 2 PL
-germ_leopard_2pl_1;Leopard 2 PL
-germ_leopard_2pl_2;Leopard 2 PL
+germ_leopard_2pl_shop;Leopard 2PL
+germ_leopard_2pl_0;Leopard 2PL
+germ_leopard_2pl_1;Leopard 2PL
+germ_leopard_2pl_2;Leopard 2PL
 germ_leopard_2k_shop;Leopard 2K
 germ_leopard_2k_0;Leopard 2K
 germ_leopard_2k_1;Leopard 2K
@@ -4268,10 +4268,10 @@ p-63c-5_ussr_shop;▂P-63C-5
 p-63c-5_ussr_0;▂P-63C-5 Kingcobra
 p-63c-5_ussr_1;▂P-63C-5
 p-63c-5_ussr_2;▂P-63C-5
-sb_2m_100_shop;SB 2M-100
-sb_2m_100_0;SB 2M-100
-sb_2m_100_1;SB 2M-100
-sb_2m_100_2;SB 2M-100
+sb_2m_100_shop;SB 2M-100A
+sb_2m_100_0;SB 2M-100A
+sb_2m_100_1;SB 2M-100A
+sb_2m_100_2;SB 2M-100A
 sb_2m_100a_shop;SB 2M-100A
 sb_2m_100a_0;SB 2M-100A
 sb_2m_100a_1;SB 2M-100A
@@ -13982,7 +13982,7 @@ germ_machinegun_mg_08_2;MG08
 uk_machinegun_hotchkiss_mle_1914_0;Hotchkiss Mle 1909
 uk_machinegun_hotchkiss_mle_1914_1;Hotchkiss Mle 1909
 uk_machinegun_hotchkiss_mle_1914_2;Hotchkiss Mle 1909
-soldier;Soldier
+soldier;Infantry
 ussr_t_44_po_shop;T-44 (FM)
 ussr_t_44_po_0;T-44 First Modification
 ussr_t_44_po_1;T-44 (FM)
