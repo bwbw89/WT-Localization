@@ -1,4 +1,4 @@
-<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄UK▅JP☀ROC␗PRC▄IT▄FRISR⚜FR◊GDR◄FRG◐HUN◔HUN◗NLD◘NLD
+<ID|readonly|noverify>;<English>▃USA▀GER▂USSR▄GBR▅JPN☀ROC␗PRC▄ITA▄FRAISR⚜FR◊GDR◄FRG◐HUN◔HUN◗NLD◘NLD▄THA▄BEL◌CHE▄AUS▄FIN
 ships/uss_cv_immortal_0;Carrier
 ships/uss_cv_immortal_1;Carrier
 ships/uss_cv_immortal_2;Carrier
@@ -11214,7 +11214,7 @@ il_tcm_20_0;TCM-20
 il_tcm_20_1;TCM-20
 il_tcm_20_2;TCM-20
 it_as_42_47_shop;AS 42/47
-it_as_42_47_0;"Camionetta AS 42 Tipo II ""Metropolitana"" 47/32"
+it_as_42_47_0;Camionetta AS 42 Tipo II "Metropolitana" 47/32
 it_as_42_47_1;AS 42/47
 it_as_42_47_2;AS 42/47
 sw_a_34_comet_shop;▄Comet I
@@ -11361,7 +11361,7 @@ germ_at_gun_flak36_shop;3.7 cm FlaK 36
 germ_at_gun_flak36_0;3.7 cm anti-aircraft gun FlaK 36
 germ_at_gun_flak36_1;3.7 cm FlaK 36
 germ_at_gun_flak36_2;Anti-aircraft gun
-po_2op_event_shop;"Po-2 ""Overpowered"""
+po_2op_event_shop;Po-2 "Overpowered"
 po_2op_event_0;Po-2OP
 po_2op_event_1;Po-2OP
 po_2op_event_2;Po-2OP
@@ -11381,7 +11381,7 @@ us_m728_0;Full tracked combat engineer vehicle M728
 us_m728_1;M728
 us_m728_2;M728
 ussr_9a35_m2_shop;Strela-10M2
-ussr_9a35_m2_0;"9A35M2 ""Strela-10M2"""
+ussr_9a35_m2_0;9A35M2 "Strela-10M2"
 ussr_9a35_m2_1;Strela-10M2
 ussr_9a35_m2_2;Strela-10M2
 uk_khalid_shop;Khalid
@@ -11558,8 +11558,8 @@ tornado_ids_it_mod95_1;▄Tornado IDS [L]
 tornado_ids_it_mod95_2;▄Tornado IDS [L]
 tornado_ids_de_assta1_shop;◄Tornado IDS
 tornado_ids_de_assta1_0;◄Tornado IDS ASSTA1
-tornado_ids_de_assta1_1;◄Tornado IDS
-tornado_ids_de_assta1_2;◄Tornado IDS
+tornado_ids_de_assta1_1;◄Tornado IDS ASSTA1
+tornado_ids_de_assta1_2;◄Tornado IDS ASSTA1
 saab_j35xs_shop;J35XS
 saab_j35xs_0;J35XS Draken
 saab_j35xs_1;J35XS
@@ -12481,7 +12481,7 @@ uk_vickers_mk_11_0;Vickers Mk.11
 uk_vickers_mk_11_1;Vickers Mk.11
 uk_vickers_mk_11_2;Vickers Mk.11
 fr_m26_pershing_shop;▄M26
-fr_m26_pershing_0;"▄Char Moyen Type ""Pershing"" M 26"
+fr_m26_pershing_0;▄Char Moyen Type "Pershing" M 26
 fr_m26_pershing_1;▄M26
 fr_m26_pershing_2;▄M26
 fr_amx_10p_shop;AMX-10P
@@ -12741,7 +12741,7 @@ us_cruiser_worcester_class_roanoke_0;Worcester-class, USS Roanoke (CL-145), 1949
 us_cruiser_worcester_class_roanoke_1;USS Roanoke
 us_cruiser_worcester_class_roanoke_2;USS Roanoke
 us_m1a1_hc_usmc_shop;M1A1 HC USMC
-us_m1a1_hc_usmc_0;"Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC ""Click-Bait"""
+us_m1a1_hc_usmc_0;Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC "Click-Bait"
 us_m1a1_hc_usmc_1;M1A1 HC USMC
 us_m1a1_hc_usmc_2;M1A1 HC USMC
 fr_destroyer_le_fantasque_class_le_triomphant_shop;Le Triomphant
@@ -13183,10 +13183,10 @@ a_10c_shop;A-10C
 a_10c_0;A-10C Thunderbolt II
 a_10c_1;A-10C
 a_10c_2;A-10C
-av_8b_na_shop;AV-8B(NA)
+av_8b_na_shop;AV-8B (NA)
 av_8b_na_0;AV-8B Harrier II Night Attack
-av_8b_na_1;AV-8B(NA)
-av_8b_na_2;AV-8B(NA)
+av_8b_na_1;AV-8B (NA)
+av_8b_na_2;AV-8B (NA)
 cn_antelope_tc_1l_ads_shop;Antelope
 cn_antelope_tc_1l_ads_0;Antelope Air Defense System
 cn_antelope_tc_1l_ads_1;Antelope
@@ -13572,8 +13572,8 @@ ef_2000a_1;▄F-2000A
 ef_2000a_2;▄F-2000A
 f_16a_block_15_ocu_thailand_shop;▄F-16A OCU
 f_16a_block_15_ocu_thailand_0;▄F-16A Block 15 OCU Fighting Falcon
-f_16a_block_15_ocu_thailand_1;▄F-16A OCU [TH]
-f_16a_block_15_ocu_thailand_2;▄F-16A OCU [TH]
+f_16a_block_15_ocu_thailand_1;▄F-16A OCU [THA]
+f_16a_block_15_ocu_thailand_2;▄F-16A OCU [THA]
 f-5a_thailand_shop;▄F-5A
 f-5a_thailand_0;▄F-5A Freedom Fighter
 f-5a_thailand_1;▄F-5A
@@ -13733,7 +13733,7 @@ uk_shir_2_0;FV4030/3 Shir 2
 uk_shir_2_1;FV4030/3
 uk_shir_2_2;FV4030/3
 fr_m46_patton_shop;▄M46
-fr_m46_patton_0;▄Char Moyen Type ""Patton"" M46
+fr_m46_patton_0;▄Char Moyen Type "Patton" M46
 fr_m46_patton_1;▄M46
 fr_m46_patton_2;▄M46
 sb2c_5_thailand_shop;▄SB2C-5
@@ -14054,7 +14054,7 @@ ussr_sdkfz_251_21_kit_3rank_0;Hanomag ('45)
 ussr_sdkfz_251_21_kit_3rank_1;Hanomag ('45)
 ussr_sdkfz_251_21_kit_3rank_2;Hanomag ('45)
 uk_a30_sp_avenger_kit_3rank_shop;Avenger (Overlord)
-uk_a30_sp_avenger_kit_3rank_0;Self Propelled 17pdr, A30 ""Avenger"" (Overlord)
+uk_a30_sp_avenger_kit_3rank_0;Self Propelled 17pdr, A30 "Avenger" (Overlord)
 uk_a30_sp_avenger_kit_3rank_1;Avenger (Overlord)
 uk_a30_sp_avenger_kit_3rank_2;Avenger (Overlord)
 uk_crusader_aa_mk_2_kit_3rank_shop;Crusader AA (Overlord)
@@ -14431,8 +14431,8 @@ cf_188a_canada_1;CF-188A
 cf_188a_canada_2;CF-188A
 f_16a_block_15_ocu_belgium_shop;▄F-16A OCU
 f_16a_block_15_ocu_belgium_0;▄F-16A Block 15 OCU Fighting Falcon
-f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BE]
-f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BE]
+f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BEL]
+f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BEL]
 f_16i_sufa_shop;F-16I Sufa
 f_16i_sufa_0;F-16I Sufa
 f_16i_sufa_1;F-16I
