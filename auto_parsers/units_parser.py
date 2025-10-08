@@ -1,6 +1,8 @@
 import sys
 import os
 
+# This is used to strip Gaijin's units.csv files to only include English localization, which makes comparing diffs easier.
+
 def main():
     # For relative file pathing
     base_dir = os.path.dirname(os.path.abspath(__file__))

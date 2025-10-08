@@ -14557,3 +14557,8 @@ germ_destroyer_class1942_z51_shop;Z51
 germ_destroyer_class1942_z51_0;Type 1942, Z51, project
 germ_destroyer_class1942_z51_1;Z51
 germ_destroyer_class1942_z51_2;Z51
+shop/group/ussr_su_object_group;SU/Object
+us_efv_p1_shop;EFV
+us_efv_p1_0;Expeditionary Fighting Vehicle EFV
+us_efv_p1_1;EFV
+us_efv_p1_2;EFV
