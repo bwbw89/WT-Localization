@@ -14011,11 +14011,11 @@ ussr_ai_sam_launcher_s_75_0;SM-90 SAM S-75 launcher
 ussr_ai_sam_launcher_s_75_1;SM-90 Launcher
 ussr_ai_sam_launcher_s_75_2;SM-90 Launcher
 ussr_ai_sam_radar_p_12_0;P-12 SAM S-75 Acquisition Radar
-ussr_ai_sam_radar_p_12_1;P-12 [TT]
-ussr_ai_sam_radar_p_12_2;P-12 [TT]
+ussr_ai_sam_radar_p_12_1;P-12 [AR]
+ussr_ai_sam_radar_p_12_2;P-12 [AR]
 ussr_ai_sam_radar_snr_75_0;SNR-75 SAM S-75 Target Tracking Radar
-ussr_ai_sam_radar_snr_75_1;SNR-75 [TA]
-ussr_ai_sam_radar_snr_75_2;SNR-75 [TA]
+ussr_ai_sam_radar_snr_75_1;SNR-75 [TTR]
+ussr_ai_sam_radar_snr_75_2;SNR-75 [TTR]
 ussr_t_34_85_zis_53_v80_shop;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_0;T-34-85 "Partisan"
 ussr_t_34_85_zis_53_v80_1;T-34-85 "Partisan"
@@ -14433,7 +14433,7 @@ f_16a_block_15_ocu_belgium_shop;▄F-16A OCU
 f_16a_block_15_ocu_belgium_0;▄F-16A Block 15 OCU Fighting Falcon
 f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BEL]
 f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BEL]
-f_16i_sufa_shop;F-16I Sufa
+f_16i_sufa_shop;F-16I
 f_16i_sufa_0;F-16I Sufa
 f_16i_sufa_1;F-16I
 f_16i_sufa_2;F-16I
