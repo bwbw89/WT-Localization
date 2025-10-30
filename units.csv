@@ -403,10 +403,10 @@ air_defence/searchLight_1;Search light
 air_defence/searchLight_2;Search light
 air_defence/uk_12mm_m2_0;Light AA gun
 air_defence/uk_12mm_m2_1;Light AA
-air_defence/uk_12mm_m2_2;AAA
+air_defence/uk_12mm_m2_2;Light AA
 air_defence/uk_12mm_m2_noground_0;Light AA gun
 air_defence/uk_12mm_m2_noground_1;Light AAA
-air_defence/uk_12mm_m2_noground_2;AAA
+air_defence/uk_12mm_m2_noground_2;Light AAA
 air_defence/uk_40mm_bofors_0;AAA
 air_defence/uk_40mm_bofors_1;AAA
 air_defence/uk_40mm_bofors_2;AAA
@@ -421,13 +421,13 @@ air_defence/40mm_arcade_gun_1;AAA
 air_defence/40mm_arcade_gun_2;AAA
 air_defence/us_12mm_m2_0;Light AA gun
 air_defence/us_12mm_m2_1;Light AAA
-air_defence/us_12mm_m2_2;AAA
+air_defence/us_12mm_m2_2;Light AAA
 air_defence/us_12mm_m2_coastfort_0;Light AA gun
 air_defence/us_12mm_m2_coastfort_1;Light AAA
-air_defence/us_12mm_m2_coastfort_2;AAA
+air_defence/us_12mm_m2_coastfort_2;Light AAA
 air_defence/us_12mm_m2_noground_0;Light AA gun
 air_defence/us_12mm_m2_noground_1;Light AAA
-air_defence/us_12mm_m2_noground_2;AAA
+air_defence/us_12mm_m2_noground_2;Light AAA
 air_defence/us_12mm_m2_sandfort_0;Light AA gun
 air_defence/us_12mm_m2_sandfort_1;AAA
 air_defence/us_12mm_m2_sandfort_2;AAA
@@ -9085,68 +9085,68 @@ structures/germ_380mm_skc34_1;Battleship artillery
 structures/germ_380mm_skc34_2;Battleship artillery
 germ_truck_sdkfz_6_2_tent_0;Sd.Kfz. 6
 germ_truck_sdkfz_6_2_tent_1;Sd.Kfz. 6
-germ_truck_sdkfz_6_2_tent_2;Vehicle
+germ_truck_sdkfz_6_2_tent_2;Sd.Kfz. 6
 uk_truck_us6_studebaker_tent_0;Studebaker US6
 uk_truck_us6_studebaker_tent_1;Studebaker US6
-uk_truck_us6_studebaker_tent_2;Vehicle
+uk_truck_us6_studebaker_tent_2;Studebaker US6
 uk_truck_us6_studebaker_board_0;Studebaker US6
 uk_truck_us6_studebaker_board_1;Studebaker US6
-uk_truck_us6_studebaker_board_2;Vehicle
+uk_truck_us6_studebaker_board_2;Studebaker US6
 us_truck_us6_studebaker_tent_0;Studebaker US6
 us_truck_us6_studebaker_tent_1;Studebaker US6
-us_truck_us6_studebaker_tent_2;Vehicle
+us_truck_us6_studebaker_tent_2;Studebaker US6
 us_truck_us6_studebaker_board_0;Studebaker US6
 us_truck_us6_studebaker_board_1;Studebaker US6
-us_truck_us6_studebaker_board_2;Vehicle
+us_truck_us6_studebaker_board_2;Studebaker US6
 jp_truck_type_94_isuzu_0;Isuzu Type-94
 jp_truck_type_94_isuzu_1;Isuzu Type-94
-jp_truck_type_94_isuzu_2;Vehicle
+jp_truck_type_94_isuzu_2;Isuzu Type-94
 ussr_truck_gaz_aaa_0;GAZ-AAA
 ussr_truck_gaz_aaa_1;GAZ-AAA
-ussr_truck_gaz_aaa_2;Vehicle
+ussr_truck_gaz_aaa_2;GAZ-AAA
 ussr_apc_btr_152_0;BTR-152
 ussr_apc_btr_152_1;BTR-152
-ussr_apc_btr_152_2;APC
+ussr_apc_btr_152_2;BTR-152
 us_apc_m113_0;M113
 us_apc_m113_1;M113
-us_apc_m113_2;APC
+us_apc_m113_2;M113
 germ_apc_m113_0;M113
 germ_apc_m113_1;M113
-germ_apc_m113_2;APC
+germ_apc_m113_2;M113
 ussr_apc_bmp_1_0;BMP-1
 ussr_apc_bmp_1_1;BMP-1
-ussr_apc_bmp_1_2;IFV
+ussr_apc_bmp_1_2;BMP-1
 germ_at_gun_pak36_0;3.7 cm anti-tank gun mod. 1935/1936 (PaK)
 germ_at_gun_pak36_1;3.7 cm AT PaK
-germ_at_gun_pak36_2;Anti-tank gun
+germ_at_gun_pak36_2;3.7 cm AT PaK
 germ_at_gun_pak38_0;5 cm anti-tank gun PaK38
 germ_at_gun_pak38_1;5 cm AT PaK38
-germ_at_gun_pak38_2;Anti-tank gun
+germ_at_gun_pak38_2;5 cm AT PaK38
 germ_at_gun_pak40_shop;7.5 cm PaK 40
 germ_at_gun_pak40_0;7.5 cm anti-tank gun PaK40
 germ_at_gun_pak40_1;7.5 cm AT PaK40
-germ_at_gun_pak40_2;Anti-tank gun
+germ_at_gun_pak40_2;7.5 cm AT PaK40
 uk_at_gun_qf6pounder_0;6-pounder anti-tank gun
 uk_at_gun_qf6pounder_1;6pdr AT
-uk_at_gun_qf6pounder_2;Anti-tank gun
+uk_at_gun_qf6pounder_2;6pdr AT
 uk_at_gun_qf17pounder_0;17-pounder anti-tank gun
 uk_at_gun_qf17pounder_1;17pdr AT
-uk_at_gun_qf17pounder_2;Anti-tank gun
+uk_at_gun_qf17pounder_2;17pdr AT
 us_at_gun_m1_0;57 mm anti-tank gun M1
 us_at_gun_m1_1;57 mm AT M1
-us_at_gun_m1_2;Anti-tank gun
+us_at_gun_m1_2;57 mm AT M1
 us_at_m40_0;106 mm anti-tank gun М40
 us_at_m40_1;106 mm AT М40
-us_at_m40_2;Anti-tank gun
+us_at_m40_2;106 mm AT М40
 ussr_at_gun_53k_0;45 mm anti-tank gun mod. 1937 (53-K)
 ussr_at_gun_53k_1;45 mm AT 53-K
-ussr_at_gun_53k_2;Anti-tank gun
+ussr_at_gun_53k_2;45 mm AT 53-K
 ussr_at_spg_9_0;73 mm anti-tank gun SPG-9
 ussr_at_spg_9_1;73 mm AT SPG-9
-ussr_at_spg_9_2;Anti-tank gun
+ussr_at_spg_9_2;73 mm AT SPG-9
 jp_at_37mm_type_1_0;37 mm anti-tank gun Type 1
 jp_at_37mm_type_1_1;37 mm AT Type 1
-jp_at_37mm_type_1_2;Anti-tank gun
+jp_at_37mm_type_1_2;37 mm AT Type 1
 us_tucumcari_pgh2_shop;USS Tucumcari
 us_tucumcari_pgh2_0;USS Tucumcari (PGH-2)
 us_tucumcari_pgh2_1;USS Tucumcari
@@ -13134,9 +13134,9 @@ wheeled_vehicles/us_m939_fuel_carrier_2;Vehicle
 wheeled_vehicles/ussr_9k_72_launcher_0;9K72 Elbrus
 wheeled_vehicles/ussr_9k_72_launcher_1;9K72
 wheeled_vehicles/ussr_9k_72_launcher_2;9K72
-wheeled_vehicles/ussr_bm_21_grad_0;BM-21 MLRS
-wheeled_vehicles/ussr_bm_21_grad_1;BM-21
-wheeled_vehicles/ussr_bm_21_grad_2;BM-21
+wheeled_vehicles/ussr_bm_21_grad_0;BM-21 Grad
+wheeled_vehicles/ussr_bm_21_grad_1;BM-21 Grad
+wheeled_vehicles/ussr_bm_21_grad_2;BM-21 Grad
 wheeled_vehicles/ussr_kamaz_4310_awning_0;KAMAZ-4310
 wheeled_vehicles/ussr_kamaz_4310_awning_1;Vehicle
 wheeled_vehicles/ussr_kamaz_4310_awning_2;Vehicle
@@ -14562,6 +14562,7 @@ us_efv_p1_shop;EFV
 us_efv_p1_0;Expeditionary Fighting Vehicle EFV
 us_efv_p1_1;EFV
 us_efv_p1_2;EFV
+structures/76mm_artillery_support_0;Artillery
 structures/oil_storage_tank;Oil storage tank
 structures/building;Building
 structures/industrial_building;Industrial building
