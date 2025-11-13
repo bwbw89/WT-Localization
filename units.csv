@@ -7536,7 +7536,7 @@ mi_24p_0;Mi-24P "Hind-F"
 mi_24p_1;Mi-24P
 mi_24p_2;Mi-24P
 mi_35m_shop;Mi-35M
-mi_35m_0;Mi-35M "Hind-E"
+mi_35m_0;Mi-35M "Hind-J"
 mi_35m_1;Mi-35M
 mi_35m_2;Mi-35M
 ah_1z_shop;AH-1Z
@@ -10981,7 +10981,7 @@ jp_type_16_mcv_prot_0;Type 16, Prototype
 jp_type_16_mcv_prot_1;Type 16 (P)
 jp_type_16_mcv_prot_2;Type 16 (P)
 mig_23bn_shop;◊MiG-23BN
-mig_23bn_0;◊MiG-23BN "Flogger-D"
+mig_23bn_0;◊MiG-23BN "Flogger-H"
 mig_23bn_1;◊MiG-23BN
 mig_23bn_2;◊MiG-23BN
 harrier_gr7_shop;Harrier GR.7
@@ -11089,11 +11089,11 @@ us_cyclone_class_cyclone_0;Cyclone-class, USS Cyclone (PC-1)
 us_cyclone_class_cyclone_1;USS Cyclone
 us_cyclone_class_cyclone_2;USS Cyclone
 z_9w_shop;Z-9W
-z_9w_0;Z-9W
+z_9w_0;Z-9W "Haitun"
 z_9w_1;Z-9W
 z_9w_2;Z-9W
 z_9wa_shop;Z-9WA
-z_9wa_0;Z-9WA
+z_9wa_0;Z-9WA "Haitun"
 z_9wa_1;Z-9WA
 z_9wa_2;Z-9WA
 z_10_shop;Z-10
@@ -11845,11 +11845,11 @@ su_22m4_0;◊Su-22M4 "Fitter-K"
 su_22m4_1;◊Su-22M4
 su_22m4_2;◊Su-22M4
 su_25t_shop;Su-25T
-su_25t_0;Su-25T "Frogfoot"
+su_25t_0;Su-25T "Frogfoot-C"
 su_25t_1;Su-25T
 su_25t_2;Su-25T
 su_25tm_shop;Su-39
-su_25tm_0;Su-39 "Frogfoot"
+su_25tm_0;Su-39 "Frogfoot-C"
 su_25tm_1;Su-39
 su_25tm_2;Su-39
 saab_ajs37_shop;AJS37
@@ -12237,14 +12237,14 @@ it_43m_turan_3_shop;Turan III
 it_43m_turan_3_0;43.M Turan III
 it_43m_turan_3_1;Turan III
 it_43m_turan_3_2;Turan III
-mi_8tv_shop;Mi-8TV
-mi_8tv_0;Mi-8TV "Hip-C"
-mi_8tv_1;Mi-8TV
-mi_8tv_2;Mi-8TV
-mi_8tb_shop;◊Mi-8TB
-mi_8tb_0;◊Mi-8TB "Hip-E"
-mi_8tb_1;◊Mi-8TB
-mi_8tb_2;◊Mi-8TB
+mi_8tv_shop;Mi-8TVK
+mi_8tv_0;Mi-8TVK "Hip-E"
+mi_8tv_1;Mi-8TVK
+mi_8tv_2;Mi-8TVK
+mi_8tb_shop;◊Mi-8TBK
+mi_8tb_0;◊Mi-8TB "Hip-F"
+mi_8tb_1;◊Mi-8TBK
+mi_8tb_2;◊Mi-8TBK
 us_mim_72_chaparral_shop;Chaparral
 us_mim_72_chaparral_0;Improved Chaparral
 us_mim_72_chaparral_1;Chaparral
@@ -12521,7 +12521,7 @@ us_t54e2_0;T54E2
 us_t54e2_1;T54E2
 us_t54e2_2;T54E2
 mig_29_9_12g_shop;◄MiG-29G
-mig_29_9_12g_0;◄MiG-29G Fulcrum
+mig_29_9_12g_0;◄MiG-29G Izdeliye 9.12A "Fulcrum-A"
 mig_29_9_12g_1;◄MiG-29G
 mig_29_9_12g_2;◄MiG-29G
 tiger_had_block2_france_shop;Tiger HAD Block 2
@@ -12561,7 +12561,7 @@ uk_battleship_iron_duke_0;Iron Duke-class, HMS Iron Duke (18), 1928
 uk_battleship_iron_duke_1;HMS Iron Duke
 uk_battleship_iron_duke_2;HMS Iron Duke
 jh_7a_shop;JH-7A
-jh_7a_0;JH-7A Flying Leopard
+jh_7a_0;JH-7A "Flounder"
 jh_7a_1;JH-7A
 jh_7a_2;JH-7A
 mi_8amtsh_shop;Mi-8AMTSh
@@ -12819,7 +12819,7 @@ germ_flakpanzer_zerstorer_45_0;Zerstörer 45
 germ_flakpanzer_zerstorer_45_1;Zerstörer 45
 germ_flakpanzer_zerstorer_45_2;Zerstörer 45
 il_28_hungary_shop;◔IL-28
-il_28_hungary_0;◔IL-28
+il_28_hungary_0;◔IL-28 "Beagle"
 il_28_hungary_1;◔IL-28
 il_28_hungary_2;◔IL-28
 il-10_1946_hungary_shop;◔IL-10
@@ -13037,7 +13037,7 @@ it_leopard_2a7_hungary_1;◔Leopard 2A7HU
 it_leopard_2a7_hungary_2;◔Leopard 2A7HU
 j_11a_shop;J-11A
 j_11a_0;J-11A "Flanker B+"
-j_11a_1;J-11A 
+j_11a_1;J-11A
 j_11a_2;J-11A
 jp_cruiser_haguro_shop;IJN Haguro
 jp_cruiser_haguro_0;Myoko-class, IJN Haguro, 1944
@@ -13048,7 +13048,7 @@ meteor_fmk8_belgium_0;▄Meteor F.8
 meteor_fmk8_belgium_1;▄Meteor F.8
 meteor_fmk8_belgium_2;▄Meteor F.8
 mig-21_bison_shop;▄MiG-21 Bison
-mig-21_bison_0;▄MiG-21 Bison
+mig-21_bison_0;▄MiG-21 Bison "Fishbed"
 mig-21_bison_1;▄MiG-21 Bison
 mig-21_bison_2;▄MiG-21 Bison
 mirage_5ba_shop;▄Mirage 5BA
@@ -13496,7 +13496,7 @@ jp_icv_ifv_prototype_0;Type 24 ICV (P)
 jp_icv_ifv_prototype_1;Type 24 ICV (P)
 jp_icv_ifv_prototype_2;Type 24 ICV (P)
 mi_35m_pakistan_shop;▄Mi-35M
-mi_35m_pakistan_0;▄Mi-35M "Hind-E"
+mi_35m_pakistan_0;▄Mi-35M "Hind-J"
 mi_35m_pakistan_1;▄Mi-35M
 mi_35m_pakistan_2;▄Mi-35M
 mirage_2000_5ei_shop;☀Mirage 2000-5EI
@@ -13995,7 +13995,7 @@ ah_1f_event_0;AH-1F
 ah_1f_event_1;AH-1F
 ah_1f_event_2;AH-1F
 mig-21_bis_event_shop;MiG-21bis
-mig-21_bis_event_0;MiG-21bis
+mig-21_bis_event_0;MiG-21bis "Fishbed-N"
 mig-21_bis_event_1;MiG-21bis
 mig-21_bis_event_2;MiG-21bis
 f_4e_event_shop;F-4E
@@ -14234,7 +14234,7 @@ us_sl_amraam_launcher_0;M1097A2 CLAWS, Transporter Erector Launcher
 us_sl_amraam_launcher_1;CLAWS [TEL]
 us_sl_amraam_launcher_2;CLAWS [TEL]
 mig_29_9_12_sniper_shop;MiG-29 Sniper;
-mig_29_9_12_sniper_0;MiG-29 Sniper;
+mig_29_9_12_sniper_0;MiG-29 Sniper Izdeliye 9.12A "Fulcrum-A";
 mig_29_9_12_sniper_1;MiG-29 Sniper;
 mig_29_9_12_sniper_2;MiG-29 Sniper;
 saab_f35_wdns_shop;Saab F-35
@@ -14381,11 +14381,11 @@ kor_2_0;KOR-2
 kor_2_1;KOR-2
 kor_2_2;KOR-2
 su_24m_killstreak_shop;☢Su-24M
-su_24m_killstreak_0;☢Su-24M
+su_24m_killstreak_0;☢Su-24M "Fencer-D"
 su_24m_killstreak_1;☢Su-24M
 su_24m_killstreak_2;☢Su-24M
 su_24m_china_killstreak_shop;☢Su-24M
-su_24m_china_killstreak_0;☢Su-24M
+su_24m_china_killstreak_0;☢Su-24M "Fencer-D"
 su_24m_china_killstreak_1;☢Su-24M
 su_24m_china_killstreak_2;☢Su-24M
 f_111f_killstreak_shop;☢F-111F
@@ -14408,12 +14408,12 @@ f-5th_thailand_shop;▄F-5TH
 f-5th_thailand_0;▄F-5TH Super Tigris TCU
 f-5th_thailand_1;▄F-5TH
 f-5th_thailand_2;▄F-5TH
-mi_35p_indonesia_shop;◥Mi-35
-mi_35p_indonesia_0;◥Mi-35
-mi_35p_indonesia_1;◥Mi-35
-mi_35p_indonesia_2;◥Mi-35
+mi_35p_indonesia_shop;◥Mi-35P
+mi_35p_indonesia_0;◥Mi-35P "Hind-F"
+mi_35p_indonesia_1;◥Mi-35P
+mi_35p_indonesia_2;◥Mi-35P
 mi_35p_shop;Mi-35P
-mi_35p_0;Mi-35P
+mi_35p_0;Mi-35P "Hind-F"
 mi_35p_1;Mi-35P
 mi_35p_2;Mi-35P
 fa_18a_raaf_shop;▄F/A-18A
@@ -14633,11 +14633,11 @@ mosquito_b_mk16_0;Mosquito B.Mk.XVI
 mosquito_b_mk16_1;Mosquito B.Mk.XVI
 mosquito_b_mk16_2;Mosquito B.Mk.XVI
 jh_7_shop;JH-7
-jh_7_0;JH-7 Block 02 Flying Leopard
+jh_7_0;JH-7 Block 02 "Flounder"
 jh_7_1;JH-7
 jh_7_2;JH-7
 jh_7a_prototype_shop;JH-7A Prototype
-jh_7a_prototype_0;JH-7A (Prototype) Flying Leopard
+jh_7a_prototype_0;JH-7A (Prototype) "Flounder"
 jh_7a_prototype_1;JH-7A Prototype
 jh_7a_prototype_2;JH-7A Prototype
 xf5u_1_shop;XF5U-1
@@ -14670,7 +14670,7 @@ it_c13_tua_0;OTO C13/TUA
 it_c13_tua_1;C13/TUA
 it_c13_tua_2;C13/TUA
 su_30mk2v_venezuela_shop;▄Su-30MK2 AMV
-su_30mk2v_venezuela_0;▄Su-30MK2 AMV
+su_30mk2v_venezuela_0;▄Su-30MK2 AMV "Flanker-G"
 su_30mk2v_venezuela_1;▄Su-30MK2 AMV
 su_30mk2v_venezuela_2;▄Su-30MK2 AMV
 f_15c_golden_eagle_shop;F-15C Golden Eagle
