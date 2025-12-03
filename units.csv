@@ -11608,10 +11608,10 @@ p-36c_rb_shop;P-36C RB
 p-36c_rb_0;P-36C Hawk
 p-36c_rb_1;P-36C RB
 p-36c_rb_2;P-36C RB
-yak_141_shop;Yak-41M
-yak_141_0;Yak-41M "Freestyle"
-yak_141_1;Yak-41M
-yak_141_2;Yak-41M
+yak_141_shop;Yak-41
+yak_141_0;Yak-41 "Freestyle"
+yak_141_1;Yak-41
+yak_141_2;Yak-41
 ussr_m53_59_shop;M53/59
 ussr_m53_59_0;M53/59
 ussr_m53_59_1;M53/59
@@ -12378,7 +12378,7 @@ shop/group/ki_49_2_group;Ki-49 [L]
 shop/group/ki_84_group;Ki-84 [E]
 shop/group/r2y2_group;R2Y2
 shop/group/f-86_japan_group;▅F-86F
-shop/group/db_3_china_group;␗DB-3/SB 2
+shop/group/db_3_china_group;☀DB-3/SB 2
 shop/group/p_40_china_group;☀P-40
 shop/group/p_47_china_group;☀P-47D
 shop/group/p_51_china_group;☀P-51
