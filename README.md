@@ -1,5 +1,7 @@
 # War Thunder Custom Localization (units.csv)
-The purpose of this localization pack in War Thunder is to provide the player with extra information about enemy (and friendly) units in-game that the base localization does not provide. This is especially useful in any gamemode and even custom battles that utilize similar settings to Realistic Battles (RB) in terms of vehicle markers. For example, the base game might show a label of F-4, but will not tell you exactly what model, limiting your ability to judge threats and properly adapt in playstyle. This localization fixes these issues by specifying what exact vehicle is present, such as the Israeli F-4E Kurnass.
+The purpose of this air-focused localization pack in War Thunder is to provide the player with extra information about enemy (and friendly) units in-game that the base localization does not provide. This is especially useful in any gamemode and even custom battles that utilize similar settings to Realistic Battles (RB) in terms of vehicle markers. For example, the base game might show a label of F-4, but will not tell you exactly what model, limiting your ability to judge threats and properly adapt in playstyle. This localization fixes these issues by specifying what exact vehicle is present, such as the Israeli F-4E Kurnass.
+
+Note that is localization is AIR-FOCUSED and generally tries to stick to Gaijin's official namings, even if they are sometimes inaccurate (such as the Challenger 3 (TD)). If there are any suggestions, please leave them in the issues section in GitHub.
 ## First-time Instructions
 1. Click "Download raw file" on units.csv from Github.
 2. Access the War Thunder files on your device's File Explorer.
