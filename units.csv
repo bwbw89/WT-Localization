@@ -7428,7 +7428,7 @@ it_m15_42_0;Fiat-Ansaldo M15/42
 it_m15_42_1;M15/42
 it_m15_42_2;M15/42
 it_semovente_breda_501_shop;Breda 501
-it_semovente_breda_501_0;Semovente Ruotato da 90/52 Breda 501
+it_semovente_breda_501_0;Semovente Ruotato da 90/53 Breda 501
 it_semovente_breda_501_1;Breda 501
 it_semovente_breda_501_2;Breda 501
 it_l3_cc_shop;L3/33 CC
@@ -14944,7 +14944,7 @@ us_battleship_south_dakota_0;South Dakota-class, USS South Dakota (BB-57), 1945
 us_battleship_south_dakota_1;USS South Dakota
 us_battleship_south_dakota_2;USS South Dakota
 fr_frigate_corse_class_corse_shop;Le Corse
-fr_frigate_corse_class_corse_0;Corse-class, Le Corse (F761)
+fr_frigate_corse_class_corse_0;Le Corse-class, Le Corse (F761)
 fr_frigate_corse_class_corse_1;Le Corse
 fr_frigate_corse_class_corse_2;Le Corse
 fr_cruiser_suffren_class_suffren_shop;Suffren
@@ -14983,3 +14983,7 @@ jp_cruiser_oyodo_shop;IJN Oyodo
 jp_cruiser_oyodo_0;Oyodo-class, IJN Oyodo, 1944
 jp_cruiser_oyodo_1;IJN Oyodo
 jp_cruiser_oyodo_2;IJN Oyodo
+us_m8_scott_snowball_shop;Snowballer
+us_m8_scott_snowball_0;Snowballer
+us_m8_scott_snowball_1;Snowballer
+us_m8_scott_snowball_2;Snowballer
