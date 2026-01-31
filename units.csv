@@ -7475,10 +7475,10 @@ ussr_t_72b_shop;T-72B
 ussr_t_72b_0;T-72B
 ussr_t_72b_1;T-72B
 ussr_t_72b_2;T-72B
-ussr_t_90a_shop;Т-90А
-ussr_t_90a_0;Т-90А
-ussr_t_90a_1;Т-90А
-ussr_t_90a_2;Т-90А
+ussr_t_90a_shop;T-90A
+ussr_t_90a_0;T-90A
+ussr_t_90a_1;T-90A
+ussr_t_90a_2;T-90A
 ussr_t_72av_turms_shop;T-72AV (TURMS-T)
 ussr_t_72av_turms_0;T-72AV (TURMS-T)
 ussr_t_72av_turms_1;T-72AV (TURMS-T)
@@ -8425,14 +8425,14 @@ cn_m48a1_patton_III_shop;☀M48A1
 cn_m48a1_patton_III_0;☀90 mm Gun Tank M48A1 Patton III
 cn_m48a1_patton_III_1;☀M48A1
 cn_m48a1_patton_III_2;☀M48A1
-cn_t_62_shop;Т-62 №545
-cn_t_62_0;Т-62 №545
-cn_t_62_1;Т-62 №545
-cn_t_62_2;Т-62 №545
-cn_t_34_85_d_5t_shop;␗Т-34-85 (S-53)
-cn_t_34_85_d_5t_0;␗Т-34-85 (S-53)
-cn_t_34_85_d_5t_1;␗Т-34-85 (S-53)
-cn_t_34_85_d_5t_2;␗Т-34-85 (S-53)
+cn_t_62_shop;T-62 N545
+cn_t_62_0;T-62 N545
+cn_t_62_1;T-62 N545
+cn_t_62_2;T-62 N545
+cn_t_34_85_d_5t_shop;␗T-34-85 (S-53)
+cn_t_34_85_d_5t_0;␗T-34-85 (S-53)
+cn_t_34_85_d_5t_1;␗T-34-85 (S-53)
+cn_t_34_85_d_5t_2;␗T-34-85 (S-53)
 cn_type_58_shop;Т-34-85 Gai
 cn_type_58_0;Т-34-85 Gai
 cn_type_58_1;Т-34-85 Gai
@@ -8766,10 +8766,10 @@ germ_mkpz_m47_shop;mKPz M47 G
 germ_mkpz_m47_0;mKPz M47 G
 germ_mkpz_m47_1;mKPz M47 G
 germ_mkpz_m47_2;mKPz M47 G
-ussr_valentine_mk_9_shop;▂МК-IX "Valentine"
-ussr_valentine_mk_9_0;▂МК-IX "Valentine"
-ussr_valentine_mk_9_1;▂МК-IX "Valentine"
-ussr_valentine_mk_9_2;▂МК-IX "Valentine"
+ussr_valentine_mk_9_shop;▂MK-IX "Valentine"
+ussr_valentine_mk_9_0;▂MK-IX "Valentine"
+ussr_valentine_mk_9_1;▂MK-IX "Valentine"
+ussr_valentine_mk_9_2;▂MK-IX "Valentine"
 ussr_a_12_mk_2_matilda_2A_F96_shop;▂MK-II "Matilda"
 ussr_a_12_mk_2_matilda_2A_F96_0;▂Tank MK-II "Matilda" (F-96)
 ussr_a_12_mk_2_matilda_2A_F96_1;▂MK-II "Matilda"
@@ -8877,10 +8877,10 @@ sw_strv_103a_shop;Strv 103A
 sw_strv_103a_0;Stridsvagn 103A
 sw_strv_103a_1;Strv 103A
 sw_strv_103a_2;Strv 103A
-sw_strv_103c_shop;Strv 103С
-sw_strv_103c_0;Stridsvagn 103С
-sw_strv_103c_1;Strv 103С
-sw_strv_103c_2;Strv 103С
+sw_strv_103c_shop;Strv 103C
+sw_strv_103c_0;Stridsvagn 103C
+sw_strv_103c_1;Strv 103C
+sw_strv_103c_2;Strv 103C
 sw_landsverk_ush_405_shop;U-SH 405
 sw_landsverk_ush_405_0;Landsverk U-SH 405
 sw_landsverk_ush_405_1;U-SH 405
@@ -9247,7 +9247,7 @@ ussr_bmo_0;BMO pr 194
 ussr_bmo_1;BMO
 ussr_bmo_2;BMO
 ussr_d3_shop;D-3
-ussr_d3_0;Pr.P-19-ОК, D-3-class
+ussr_d3_0;Pr.P-19-OK, D-3-class
 ussr_d3_1;D-3
 ussr_d3_2;D-3
 ussr_g5_mtb_shop;G-5
@@ -9502,10 +9502,10 @@ ussr_destroyer_pr20_tashkent_0;Pr.20, Tashkent, 1942
 ussr_destroyer_pr20_tashkent_1;Tashkent
 ussr_destroyer_pr20_tashkent_2;Tashkent
 germ_cruiser_koln_shop;Köln
-germ_cruiser_koln_0;К-class, Köln, 1940
+germ_cruiser_koln_0;K-class, Köln, 1940
 germ_cruiser_koln_1;Köln
 germ_cruiser_koln_2;Köln
-germ_cruiser_koln_EC_0;К-class, Köln, 1940
+germ_cruiser_koln_EC_0;K-class, Köln, 1940
 germ_cruiser_koln_EC_1;Köln
 germ_cruiser_koln_EC_2;Köln
 uk_cruiser_dido_shop;HMS Dido
@@ -10128,7 +10128,7 @@ uk_destroyer_g_garland_0;G-class, ORP Garland (H37), 1942
 uk_destroyer_g_garland_1;ORP Garland
 uk_destroyer_g_garland_2;ORP Garland
 uk_dark_class_mtb_td_shop;Dark Aggressor TD
-uk_dark_class_mtb_td_0;Dark-сlass, Dark Aggressor (FPB 1102) TD
+uk_dark_class_mtb_td_0;Dark-class, Dark Aggressor (FPB 1102) TD
 uk_dark_class_mtb_td_1;Dark Aggressor TD
 uk_dark_class_mtb_td_2;Dark Aggressor TD
 germ_battlecruiser_von_der_tann_shop;SMS Von der Tann
@@ -10248,7 +10248,7 @@ uk_destroyer_v_class_vega_0;V-class, HMS Vega (L41), 1944
 uk_destroyer_v_class_vega_1;HMS Vega
 uk_destroyer_v_class_vega_2;HMS Vega
 germ_cruiser_karlsruhe_shop;Karlsruhe
-germ_cruiser_karlsruhe_0;К-class, Karlsruhe, 1940
+germ_cruiser_karlsruhe_0;K-class, Karlsruhe, 1940
 germ_cruiser_karlsruhe_1;Karlsruhe
 germ_cruiser_karlsruhe_2;Karlsruhe
 jp_cruiser_aoba_shop;IJN Aoba
@@ -12177,10 +12177,10 @@ fr_leclerc_azur_shop;Leclerc AZUR
 fr_leclerc_azur_0;Leclerc AZUR
 fr_leclerc_azur_1;Leclerc AZUR
 fr_leclerc_azur_2;Leclerc AZUR
-loire_130_shop;Loire 130С
-loire_130_0;Loire 130С
-loire_130_1;Loire 130С
-loire_130_2;Loire 130С
+loire_130_shop;Loire 130C
+loire_130_0;Loire 130C
+loire_130_1;Loire 130C
+loire_130_2;Loire 130C
 it_btr_80a_hungary_shop;◔BTR-80A
 it_btr_80a_hungary_0;◔BTR-80A
 it_btr_80a_hungary_1;◔BTR-80A
@@ -13771,10 +13771,10 @@ uk_tracked_rapier_shop;Rapier
 uk_tracked_rapier_0;Tracked Rapier Launch Vehicle RCM 748
 uk_tracked_rapier_1;Rapier
 uk_tracked_rapier_2;Rapier
-it_c1_ariete_certezza_shop;Ariete Сertezza
-it_c1_ariete_certezza_0;C1 Ariete Сertezza
-it_c1_ariete_certezza_1;Ariete Сertezza
-it_c1_ariete_certezza_2;Ariete Сertezza
+it_c1_ariete_certezza_shop;Ariete Certezza
+it_c1_ariete_certezza_0;C1 Ariete Certezza
+it_c1_ariete_certezza_1;Ariete Certezza
+it_c1_ariete_certezza_2;Ariete Certezza
 su_30sm_shop;Su-30SM
 su_30sm_0;Su-30SM "Flanker-H"
 su_30sm_1;Su-30SM
@@ -14213,10 +14213,10 @@ fr_msc_shop;MSC
 fr_msc_0;Mulet Systéme Complet
 fr_msc_1;MSC
 fr_msc_2;MSC
-c_3604_shop;◌С-3604
-c_3604_0;◌С-3604
-c_3604_1;◌С-3604
-c_3604_2;◌С-3604
+c_3604_shop;◌C-3604
+c_3604_0;◌C-3604
+c_3604_1;◌C-3604
+c_3604_2;◌C-3604
 z_10a_shop;Z-10A
 z_10a_0;Z-10A
 z_10a_1;Z-10A
@@ -14577,10 +14577,10 @@ germ_leopard_2a4m_can_sm_shop;◍Leopard 2A4M
 germ_leopard_2a4m_can_sm_0;◍Leopard 2A4M CAN
 germ_leopard_2a4m_can_sm_1;◍Leopard 2A4M
 germ_leopard_2a4m_can_sm_2;◍Leopard 2A4M
-ussr_t_80ue1_sm_shop;◍Т-80U-Е1
-ussr_t_80ue1_sm_0;◍Т-80U-Е1
-ussr_t_80ue1_sm_1;◍Т-80U-Е1
-ussr_t_80ue1_sm_2;◍Т-80U-Е1
+ussr_t_80ue1_sm_shop;◍T-80U-E1
+ussr_t_80ue1_sm_0;◍T-80U-E1
+ussr_t_80ue1_sm_1;◍T-80U-E1
+ussr_t_80ue1_sm_2;◍T-80U-E1
 us_m1a1_hc_usmc_sm_shop;◍M1A1 HC
 us_m1a1_hc_usmc_sm_0;◍Tank, Combat, Full Tracked, 120-mm Gun M1A1 HC
 us_m1a1_hc_usmc_sm_1;◍M1A1 HC
