@@ -2559,7 +2559,7 @@ fr_hotchkiss_h39_0;Char léger modèle 1935 H modifié 39
 fr_hotchkiss_h39_1;H.39
 fr_hotchkiss_h39_2;H.39
 fr_somua_sau40_shop;SAu 40
-fr_somua_sau40_0;Canon Automoteur DE 75 mm SAu 40
+fr_somua_sau40_0;Canon Automoteur de 75 mm SAu 40
 fr_somua_sau40_1;SAu 40
 fr_somua_sau40_2;SAu 40
 fr_m10_shop;▄M10 GMC
@@ -12947,10 +12947,10 @@ us_flagstaff_pgh1_shop;USS Flagstaff
 us_flagstaff_pgh1_0;USS Flagstaff (PGH-1)
 us_flagstaff_pgh1_1;USS Flagstaff
 us_flagstaff_pgh1_2;USS Flagstaff
-yak-3_eremin_shop;Yak-3
-yak-3_eremin_0;Eremin's Yak-3
-yak-3_eremin_1;Yak-3
-yak-3_eremin_2;Yak-3
+yak-3_eremin_shop;Eremin's Yak-3(e)
+yak-3_eremin_0;Eremin's Yak-3(e)
+yak-3_eremin_1;Yak-3(e)
+yak-3_eremin_2;Yak-3(e)
 amx_a_1a_brazil_shop;AMX A-1A
 amx_a_1a_brazil_0;AMX A-1A Ghibli
 amx_a_1a_brazil_1;AMX A-1A
@@ -14751,7 +14751,7 @@ fr_battleship_richelieu_class_clemenceau_0;Richelieu-class, Clemenceau, project
 fr_battleship_richelieu_class_clemenceau_1;Clemenceau
 fr_battleship_richelieu_class_clemenceau_2;Clemenceau
 jp_pc301_kari_class_shop;Kari
-jp_pc301_kari_class_0;Kari-class, Кari (PC-301)
+jp_pc301_kari_class_0;Kari-class, Kari (PC-301)
 jp_pc301_kari_class_1;Kari
 jp_pc301_kari_class_2;Kari
 us_pgm_9_class_shop;PGM-9
@@ -14852,7 +14852,7 @@ rafale_m_f3r_0;Rafale M F3-R
 rafale_m_f3r_1;Rafale M
 rafale_m_f3r_2;Rafale M
 uk_ajax_shop;Ajax
-uk_ajax_0;AFV Ajax
+uk_ajax_0;Ajax AFV
 uk_ajax_1;Ajax
 uk_ajax_2;Ajax
 uk_boxer_crv_block2_shop;CRV Block 2
@@ -14999,3 +14999,7 @@ ussr_t_72b3_arena_shop;T-72B3 "Arena"
 ussr_t_72b3_arena_0;T-72B3 "Arena"
 ussr_t_72b3_arena_1;T-72B3 "Arena"
 ussr_t_72b3_arena_2;T-72B3 "Arena"
+f_16a_block_5_netherlands_shop;◘F-16A
+f_16a_block_5_netherlands_0;◘F-16A Block 5 Fighting Falcon
+f_16a_block_5_netherlands_1;◘F-16A
+f_16a_block_5_netherlands_2;◘F-16A
