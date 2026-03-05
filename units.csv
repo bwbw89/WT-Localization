@@ -3236,7 +3236,7 @@ spitfire_xvi_shop;Spitfire F Mk XVI
 spitfire_xvi_0;Spitfire F Mk XVI
 spitfire_xvi_1;Spitfire F Mk XVI
 spitfire_xvi_2;Spitfire F Mk XVI
-spitfire_lf_mk9e_weisman_shop;Spitfire LF Mk IXe
+spitfire_lf_mk9e_weisman_shop;Weizman's Spitfire LF Mk IXe
 spitfire_lf_mk9e_weisman_0;Ezer Weizman's Spitfire LF Mk IXe
 spitfire_lf_mk9e_weisman_1;Spitfire LF Mk IXe
 spitfire_lf_mk9e_weisman_2;Spitfire LF Mk IXe
@@ -3940,7 +3940,7 @@ p-63c-5_0;P-63C-5 Kingcobra
 p-63c-5_1;P-63C-5
 p-63c-5_2;P-63C-5
 p-63c-5_kingcobra_animal_version_shop;␠Kingcobra
-p-63c-5_kingcobra_animal_version_0;␠P-63C-5
+p-63c-5_kingcobra_animal_version_0;␠P-63C-5 Kingcobra
 p-63c-5_kingcobra_animal_version_1;␠P-63C-5
 p-63c-5_kingcobra_animal_version_2;␠P-63C-5
 su-2_m82_shop;Su-2 (M-82)
@@ -5608,7 +5608,7 @@ gladiator_mk2_navy_shop;Sea Gladiator Mk I
 gladiator_mk2_navy_0;Sea Gladiator Mk I
 gladiator_mk2_navy_1;Sea Gladiator Mk I
 gladiator_mk2_navy_2;Sea Gladiator Mk I
-spitfire_fr_mk14e_shop;Spitfire FR Mk XIVe
+spitfire_fr_mk14e_shop;Prendergast's Spitfire FR Mk XIVe
 spitfire_fr_mk14e_0;Prendergast's Spitfire FR Mk XIVe
 spitfire_fr_mk14e_1;Spitfire FR Mk XIVe
 spitfire_fr_mk14e_2;Spitfire FR Mk XIVe
@@ -6592,7 +6592,7 @@ d_501_2;D.501
 d_510_shop;Pallier's D.510
 d_510_0;Pallier's D.510
 d_510_1;Pallier's D.510
-d_510_2;D.510
+d_510_2;Pallier's D.510
 mb_162_shop;M.B.162
 mb_162_0;M.B.162
 mb_162_1;M.B.162
@@ -8154,8 +8154,8 @@ saab_j21ra_1;J21RA
 saab_j21ra_2;J21RA
 gladiator_j8a_iacobi_shop;Iacobi's J8A
 gladiator_j8a_iacobi_0;Iacobi's J8A
-gladiator_j8a_iacobi_1;J8A
-gladiator_j8a_iacobi_2;J8A
+gladiator_j8a_iacobi_1;Iacobi's J8A
+gladiator_j8a_iacobi_2;Iacobi's J8A
 saab_b3c_shop;B3C
 saab_b3c_0;B3C
 saab_b3c_1;B3C
@@ -11604,10 +11604,10 @@ i-15bis_krasnolutsky_shop;Krasnolutsky's I-15bis
 i-15bis_krasnolutsky_0;Krasnolutsky's I-15bis
 i-15bis_krasnolutsky_1;I-15bis
 i-15bis_krasnolutsky_2;I-15bis
-p-36c_rb_shop;P-36C RB
+p-36c_rb_shop;○P-36C
 p-36c_rb_0;P-36C Hawk
-p-36c_rb_1;P-36C RB
-p-36c_rb_2;P-36C RB
+p-36c_rb_1;○P-36C
+p-36c_rb_2;○P-36C
 yak_141_shop;Yak-141
 yak_141_0;Yak-141
 yak_141_1;Yak-141
