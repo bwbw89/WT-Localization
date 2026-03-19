@@ -2897,10 +2897,10 @@ bf-109k-4_shop;Bf 109 K-4
 bf-109k-4_0;Bf 109 K-4
 bf-109k-4_1;Bf 109 K-4
 bf-109k-4_2;Bf 109 K-4
-s_199_shop;S-199
-s_199_0;S-199 Sakeen
-s_199_1;S-199
-s_199_2;S-199
+s_199_shop;S-199
+s_199_0;S-199 Sakeen
+s_199_1;S-199
+s_199_2;S-199
 bf-110c-4_shop;Bf 110 C-7
 bf-110c-4_0;Bf 110 C-7
 bf-110c-4_1;Bf 110 C-7
@@ -4740,11 +4740,11 @@ a_4e_early_0;A-4E Skyhawk Early
 a_4e_early_1;A-4E [E]
 a_4e_early_2;A-4E [E]
 a_4e_late_iaf_shop;A-4E [L]
-a_4e_late_iaf_0;A-4E Late Ayit
+a_4e_late_iaf_0;A-4E Ayit Late
 a_4e_late_iaf_1;A-4E [L]
 a_4e_late_iaf_2;A-4E [L]
 a_4e_early_iaf_shop;A-4E [E]
-a_4e_early_iaf_0;A-4E Early (M) Ayit
+a_4e_early_iaf_0;A-4E Ayit Early (M) 
 a_4e_early_iaf_1;A-4E [E]
 a_4e_early_iaf_2;A-4E [E]
 a_7d_shop;A-7D
@@ -4755,10 +4755,10 @@ a_7e_shop;A-7E
 a_7e_0;A-7E Corsair II
 a_7e_1;A-7E
 a_7e_2;A-7E
-a_4h_shop;A-4H
-a_4h_0;A-4H Ayit
-a_4h_1;A-4H
-a_4h_2;A-4H
+a_4h_shop;A-4H
+a_4h_0;A-4H Ayit
+a_4h_1;A-4H
+a_4h_2;A-4H
 f8u-2_shop;F8U-2
 f8u-2_0;F8U-2 Crusader II
 f8u-2_1;F8U-2
@@ -6735,10 +6735,10 @@ mirage_3e_shop;Mirage IIIE
 mirage_3e_0;Mirage IIIE
 mirage_3e_1;Mirage IIIE
 mirage_3e_2;Mirage IIIE
-mirage_3cj_shop;Mirage IIICJ
-mirage_3cj_0;Mirage IIICJ Shahak
-mirage_3cj_1;Mirage IIICJ
-mirage_3cj_2;Mirage IIICJ
+mirage_3cj_shop;Mirage IIICJ
+mirage_3cj_0;Mirage IIICJ Shahak
+mirage_3cj_1;Mirage IIICJ
+mirage_3cj_2;Mirage IIICJ
 kfir_c7_shop;Kfir C.7
 kfir_c7_0;Kfir C.7
 kfir_c7_1;Kfir C.7
@@ -11556,10 +11556,10 @@ tornado_ids_de_assta1_shop;◄Tornado IDS
 tornado_ids_de_assta1_0;◄Tornado IDS ASSTA1
 tornado_ids_de_assta1_1;◄Tornado IDS ASSTA1
 tornado_ids_de_assta1_2;◄Tornado IDS ASSTA1
-saab_j35xs_shop;J35XS
-saab_j35xs_0;J35XS Draken
-saab_j35xs_1;J35XS
-saab_j35xs_2;J35XS
+saab_j35xs_shop;Saab J35XS
+saab_j35xs_0;Saab J35XS Draken
+saab_j35xs_1;Saab J35XS
+saab_j35xs_2;Saab J35XS
 us_aircraftcarrier_saratoga_shop;USS Saratoga
 us_aircraftcarrier_saratoga_0;Lexington-class, USS Saratoga (CV-3), 1942
 us_aircraftcarrier_saratoga_1;USS Saratoga
@@ -12401,7 +12401,7 @@ shop/group/bf_109g_sweden_group;▄Bf 109G
 shop/group/vampire_fb_group;Vampire
 shop/group/a_4_iaf_group;A-4
 shop/group/so_4050_vautour_iaf_group;S.O.4050 Vautour II
-shop/group/md_460_iaf_group;Super Mystere
+shop/group/md_460_iaf_group;Super Mystere B2
 jp_type_10_prototype_shop;TKX (P)
 jp_type_10_prototype_0;TKX (P)
 jp_type_10_prototype_1;TKX (P)
@@ -13379,10 +13379,10 @@ f_15e_shop;F-15E
 f_15e_0;F-15E Strike Eagle
 f_15e_1;F-15E
 f_15e_2;F-15E
-f_15i_raam_shop;F-15I
-f_15i_raam_0;F-15I Ra'am
-f_15i_raam_1;F-15I
-f_15i_raam_2;F-15I
+f_15i_raam_shop;F-15I
+f_15i_raam_0;F-15I Ra'am
+f_15i_raam_1;F-15I
+f_15i_raam_2;F-15I
 fr_battleship_dunkerque_shop;Dunkerque
 fr_battleship_dunkerque_0;Dunkerque-class, Dunkerque, 1939
 fr_battleship_dunkerque_1;Dunkerque
@@ -13504,11 +13504,11 @@ mirage_2000d_rmv_0;Mirage 2000D-RMV
 mirage_2000d_rmv_1;Mirage 2000D-RMV
 mirage_2000d_rmv_2;Mirage 2000D-RMV
 saab_ja37di_shop;JA37DI
-saab_ja37di_0;JA37DI Jaktviggen
+saab_ja37di_0;JA37DI Viggen
 saab_ja37di_1;JA37DI
 saab_ja37di_2;JA37DI
 saab_ja37di_f21_shop;JA37DI F21
-saab_ja37di_f21_0;JA37DI Jaktviggen F21
+saab_ja37di_f21_0;JA37DI Viggen F21
 saab_ja37di_f21_1;JA37DI F21
 saab_ja37di_f21_2;JA37DI F21
 shop/group/germ_roland_osa_group;Roland/Osa
@@ -14234,7 +14234,7 @@ mig_29_9_12_sniper_0;MiG-29 Sniper Izdeliye 9.12A
 mig_29_9_12_sniper_1;MiG-29 Sniper
 mig_29_9_12_sniper_2;MiG-29 Sniper
 saab_f35_wdns_shop;Saab F-35
-saab_f35_wdns_0;F-35 Draken
+saab_f35_wdns_0;Saab F-35 Draken
 saab_f35_wdns_1;Saab F-35
 saab_f35_wdns_2;Saab F-35
 ussr_aircraftcarrier_admiral_kuznetsov_shop;Admiral Kuznetsov
@@ -14428,10 +14428,10 @@ f_16a_block_15_ocu_belgium_shop;▄F-16A OCU
 f_16a_block_15_ocu_belgium_0;▄F-16A Block 15 OCU Fighting Falcon
 f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BEL]
 f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BEL]
-f_16i_sufa_shop;F-16I
-f_16i_sufa_0;F-16I Sufa
-f_16i_sufa_1;F-16I
-f_16i_sufa_2;F-16I
+f_16i_sufa_shop;F-16I
+f_16i_sufa_0;F-16I Sufa
+f_16i_sufa_1;F-16I
+f_16i_sufa_2;F-16I
 tornado_ids_de_assta1_killstreak_shop;☢Tornado IDS ASSTA1
 tornado_ids_de_assta1_killstreak_0;☢Tornado IDS ASSTA1
 tornado_ids_de_assta1_killstreak_1;☢Tornado IDS
