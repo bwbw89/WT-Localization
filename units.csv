@@ -4735,18 +4735,18 @@ a_4b_shop;A-4B
 a_4b_0;A-4B Skyhawk
 a_4b_1;A-4B
 a_4b_2;A-4B
-a_4e_early_shop;A-4E
-a_4e_early_0;A-4E Skyhawk
-a_4e_early_1;A-4E
-a_4e_early_2;A-4E
-a_4e_late_iaf_shop;A-4E
-a_4e_late_iaf_0;A-4E Ayit
-a_4e_late_iaf_1;A-4E
-a_4e_late_iaf_2;A-4E
-a_4e_early_iaf_shop;A-4E (M)
-a_4e_early_iaf_0;A-4E (M) Ayit
-a_4e_early_iaf_1;A-4E (M)
-a_4e_early_iaf_2;A-4E (M)
+a_4e_early_shop;A-4E [E]
+a_4e_early_0;A-4E Skyhawk Early
+a_4e_early_1;A-4E [E]
+a_4e_early_2;A-4E [E]
+a_4e_late_iaf_shop;A-4E [L]
+a_4e_late_iaf_0;A-4E Late Ayit
+a_4e_late_iaf_1;A-4E [L]
+a_4e_late_iaf_2;A-4E [L]
+a_4e_early_iaf_shop;A-4E [E]
+a_4e_early_iaf_0;A-4E Early (M) Ayit
+a_4e_early_iaf_1;A-4E [E]
+a_4e_early_iaf_2;A-4E [E]
 a_7d_shop;A-7D
 a_7d_0;A-7D Corsair II
 a_7d_1;A-7D
@@ -6735,10 +6735,10 @@ mirage_3e_shop;Mirage IIIE
 mirage_3e_0;Mirage IIIE
 mirage_3e_1;Mirage IIIE
 mirage_3e_2;Mirage IIIE
-mirage_3cj_shop;Mirage IIICJ
-mirage_3cj_0;Mirage IIICJ Shahak
-mirage_3cj_1;Mirage IIICJ
-mirage_3cj_2;Mirage IIICJ
+mirage_3cj_shop;Mirage IIICJ
+mirage_3cj_0;Mirage IIICJ Shahak
+mirage_3cj_1;Mirage IIICJ
+mirage_3cj_2;Mirage IIICJ
 kfir_c7_shop;Kfir C.7
 kfir_c7_0;Kfir C.7
 kfir_c7_1;Kfir C.7
@@ -11716,10 +11716,10 @@ f-84g-31-re_china_shop;☀F-84G-31
 f-84g-31-re_china_0;☀F-84G-31-RE Thunderjet
 f-84g-31-re_china_1;☀F-84G-31
 f-84g-31-re_china_2;☀F-84G-31
-f-4e_kurnass_2000_shop;Kurnass 2000
+f-4e_kurnass_2000_shop;F-4E Kurnass 2000
 f-4e_kurnass_2000_0;F-4E Kurnass 2000
-f-4e_kurnass_2000_1;Kurnass 2000
-f-4e_kurnass_2000_2;Kurnass 2000
+f-4e_kurnass_2000_1;F-4E Kurnass 2000
+f-4e_kurnass_2000_2;F-4E Kurnass 2000
 it_battleship_caio_duilio_shop;RN Duilio
 it_battleship_caio_duilio_0;Duilio-class, RN Duilio, 1942
 it_battleship_caio_duilio_1;RN Duilio
@@ -14428,10 +14428,10 @@ f_16a_block_15_ocu_belgium_shop;▄F-16A OCU
 f_16a_block_15_ocu_belgium_0;▄F-16A Block 15 OCU Fighting Falcon
 f_16a_block_15_ocu_belgium_1;▄F-16A OCU [BEL]
 f_16a_block_15_ocu_belgium_2;▄F-16A OCU [BEL]
-f_16i_sufa_shop;F-16I
-f_16i_sufa_0;F-16I Sufa
-f_16i_sufa_1;F-16I
-f_16i_sufa_2;F-16I
+f_16i_sufa_shop;F-16I
+f_16i_sufa_0;F-16I Sufa
+f_16i_sufa_1;F-16I
+f_16i_sufa_2;F-16I
 tornado_ids_de_assta1_killstreak_shop;☢Tornado IDS ASSTA1
 tornado_ids_de_assta1_killstreak_0;☢Tornado IDS ASSTA1
 tornado_ids_de_assta1_killstreak_1;☢Tornado IDS
