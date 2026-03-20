@@ -2833,10 +2833,10 @@ arado-234_shop;Ar 234 B-2
 arado-234_0;Ar 234 B-2
 arado-234_1;Ar 234 B-2
 arado-234_2;Ar 234 B-2
-b-17g_shop;B-17G-60
+b-17g_shop;B-17G-60-VE
 b-17g_0;B-17G-60-VE Flying Fortress
-b-17g_1;B-17G-60
-b-17g_2;B-17G-60
+b-17g_1;B-17G-60-VE
+b-17g_2;B-17G-60-VE
 b-17g_iaf_shop;B-17G
 b-17g_iaf_0;B-17G Flying Fortress
 b-17g_iaf_1;B-17G
@@ -3119,10 +3119,10 @@ li-2_shop;Li-2
 li-2_0;Li-2
 li-2_1;Li-2
 li-2_2;Li-2
-mc-202_shop;▀C.202
-mc-202_0;▀C.202 Folgore
-mc-202_1;▀C.202
-mc-202_2;▀C.202
+mc-202_shop;C.202
+mc-202_0;C.202 Folgore
+mc-202_1;C.202
+mc-202_2;C.202
 shop/group/me-163_group;Me 163
 me-163b_shop;Me 163 B
 me-163b_0;Me 163 B
@@ -3159,10 +3159,10 @@ p-47d_23_re_shop;▄P-47D-23
 p-47d_23_re_0;▄P-47D-23-RE Thunderbolt
 p-47d_23_re_1;▄P-47D-23
 p-47d_23_re_2;▄P-47D-23
-p-47d_16_re_germany_shop;▀P-47D-16
+p-47d_16_re_germany_shop;▀P-47D-16-RE
 p-47d_16_re_germany_0;▀P-47D-16-RE Thunderbolt
-p-47d_16_re_germany_1;▀P-47D-16
-p-47d_16_re_germany_2;▀P-47D-16
+p-47d_16_re_germany_1;▀P-47D-16-RE
+p-47d_16_re_germany_2;▀P-47D-16-RE
 p-47d_luftwaffe_shop;▀P-47D-25
 p-47d_luftwaffe_0;▀P-47D-25 Thunderbolt
 p-47d_luftwaffe_1;▀P-47D-25
@@ -3298,7 +3298,7 @@ p-40e_0;P-40E-1 Warhawk
 p-40e_1;P-40E-1
 p-40e_2;P-40E-1
 p-40e_td_shop;P-40E-1 TD
-p-40e_td_0;P-40E-1 Warhawk TD
+p-40e_td_0;P-40E-1 Warhawk (Twitch Drops)
 p-40e_td_1;P-40E-1 TD
 p-40e_td_2;P-40E-1 TD
 p-40c_shop;P-40C
@@ -3310,10 +3310,10 @@ p-40c_china_0;☀H-81A-2
 p-40c_china_1;☀H-81A-2
 p-40c_china_2;☀H-81A-2
 shop/group/p-39_group;P-39
-p-39n_su_shop;▂Pokryshkin's P-39N-0
-p-39n_su_0;▂Pokryshkin's P-39N-0 Airacobra
-p-39n_su_1;▂P-39N-0
-p-39n_su_2;▂P-39N-0
+p-39n_su_shop;☭Pokryshkin's P-39N-0
+p-39n_su_0;☭Pokryshkin's P-39N-0 Airacobra
+p-39n_su_1;☭Pokryshkin's P-39N-0
+p-39n_su_2;☭Pokryshkin's P-39N-0
 ju-88a-4_shop;Ju 88 A-4
 ju-88a-4_0;Ju 88 A-4
 ju-88a-4_1;Ju 88 A-4
@@ -3339,10 +3339,10 @@ a6m5_zero_shop;A6M5
 a6m5_zero_0;A6M5 Reisen
 a6m5_zero_1;A6M5
 a6m5_zero_2;A6M5
-b_24d_shop;B-24D-25
+b_24d_shop;B-24D-25-CO
 b_24d_0;B-24D-25-CO Liberator
-b_24d_1;B-24D-25
-b_24d_2;B-24D-25
+b_24d_1;B-24D-25-CO
+b_24d_2;B-24D-25-CO
 pb4y-2_shop;PB4Y-2
 pb4y-2_0;PB4Y-2 Privateer
 pb4y-2_1;PB4Y-2
@@ -3448,18 +3448,18 @@ f6f-3_shop;F6F-5
 f6f-3_0;F6F-5 Hellcat
 f6f-3_1;F6F-5
 f6f-3_2;F6F-5
-fiat_cr42_shop;▀CR.42
-fiat_cr42_0;▀CR.42 Falco
-fiat_cr42_1;▀CR.42
-fiat_cr42_2;▀CR.42
-fiat_g50_seria2_shop;▀G.50 Serie 2
-fiat_g50_seria2_0;▀G.50 Freccia Serie 2
-fiat_g50_seria2_1;▀G.50 Serie 2
-fiat_g50_seria2_2;▀G.50 Serie 2
-fiat_g50_seria7as_shop;▀G.50 AS Serie 7
-fiat_g50_seria7as_0;▀G.50 Freccia AS Serie 7
-fiat_g50_seria7as_1;▀G.50 AS Serie 7
-fiat_g50_seria7as_2;▀G.50 AS Serie 7
+fiat_cr42_shop;CR.42
+fiat_cr42_0;CR.42 Falco
+fiat_cr42_1;CR.42
+fiat_cr42_2;CR.42
+fiat_g50_seria2_shop;G.50 Serie 2
+fiat_g50_seria2_0;G.50 Freccia Serie 2
+fiat_g50_seria2_1;G.50 Serie 2
+fiat_g50_seria2_2;G.50 Serie 2
+fiat_g50_seria7as_shop;G.50 AS Serie 7
+fiat_g50_seria7as_0;G.50 Freccia AS Serie 7
+fiat_g50_seria7as_1;G.50 AS Serie 7
+fiat_g50_seria7as_2;G.50 AS Serie 7
 g4m1_shop;G4M1
 g4m1_0;G4M1
 g4m1_1;G4M1
@@ -3520,14 +3520,14 @@ lancaster_mk3_shop;Lancaster B Mk III
 lancaster_mk3_0;Lancaster B Mk III
 lancaster_mk3_1;Lancaster B Mk III
 lancaster_mk3_2;Lancaster B Mk III
-mc200_serie3_shop;▀C.200 Serie 3
-mc200_serie3_0;▀C.200 Saetta Serie 3
-mc200_serie3_1;▀C.200 Serie 3
-mc200_serie3_2;▀C.200 Serie 3
-mc200_serie7_shop;▀C.200 Serie 7
-mc200_serie7_0;▀C.200 Saetta Serie 7
-mc200_serie7_1;▀C.200 Serie 7
-mc200_serie7_2;▀C.200 Serie 7
+mc200_serie3_shop;C.200 Serie 3
+mc200_serie3_0;C.200 Saetta Serie 3
+mc200_serie3_1;C.200 Serie 3
+mc200_serie3_2;C.200 Serie 3
+mc200_serie7_shop;C.200 Serie 7
+mc200_serie7_0;C.200 Saetta Serie 7
+mc200_serie7_1;C.200 Serie 7
+mc200_serie7_2;C.200 Serie 7
 mosquito_fb_mk6_shop;Mosquito FB Mk VI
 mosquito_fb_mk6_0;Mosquito FB Mk VI
 mosquito_fb_mk6_1;Mosquito FB Mk VI
@@ -3552,18 +3552,18 @@ p-38g_shop;P-38G-1
 p-38g_0;P-38G-1 Lightning
 p-38g_1;P-38G-1
 p-38g_2;P-38G-1
-p-39k_1_shop;▂P-39K-1
-p-39k_1_0;▂P-39K-1 Airacobra
-p-39k_1_1;▂P-39K-1
-p-39k_1_2;▂P-39K-1
+p-39k_1_shop;☭P-39K-1
+p-39k_1_0;☭P-39K-1 Airacobra
+p-39k_1_1;☭P-39K-1
+p-39k_1_2;☭P-39K-1
 p-39n_shop;P-39N-0
 p-39n_0;P-39N-0 Airacobra
 p-39n_1;P-39N-0
 p-39n_2;P-39N-0
-p-39q_15_shop;▂P-39Q-15
-p-39q_15_0;▂P-39Q-15 Airacobra
-p-39q_15_1;▂P-39Q-15
-p-39q_15_2;▂P-39Q-15
+p-39q_15_shop;☭P-39Q-15
+p-39q_15_0;☭P-39Q-15 Airacobra
+p-39q_15_1;☭P-39Q-15
+p-39q_15_2;☭P-39Q-15
 p-39q_5_shop;P-39Q-5
 p-39q_5_0;P-39Q-5 Airacobra
 p-39q_5_1;P-39Q-5
@@ -3705,42 +3705,42 @@ b_26_shop;B-26
 b_26_0;B-26 Marauder
 b_26_1;B-26
 b_26_2;B-26
-b-29_shop;B-29A
+b-29_shop;B-29A-BN
 b-29_0;B-29A-BN Superfortress
-b-29_1;B-29A
-b-29_2;B-29A
-b-29_killstreak_shop;☢B-29A
+b-29_1;B-29A-BN
+b-29_2;B-29A-BN
+b-29_killstreak_shop;☢B-29A-BN
 b-29_killstreak_0;☢B-29A-BN Superfortress
-b-29_killstreak_1;☢B-29A
-b-29_killstreak_2;☢B-29A
-b-29_france_killstreak_shop;☢B-29A
+b-29_killstreak_1;☢B-29A-BN
+b-29_killstreak_2;☢B-29A-BN
+b-29_france_killstreak_shop;☢B-29A-BN
 b-29_france_killstreak_0;☢B-29A-BN Superfortress
-b-29_france_killstreak_1;☢B-29A
-b-29_france_killstreak_2;☢B-29A
-b-29_japan_killstreak_shop;☢B-29A
+b-29_france_killstreak_1;☢B-29A-BN
+b-29_france_killstreak_2;☢B-29A-BN
+b-29_japan_killstreak_shop;☢B-29A-BN
 b-29_japan_killstreak_0;☢B-29A-BN Superfortress
-b-29_japan_killstreak_1;☢B-29A
-b-29_japan_killstreak_2;☢B-29A
-b-29_sweden_killstreak_shop;☢B-29A
+b-29_japan_killstreak_1;☢B-29A-BN
+b-29_japan_killstreak_2;☢B-29A-BN
+b-29_sweden_killstreak_shop;☢B-29A-BN
 b-29_sweden_killstreak_0;☢B-29A-BN Superfortress
-b-29_sweden_killstreak_1;☢B-29A
-b-29_sweden_killstreak_2;☢B-29A
-b-29_uk_killstreak_shop;☢B-29A
+b-29_sweden_killstreak_1;☢B-29A-BN
+b-29_sweden_killstreak_2;☢B-29A-BN
+b-29_uk_killstreak_shop;☢B-29A-BN
 b-29_uk_killstreak_0;☢B-29A-BN Superfortress
-b-29_uk_killstreak_1;☢B-29A
-b-29_uk_killstreak_2;☢B-29A
-b-29_italy_killstreak_shop;☢B-29A
+b-29_uk_killstreak_1;☢B-29A-BN
+b-29_uk_killstreak_2;☢B-29A-BN
+b-29_italy_killstreak_shop;☢B-29A-BN
 b-29_italy_killstreak_0;☢B-29A-BN Superfortress
-b-29_italy_killstreak_1;☢B-29A
-b-29_italy_killstreak_2;☢B-29A
-b-29_germany_killstreak_shop;☢B-29A
+b-29_italy_killstreak_1;☢B-29A-BN
+b-29_italy_killstreak_2;☢B-29A-BN
+b-29_germany_killstreak_shop;☢B-29A-BN
 b-29_germany_killstreak_0;☢B-29A-BN Superfortress
-b-29_germany_killstreak_1;☢B-29A
-b-29_germany_killstreak_2;☢B-29A
-b-29_iaf_killstreak_shop;☢B-29A
+b-29_germany_killstreak_1;☢B-29A-BN
+b-29_germany_killstreak_2;☢B-29A-BN
+b-29_iaf_killstreak_shop;☢B-29A-BN
 b-29_iaf_killstreak_0;☢B-29A-BN Superfortress
-b-29_iaf_killstreak_1;☢B-29A
-b-29_iaf_killstreak_2;☢B-29A
+b-29_iaf_killstreak_1;☢B-29A-BN
+b-29_iaf_killstreak_2;☢B-29A-BN
 d_520_shop;▄D.520
 d_520_0;▄D.520
 d_520_1;▄D.520
@@ -3935,7 +3935,7 @@ p-63c-5_shop;P-63C-5
 p-63c-5_0;P-63C-5 Kingcobra
 p-63c-5_1;P-63C-5
 p-63c-5_2;P-63C-5
-p-63c-5_kingcobra_animal_version_shop;␠Kingcobra
+p-63c-5_kingcobra_animal_version_shop;␠P-63C-5
 p-63c-5_kingcobra_animal_version_0;␠P-63C-5 Kingcobra
 p-63c-5_kingcobra_animal_version_1;␠P-63C-5
 p-63c-5_kingcobra_animal_version_2;␠P-63C-5
@@ -3959,18 +3959,18 @@ su-7bkl_shop;Su-7BKL
 su-7bkl_0;Su-7BKL
 su-7bkl_1;Su-7BKL
 su-7bkl_2;Su-7BKL
-su-7bmk_shop;Su-7BMK
-su-7bmk_0;Su-7BMK
-su-7bmk_1;Su-7BMK
-su-7bmk_2;Su-7BMK
+su-7bmk_shop;▄Su-7BMK
+su-7bmk_0;▄Su-7BMK
+su-7bmk_1;▄Su-7BMK
+su-7bmk_2;▄Su-7BMK
 su_17m2_shop;Su-17M2
 su_17m2_0;Su-17M2
 su_17m2_1;Su-17M2
 su_17m2_2;Su-17M2
-su_22m3_shop;Su-22M3
-su_22m3_0;Su-22M3
-su_22m3_1;Su-22M3
-su_22m3_2;Su-22M3
+su_22m3_shop;▄Su-22M3
+su_22m3_0;▄Su-22M3
+su_22m3_1;▄Su-22M3
+su_22m3_2;▄Su-22M3
 su-7bkl_killstreak_shop;☢Su-7BKL
 su-7bkl_killstreak_0;☢Su-7BKL
 su-7bkl_killstreak_1;☢Su-7BKL
@@ -4097,16 +4097,16 @@ er-2_m105_mv3_1;Yer-2 (M-105)
 er-2_m105_mv3_2;Yer-2 (M-105)
 er-2_m105_tat_shop;Yer-2 (M-105) TAT
 er-2_m105_tat_0;Yer-2 (M-105) TAT-BT
-er-2_m105_tat_1;Yer-2 (M-105)
-er-2_m105_tat_2;Yer-2 (M-105)
+er-2_m105_tat_1;Yer-2 (M-105) TAT
+er-2_m105_tat_2;Yer-2 (M-105) TAT
 er-2_m105r_lu2b_shop;Yer-2 (M-105R) LU
 er-2_m105r_lu2b_0;Yer-2 (M-105R) LU-MV-2B
-er-2_m105r_lu2b_1;Yer-2 (M-105R)
-er-2_m105r_lu2b_2;Yer-2 (M-105R)
+er-2_m105r_lu2b_1;Yer-2 (M-105R) LU
+er-2_m105r_lu2b_2;Yer-2 (M-105R) LU
 er-2_m105r_tat_shop;Yer-2 (M-105R) TAT
 er-2_m105r_tat_0;Yer-2 (M-105R) TAT-BT
-er-2_m105r_tat_1;Yer-2 (M-105R)
-er-2_m105r_tat_2;Yer-2 (M-105R)
+er-2_m105r_tat_1;Yer-2 (M-105R) TAT
+er-2_m105r_tat_2;Yer-2 (M-105R) TAT
 shop/group/er-2_group;Yer-2
 me-410a-1_shop;Me 410 A-1
 me-410a-1_0;Me 410 A-1
@@ -4175,10 +4175,10 @@ ki_61_1a_otsu_usa_shop;▃Ki-61-Ib
 ki_61_1a_otsu_usa_0;▃Ki-61-Ib Hien
 ki_61_1a_otsu_usa_1;▃Ki-61-Ib
 ki_61_1a_otsu_usa_2;▃Ki-61-Ib
-pby-5a_ussr_shop;▂PBY-5A
-pby-5a_ussr_0;▂PBY-5A Catalina
-pby-5a_ussr_1;▂PBY-5A
-pby-5a_ussr_2;▂PBY-5A
+pby-5a_ussr_shop;☭PBY-5A
+pby-5a_ussr_0;☭PBY-5A Catalina
+pby-5a_ussr_1;☭PBY-5A
+pby-5a_ussr_2;☭PBY-5A
 fw-190d-13_shop;Fw 190 D-13
 fw-190d-13_0;Fw 190 D-13
 fw-190d-13_1;Fw 190 D-13
@@ -4187,10 +4187,10 @@ a6m2_zero_usa_shop;▃A6M2
 a6m2_zero_usa_0;▃A6M2 Reisen
 a6m2_zero_usa_1;▃A6M2
 a6m2_zero_usa_2;▃A6M2
-p-40e_ussr_shop;▂P-40E-1
-p-40e_ussr_0;▂P-40E-1 Kittyhawk
-p-40e_ussr_1;▂P-40E-1
-p-40e_ussr_2;▂P-40E-1
+p-40e_ussr_shop;☭P-40E-1
+p-40e_ussr_0;☭P-40E-1 Kittyhawk
+p-40e_ussr_1;☭P-40E-1
+p-40e_ussr_2;☭P-40E-1
 me-410a-1_u2_shop;Me 410 A-1/U2
 me-410a-1_u2_0;Me 410 A-1/U2
 me-410a-1_u2_1;Me 410 A-1/U2
@@ -4252,18 +4252,18 @@ do_217e_2_shop;Do 217 E-2
 do_217e_2_0;Do 217 E-2
 do_217e_2_1;Do 217 E-2
 do_217e_2_2;Do 217 E-2
-p-63a-10_ussr_shop;▂P-63A-10
-p-63a-10_ussr_0;▂P-63A-10 Kingcobra
-p-63a-10_ussr_1;▂P-63A-10
-p-63a-10_ussr_2;▂P-63A-10
-p-63a-5_ussr_shop;▂P-63A-5
-p-63a-5_ussr_0;▂P-63A-5 Kingcobra
-p-63a-5_ussr_1;▂P-63A-5
-p-63a-5_ussr_2;▂P-63A-5
-p-63c-5_ussr_shop;▂P-63C-5
-p-63c-5_ussr_0;▂P-63C-5 Kingcobra
-p-63c-5_ussr_1;▂P-63C-5
-p-63c-5_ussr_2;▂P-63C-5
+p-63a-10_ussr_shop;☭P-63A-10
+p-63a-10_ussr_0;☭P-63A-10 Kingcobra
+p-63a-10_ussr_1;☭P-63A-10
+p-63a-10_ussr_2;☭P-63A-10
+p-63a-5_ussr_shop;☭P-63A-5
+p-63a-5_ussr_0;☭P-63A-5 Kingcobra
+p-63a-5_ussr_1;☭P-63A-5
+p-63a-5_ussr_2;☭P-63A-5
+p-63c-5_ussr_shop;☭P-63C-5
+p-63c-5_ussr_0;☭P-63C-5 Kingcobra
+p-63c-5_ussr_1;☭P-63C-5
+p-63c-5_ussr_2;☭P-63C-5
 sb_2m_100_shop;SB 2M-100A
 sb_2m_100_0;SB 2M-100A
 sb_2m_100_1;SB 2M-100A
@@ -4315,35 +4315,35 @@ ar_2_shop;Ar-2
 ar_2_0;Ar-2
 ar_2_1;Ar-2
 ar_2_2;Ar-2
-sm_79_1936_shop;▀S.M.79 Serie 1
-sm_79_1936_0;▀S.M.79 Sparviero Serie 1 (1936)
-sm_79_1936_1;▀S.M.79 Serie 1
-sm_79_1936_2;▀S.M.79 Serie 1
-sm_79_1937_shop;▀S.M.79 Serie 4
-sm_79_1937_0;▀S.M.79 Sparviero Serie 4 (1937)
-sm_79_1937_1;▀S.M.79 Serie 4
-sm_79_1937_2;▀S.M.79 Serie 4
-sm_79_1939_shop;▀S.M.79 serie 8
-sm_79_1939_0;▀S.M.79 Sparviero Serie 8 (1939)
-sm_79_1939_1;▀S.M.79 Serie 8
-sm_79_1939_2;▀S.M.79 Serie 8
-sm_79_1941_shop;▀S.M.79 AS
-sm_79_1941_0;▀S.M.79 Sparviero AS (1941)
-sm_79_1941_1;▀S.M.79 AS
-sm_79_1941_2;▀S.M.79 AS
-sm_79_1942_shop;▀S.M.79 bis/N
-sm_79_1942_0;▀S.M.79 Sparviero bis/N (1942)
-sm_79_1942_1;▀S.M.79 bis/N
-sm_79_1942_2;▀S.M.79 bis/N
-sm_79_1943_shop;▀S.M.79 bis/T.M
-sm_79_1943_0;▀S.M.79 Sparviero bis/T.M (1943)
-sm_79_1943_1;▀S.M.79 bis/T.M
-sm_79_1943_2;▀S.M.79 bis/T.M
-sm_79_iar_shop;▀S.M.79 B
-sm_79_iar_0;▀S.M.79 Sparviero B (1936)
-sm_79_iar_1;▀S.M.79 B
-sm_79_iar_2;▀S.M.79 B
-shop/group/sm_79_group;▀S.M.79
+sm_79_1936_shop;S.M.79 Serie 1
+sm_79_1936_0;S.M.79 Sparviero Serie 1 (1936)
+sm_79_1936_1;S.M.79 Serie 1
+sm_79_1936_2;S.M.79 Serie 1
+sm_79_1937_shop;S.M.79 Serie 4
+sm_79_1937_0;S.M.79 Sparviero Serie 4 (1937)
+sm_79_1937_1;S.M.79 Serie 4
+sm_79_1937_2;S.M.79 Serie 4
+sm_79_1939_shop;S.M.79 serie 8
+sm_79_1939_0;S.M.79 Sparviero Serie 8 (1939)
+sm_79_1939_1;S.M.79 Serie 8
+sm_79_1939_2;S.M.79 Serie 8
+sm_79_1941_shop;S.M.79 AS
+sm_79_1941_0;S.M.79 Sparviero AS (1941)
+sm_79_1941_1;S.M.79 AS
+sm_79_1941_2;S.M.79 AS
+sm_79_1942_shop;S.M.79 bis/N
+sm_79_1942_0;S.M.79 Sparviero bis/N (1942)
+sm_79_1942_1;S.M.79 bis/N
+sm_79_1942_2;S.M.79 bis/N
+sm_79_1943_shop;S.M.79 bis/T.M
+sm_79_1943_0;S.M.79 Sparviero bis/T.M (1943)
+sm_79_1943_1;S.M.79 bis/T.M
+sm_79_1943_2;S.M.79 bis/T.M
+sm_79_iar_shop;S.M.79 B (Romania)
+sm_79_iar_0;S.M.79 Sparviero B (1936) (Romanian Air Force)
+sm_79_iar_1;S.M.79 B (Romania)
+sm_79_iar_2;S.M.79 B (Romania)
+shop/group/sm_79_group;S.M.79
 do_217e_4_shop;Do 217 E-4
 do_217e_4_0;Do 217 E-4
 do_217e_4_1;Do 217 E-4
@@ -4500,10 +4500,10 @@ b_25j_30_france_shop;B-25J-30
 b_25j_30_france_0;B-25J-30 Mitchell
 b_25j_30_france_1;B-25J-30
 b_25j_30_france_2;B-25J-30
-b_25j_30_vvs_ussr_shop;▂B-25J-30
-b_25j_30_vvs_ussr_0;▂B-25J-30 Mitchell
-b_25j_30_vvs_ussr_1;▂B-25J-30
-b_25j_30_vvs_ussr_2;▂B-25J-30
+b_25j_30_vvs_ussr_shop;☭B-25J-30
+b_25j_30_vvs_ussr_0;☭B-25J-30 Mitchell
+b_25j_30_vvs_ussr_1;☭B-25J-30
+b_25j_30_vvs_ussr_2;☭B-25J-30
 shop/group/do_217k_group;Do 217
 do_217k_1_shop;Do 217 K-1
 do_217k_1_0;Do 217 K-1
@@ -4526,14 +4526,14 @@ he_112b_0_shop;He 112 B-0
 he_112b_0_0;He 112 B-0
 he_112b_0_1;He 112 B-0
 he_112b_0_2;He 112 B-0
-he_112b_1_shop;He 112 B-1/U2
-he_112b_1_0;He 112 B-1/U2
-he_112b_1_1;He 112 B-1/U2
-he_112b_1_2;He 112 B-1/U2
-he_112b_2_shop;He 112 B-2/U2
-he_112b_2_0;He 112 B-2/U2
-he_112b_2_1;He 112 B-2/U2
-he_112b_2_2;He 112 B-2/U2
+he_112b_1_shop;◔He 112 B-1/U2
+he_112b_1_0;◔He 112 B-1/U2
+he_112b_1_1;◔He 112 B-1/U2
+he_112b_1_2;◔He 112 B-1/U2
+he_112b_2_shop;He 112 B-2/U2 (Romania)
+he_112b_2_0;He 112 B-2/U2 (Romanian Air Force)
+he_112b_2_1;He 112 B-2/U2 (Romania)
+he_112b_2_2;He 112 B-2/U2 (Romania)
 meteor_fmk8_shop;Meteor F Mk.8 G.41K
 meteor_fmk8_0;Meteor F Mk.8 G.41K
 meteor_fmk8_1;Meteor F Mk.8 G.41K
@@ -4580,7 +4580,7 @@ do_217n_2_0;Do 217 N-2
 do_217n_2_1;Do 217 N-2
 do_217n_2_2;Do 217 N-2
 xp-50_shop;XP-50
-xp-50_0;XP-50 Skyrocket
+xp-50_0;XP-50
 xp-50_1;XP-50
 xp-50_2;XP-50
 xp-55_shop;XP-55
@@ -4689,14 +4689,14 @@ tu-2_postwar_china_shop;␗Tu-2S-44
 tu-2_postwar_china_0;␗Tu-2S-44
 tu-2_postwar_china_1;␗Tu-2S-44
 tu-2_postwar_china_2;␗Tu-2S-44
-p-51d-20-na_shop;P-51D-20
+p-51d-20-na_shop;P-51D-20-NA
 p-51d-20-na_0;P-51D-20-NA Mustang
-p-51d-20-na_1;P-51D-20
-p-51d-20-na_2;P-51D-20
-p-51d-20-na_iaf_shop;P-51D-20
+p-51d-20-na_1;P-51D-20-NA
+p-51d-20-na_2;P-51D-20-NA
+p-51d-20-na_iaf_shop;P-51D-20-NA
 p-51d-20-na_iaf_0;P-51D-20-NA Mustang
-p-51d-20-na_iaf_1;P-51D-20
-p-51d-20-na_iaf_2;P-51D-20
+p-51d-20-na_iaf_1;P-51D-20-NA
+p-51d-20-na_iaf_2;P-51D-20-NA
 bf-109z_shop;Bf 109 Z-1
 bf-109z_0;Bf 109 Z-1
 bf-109z_1;Bf 109 Z-1
@@ -4811,22 +4811,22 @@ i-15bis_shop;I-15bis
 i-15bis_0;I-15bis
 i-15bis_1;I-15bis
 i-15bis_2;I-15bis
-i-153_m62_zhukovskiy_shop;Zhukovsky's I-153 M62
-i-153_m62_zhukovskiy_0;Zhukovsky's I-153 M62
-i-153_m62_zhukovskiy_1;I-153 M62
-i-153_m62_zhukovskiy_2;I-153 M62
+i-153_m62_zhukovskiy_shop;Zhukovsky's I-153-M62
+i-153_m62_zhukovskiy_0;Zhukovsky's I-153-M62
+i-153_m62_zhukovskiy_1;Zhukovsky's I-153-M62
+i-153_m62_zhukovskiy_2;Zhukovsky's I-153-M62
 gladiator_mk2_tuck_shop;Tuck's Gladiator Mk II
 gladiator_mk2_tuck_0;Tuck's Gladiator Mk II
 gladiator_mk2_tuck_1;Tuck's Gladiator Mk II
 gladiator_mk2_tuck_2;Tuck's Gladiator Mk II
-fiat_cr42_marcolin_shop;▀Marcolin's C.R.42 CN
-fiat_cr42_marcolin_0;▀Marcolin's C.R.42 CN
-fiat_cr42_marcolin_1;▀Marcolin's C.R.42 CN
-fiat_cr42_marcolin_2;▀Marcolin's C.R.42 CN
+fiat_cr42_marcolin_shop;Marcolin's C.R.42 CN
+fiat_cr42_marcolin_0;Marcolin's C.R.42 CN
+fiat_cr42_marcolin_1;Marcolin's C.R.42 CN
+fiat_cr42_marcolin_2;Marcolin's C.R.42 CN
 f2a-1_thach_shop;Thach's F2A-1
 f2a-1_thach_0;John Thach's F2A-1 Buffalo
-f2a-1_thach_1;F2A-1
-f2a-1_thach_2;F2A-1
+f2a-1_thach_1;Thach's F2A-1
+f2a-1_thach_2;Thach's F2A-1
 a5m4_hagiri_shop;Hagiri's A5M4
 a5m4_hagiri_0;Hagiri's A5M4
 a5m4_hagiri_1;Hagiri's A5M4
@@ -4843,10 +4843,10 @@ h-75a-1_france40_shop;Curtiss H75-C1-40
 h-75a-1_france40_0;Curtiss H75-C1-40
 h-75a-1_france40_1;H75-C1
 h-75a-1_france40_2;H75-C1
-h-75a-2_finland_shop;▀H-75A-2
-h-75a-2_finland_0;▀H-75A-2
-h-75a-2_finland_1;▀H-75A-2
-h-75a-2_finland_2;▀H-75A-2
+h-75a-2_finland_shop;▄H-75A-2
+h-75a-2_finland_0;▄H-75A-2
+h-75a-2_finland_1;▄H-75A-2
+h-75a-2_finland_2;▄H-75A-2
 h-75a-2_france_shop;Curtiss H75-C1-2
 h-75a-2_france_0;Curtiss H75-C1-2
 h-75a-2_france_1;H75-C1-2
@@ -4905,8 +4905,8 @@ p-36a_1;P-36A
 p-36a_2;P-36A
 p-36a_rasmussen_shop;Rasmussen's P-36A
 p-36a_rasmussen_0;Rasmussen's P-36A Hawk
-p-36a_rasmussen_1;P-36A
-p-36a_rasmussen_2;P-36A
+p-36a_rasmussen_1;Rasmussen's P-36A
+p-36a_rasmussen_2;Rasmussen's P-36A
 p-36a_brown_shop;Brown's P-36A
 p-36a_brown_0;Brown's P-36A Hawk
 p-36a_brown_1;P-36A
@@ -5000,7 +5000,7 @@ f8f1b_shop;F8F-1B
 f8f1b_0;F8F-1B Bearcat
 f8f1b_1;F8F-1B
 f8f1b_2;F8F-1B
-shop/group/f8f1_group;F8F
+shop/group/f8f1_group;F8F/F7F
 shop/group/he-111h_group;He 111 H
 p-51d-30_usaaf_korea_shop;P-51D-30
 p-51d-30_usaaf_korea_0;P-51D-30 Mustang
@@ -5026,7 +5026,7 @@ yak-9u_shop;Yak-9U
 yak-9u_0;Yak-9U
 yak-9u_1;Yak-9U
 yak-9u_2;Yak-9U
-shop/group/yak-9up_group;Yak-9U/P
+shop/group/yak-9up_group;Yak-3P/9P
 yak-9ut_shop;Yak-9UT
 yak-9ut_0;Yak-9UT
 yak-9ut_1;Yak-9UT
@@ -5051,10 +5051,10 @@ ki_84_hei_shop;Ki-84 Hei
 ki_84_hei_0;Ki-84 Hei Hayate
 ki_84_hei_1;Ki-84 Hei
 ki_84_hei_2;Ki-84 Hei
-fw-190d-9_ussr_shop;▂Fw 190 D-9
-fw-190d-9_ussr_0;▂Fw 190 D-9
-fw-190d-9_ussr_1;▂Fw 190 D-9
-fw-190d-9_ussr_2;▂Fw 190 D-9
+fw-190d-9_ussr_shop;☭Fw 190 D-9
+fw-190d-9_ussr_0;☭Fw 190 D-9
+fw-190d-9_ussr_1;☭Fw 190 D-9
+fw-190d-9_ussr_2;☭Fw 190 D-9
 i_185_m82_shop;I-185 (M-82)
 i_185_m82_0;I-185 (M-82)
 i_185_m82_1;I-185 (M-82)
@@ -5080,8 +5080,8 @@ shop/group/f2a_group;F2A
 shop/group/os2u_group;OS2U
 shop/group/pby_group;PBY-5
 shop/group/b-17_group;B-17
-shop/group/fiat_group;▀CR.42/G.50
-shop/group/mc200_group;▀C.200
+shop/group/fiat_group;CR.42/G.50
+shop/group/mc200_group;C.200
 shop/group/bf-109e_group;Bf 109 E
 shop/group/bf-109f_early_group;Bf 109 F [E]
 shop/group/bf-109f_group;Bf 109 F
@@ -5097,7 +5097,7 @@ shop/group/do_335_group;Do 335
 shop/group/su-2_group;Su-2
 shop/group/yak-1_group;Yak-1
 shop/group/yak-9_group;Yak-9
-shop/group/yak-3_group;Yak-3
+shop/group/yak-3_group;Yak-3/9U
 shop/group/yak-9u_group;Yak-9U
 shop/group/er-2_ach30b_group;Yer-2 (ACh-30B)
 shop/group/lagg-3_late_group;LaGG-3 [L]
@@ -5138,19 +5138,19 @@ me-262c-2b_shop;Me 262 C-2b
 me-262c-2b_0;Me 262 C-2b Heimatschützer II
 me-262c-2b_1;Me 262 C-2b
 me-262c-2b_2;Me 262 C-2b
-f-86_canadair_german_shop;CL-13A Mk.5
-f-86_canadair_german_0;CL-13A Mk.5
-f-86_canadair_german_1;CL-13A Mk.5
-f-86_canadair_german_2;CL-13A Mk.5
+f-86_canadair_german_shop;◄CL-13A Mk.5
+f-86_canadair_german_0;◄CL-13A Mk.5
+f-86_canadair_german_1;◄CL-13A Mk.5
+f-86_canadair_german_2;◄CL-13A Mk.5
 f-86_cl_13_mk4_italy_shop;▄CL-13 Mk.4
 f-86_cl_13_mk4_italy_0;▄CL-13 Mk.4
 f-86_cl_13_mk4_italy_1;▄CL-13 Mk.4
 f-86_cl_13_mk4_italy_2;▄CL-13 Mk.4
-f-86_cl_13b_mk6_shop;CL-13B Mk.6
-f-86_cl_13b_mk6_0;CL-13B Mk.6
-f-86_cl_13b_mk6_1;CL-13B Mk.6
-f-86_cl_13b_mk6_2;CL-13B Mk.6
-shop/group/f-86_german_group;CL-13
+f-86_cl_13b_mk6_shop;◄CL-13B Mk.6
+f-86_cl_13b_mk6_0;◄CL-13B Mk.6
+f-86_cl_13b_mk6_1;◄CL-13B Mk.6
+f-86_cl_13b_mk6_2;◄CL-13B Mk.6
+shop/group/f-86_german_group;◄CL-13
 fw-190a-1_shop;Fw 190 A-1
 fw-190a-1_0;Fw 190 A-1
 fw-190a-1_1;Fw 190 A-1
@@ -5240,10 +5240,10 @@ f4u-1a_usmc_1;F4U-1A (USMC)
 f4u-1a_usmc_2;F4U-1A (USMC)
 shop/group/f4u-1a_group;F4U-1A
 shop/group/mig-3_group;MiG-3
-spitfire_ix_ussr_shop;▂Spitfire Mk IXc
-spitfire_ix_ussr_0;▂Spitfire Mk IXc
-spitfire_ix_ussr_1;▂Spitfire Mk IXc
-spitfire_ix_ussr_2;▂Spitfire Mk IXc
+spitfire_ix_ussr_shop;☭Spitfire Mk IXc
+spitfire_ix_ussr_0;☭Spitfire Mk IXc
+spitfire_ix_ussr_1;☭Spitfire Mk IXc
+spitfire_ix_ussr_2;☭Spitfire Mk IXc
 pbj_1h_shop;PBJ-1H
 pbj_1h_0;PBJ-1H Mitchell
 pbj_1h_1;PBJ-1H
@@ -5275,12 +5275,12 @@ hs-129b-2_romania_italy_1;Hs 129 B-2 (Romania)
 hs-129b-2_romania_italy_2;Hs 129 B-2 (Romania)
 il-2m_mstitel_shop;IL-2M "Avenger"
 il-2m_mstitel_0;IL-2M "Avenger"
-il-2m_mstitel_1;IL-2M
-il-2m_mstitel_2;IL-2M
-bf-109g-2_romania_shop;Bf 109 G-2
-bf-109g-2_romania_0;Bf 109 G-2
-bf-109g-2_romania_1;Bf 109 G-2
-bf-109g-2_romania_2;Bf 109 G-2
+il-2m_mstitel_1;IL-2M "Avenger"
+il-2m_mstitel_2;IL-2M "Avenger"
+bf-109g-2_romania_shop;Bf 109 G-2 (Romania)
+bf-109g-2_romania_0;Bf 109 G-2 (Romanian Air Force)
+bf-109g-2_romania_1;Bf 109 G-2 (Romania)
+bf-109g-2_romania_2;Bf 109 G-2 (Romania)
 bf-109g-2_hungary_shop;◐Bf 109 G-2
 bf-109g-2_hungary_0;◐Bf 109 G-2
 bf-109g-2_hungary_1;◐Bf 109 G-2
@@ -5299,8 +5299,8 @@ fw-190a-4_1;Fw 190 A-4
 fw-190a-4_2;Fw 190 A-4
 go229_v3_shop;Ho 229 V3
 go229_v3_0;Ho 229 V3
-go229_v3_1;Ho 229
-go229_v3_2;Ho 229
+go229_v3_1;Ho 229 V3
+go229_v3_2;Ho 229 V3
 kitsuka_shop;Kikka
 kitsuka_0;Kikka
 kitsuka_1;Kikka
@@ -5390,10 +5390,10 @@ fw-190a-8_usa_shop;▃Fw 190 A-8
 fw-190a-8_usa_0;▃Fw 190 A-8
 fw-190a-8_usa_1;▃Fw 190 A-8
 fw-190a-8_usa_2;▃Fw 190 A-8
-p-47d_ussr_shop;▂P-47D-27
-p-47d_ussr_0;▂P-47D-27 Thunderbolt
-p-47d_ussr_1;▂P-47D-27
-p-47d_ussr_2;▂P-47D-27
+p-47d_ussr_shop;☭P-47D-27
+p-47d_ussr_0;☭P-47D-27 Thunderbolt
+p-47d_ussr_1;☭P-47D-27
+p-47d_ussr_2;☭P-47D-27
 venom_fb4_shop;Venom FB.4
 venom_fb4_0;Venom FB.4
 venom_fb4_1;Venom FB.4
@@ -5516,8 +5516,8 @@ attaker_fb2_1;Attacker FB.2
 attaker_fb2_2;Attacker FB.2
 yak-9m_shop;Golovachev's Yak-9M
 yak-9m_0;Golovachev's Yak-9M
-yak-9m_1;Yak-9M
-yak-9m_2;Yak-9M
+yak-9m_1;Golovachev's Yak-9M
+yak-9m_2;Golovachev's Yak-9M
 douglas_ad_2_shop;AD-2
 douglas_ad_2_0;AD-2 Skyraider
 douglas_ad_2_1;AD-2
@@ -5526,7 +5526,7 @@ douglas_ad_4_shop;AD-4
 douglas_ad_4_0;AD-4 Skyraider
 douglas_ad_4_1;AD-4
 douglas_ad_4_2;AD-4
-shop/group/douglas_ad_group;AD
+shop/group/douglas_ad_group;AD/AM-1
 a2d_shop;A2D-1
 a2d_0;A2D-1 Skyshark
 a2d_1;A2D-1
@@ -5555,34 +5555,34 @@ il_2_37_1943_shop;IL-2-37
 il_2_37_1943_0;IL-2-37
 il_2_37_1943_1;IL-2-37
 il_2_37_1943_2;IL-2-37
-p-47m-1-re_shop;P-47M-1
+p-47m-1-re_shop;Bostwick's P-47M-1-RE
 p-47m-1-re_0;Bostwick's P-47M-1-RE Thunderbolt
-p-47m-1-re_1;P-47M-1
-p-47m-1-re_2;P-47M-1
-p-47m-1-re_boxted_shop;⋠P-47M-1
-p-47m-1-re_boxted_0;⋠Lanovski's P-47M-1-RE Thunderbolt
-p-47m-1-re_boxted_1;⋠P-47M-1
-p-47m-1-re_boxted_2;⋠P-47M-1
-p-51d-10_shop;P-51D-10
+p-47m-1-re_1;Bostwick's P-47M-1-RE
+p-47m-1-re_2;Bostwick's P-47M-1-RE
+p-47m-1-re_boxted_shop;Lanovski's P-47M-1-RE
+p-47m-1-re_boxted_0;Lanovski's P-47M-1-RE Thunderbolt
+p-47m-1-re_boxted_1;Lanovski's P-47M-1-RE
+p-47m-1-re_boxted_2;Lanovski's P-47M-1-RE
+p-51d-10_shop;Wetmore's P-51D-10
 p-51d-10_0;Wetmore's P-51D-10 Mustang
-p-51d-10_1;P-51D-10
-p-51d-10_2;P-51D-10
+p-51d-10_1;Wetmore's P-51D-10
+p-51d-10_2;Wetmore's P-51D-10
 p-51_mk1a_usaaf_shop;P-51
 p-51_mk1a_usaaf_0;P-51 Mustang
 p-51_mk1a_usaaf_1;P-51
 p-51_mk1a_usaaf_2;P-51
-bf-109b_2_shop;Bf 109 B-1
+bf-109b_2_shop;Bf 109 B-1 [L]
 bf-109b_2_0;Bf 109 B-1 Late
-bf-109b_2_1;Bf 109 B-1
-bf-109b_2_2;Bf 109 B-1
+bf-109b_2_1;Bf 109 B-1 [L]
+bf-109b_2_2;Bf 109 B-1 [L]
 bf-109a_1_shop;Flegel's Bf 109 A
 bf-109a_1_0;Flegel's Bf 109 A
-bf-109a_1_1;Bf 109 A
-bf-109a_1_2;Bf 109 A
+bf-109a_1_1;Flegel's Bf 109 A
+bf-109a_1_2;Flegel's Bf 109 A
 la-7_dolgushin_shop;Dolgushin's La-7
 la-7_dolgushin_0;Dolgushin's La-7
-la-7_dolgushin_1;La-7
-la-7_dolgushin_2;La-7
+la-7_dolgushin_1;Dolgushin's La-7
+la-7_dolgushin_2;Dolgushin's La-7
 il_2m_1943_shop;IL-2M (1943)
 il_2m_1943_0;IL-2M (1943)
 il_2m_1943_1;IL-2M (1943)
@@ -5632,10 +5632,10 @@ firebrand_tf4_shop;Firebrand TF Mk IV
 firebrand_tf4_0;Firebrand TF Mk IV
 firebrand_tf4_1;Firebrand TF Mk IV
 firebrand_tf4_2;Firebrand TF Mk IV
-hurricanemkii_ussr_shop;▂Hurricane Mk IIB
-hurricanemkii_ussr_0;▂Hurricane Mk IIB
-hurricanemkii_ussr_1;▂Hurricane Mk IIB
-hurricanemkii_ussr_2;▂Hurricane Mk IIB
+hurricanemkii_ussr_shop;☭Hurricane Mk IIB
+hurricanemkii_ussr_0;☭Hurricane Mk IIB
+hurricanemkii_ussr_1;☭Hurricane Mk IIB
+hurricanemkii_ussr_2;☭Hurricane Mk IIB
 yak-3_vk107_shop;Yak-3 (VK-107)
 yak-3_vk107_0;Yak-3 (VK-107)
 yak-3_vk107_1;Yak-3 (VK-107)
@@ -5700,10 +5700,10 @@ p-38k_shop;P-38K
 p-38k_0;P-38K Lightning
 p-38k_1;P-38K
 p-38k_2;P-38K
-p-38l_shop;P-38L-5
+p-38l_shop;P-38L-5-LO
 p-38l_0;P-38L-5-LO Lightning
-p-38l_1;P-38L-5
-p-38l_2;P-38L-5
+p-38l_1;P-38L-5-LO
+p-38l_2;P-38L-5-LO
 p-38l_1_china_rocaf_shop;☀P-38L-1
 p-38l_1_china_rocaf_0;☀P-38L-1 Lightning
 p-38l_1_china_rocaf_1;☀P-38L-1
@@ -5722,10 +5722,10 @@ sb2c_4_0;SB2C-4 Helldiver
 sb2c_4_1;SB2C-4
 sb2c_4_2;SB2C-4
 shop/group/sb2c_group;SB2C
-p-51a_tl_shop;P-51A
-p-51a_tl_0;P-51A Mustang
-p-51a_tl_1;P-51A
-p-51a_tl_2;P-51A
+p-51a_tl_shop;P-51A TL
+p-51a_tl_0;P-51A Mustang (Thunder League)
+p-51a_tl_1;P-51A TL
+p-51a_tl_2;P-51A TL
 tbd-1_1938_shop;TBD-1
 tbd-1_1938_0;TBD-1 Devastator
 tbd-1_1938_1;TBD-1
@@ -5758,8 +5758,8 @@ f3f-2_1;F3F-2
 f3f-2_2;F3F-2
 f3f-2_galer_shop;Galer's F3F-2
 f3f-2_galer_0;Galer's F3F-2
-f3f-2_galer_1;F3F-2
-f3f-2_galer_2;F3F-2
+f3f-2_galer_1;Galer's F3F-2
+f3f-2_galer_2;Galer's F3F-2
 mig-17_shop;MiG-17
 mig-17_0;MiG-17
 mig-17_1;MiG-17
@@ -5836,7 +5836,7 @@ hawk_iii_0;☀Hawk III
 hawk_iii_1;☀Hawk III
 hawk_iii_2;☀Hawk III
 p-43a-1_china_shop;☀P-43A-1
-p-43a-1_china_0;☀P-43A-1
+p-43a-1_china_0;☀P-43A-1 Lancer
 p-43a-1_china_1;☀P-43A-1
 p-43a-1_china_2;☀P-43A-1
 p-43a-1_shop;P-43A-1
@@ -5911,10 +5911,10 @@ do_335b_2_shop;Do 335 B-2
 do_335b_2_0;Do 335 B-2
 do_335b_2_1;Do 335 B-2
 do_335b_2_2;Do 335 B-2
-p-61a_1_shop;P-61A-1
-p-61a_1_0;P-61A-1 Black Widow
-p-61a_1_1;P-61A-1
-p-61a_1_2;P-61A-1
+p-61a_1_shop;P-61A-11
+p-61a_1_0;P-61A-11 Black Widow
+p-61a_1_1;P-61A-11
+p-61a_1_2;P-61A-11
 p-61c_1_shop;P-61C-1
 p-61c_1_0;P-61C-1 Black Widow
 p-61c_1_1;P-61C-1
@@ -5970,8 +5970,8 @@ h8k3_2;H8K3
 shop/group/h6k_h8k_group;H6K/H8K
 p-38j_marge_shop;Bong's P-38J-15
 p-38j_marge_0;Richard Bong's P-38J-15 Lightning
-p-38j_marge_1;P-38J
-p-38j_marge_2;P-38J
+p-38j_marge_1;Bong's P-38J-15
+p-38j_marge_2;Bong's P-38J-15
 halifax_mk3_shop;Halifax B Mk IIIa
 halifax_mk3_0;Halifax B Mk IIIa
 halifax_mk3_1;Halifax B Mk IIIa
@@ -6143,10 +6143,10 @@ hp52_hampden_tbmk1_shop;Hampden TB Mk I
 hp52_hampden_tbmk1_0;Hampden TB Mk I
 hp52_hampden_tbmk1_1;Hampden TB Mk I
 hp52_hampden_tbmk1_2;Hampden TB Mk I
-hp52_hampden_tbmk1_ussr_utk1_shop;▂Hampden TB Mk I
-hp52_hampden_tbmk1_ussr_utk1_0;▂Hampden TB Mk I UTK-1
-hp52_hampden_tbmk1_ussr_utk1_1;▂Hampden TB Mk I
-hp52_hampden_tbmk1_ussr_utk1_2;▂Hampden TB Mk I
+hp52_hampden_tbmk1_ussr_utk1_shop;☭Hampden TB Mk I
+hp52_hampden_tbmk1_ussr_utk1_0;☭Hampden TB Mk I UTK-1
+hp52_hampden_tbmk1_ussr_utk1_1;☭Hampden TB Mk I
+hp52_hampden_tbmk1_ussr_utk1_2;☭Hampden TB Mk I
 me-262a-2a_shop;Me 262 A-2a
 me-262a-2a_0;Me 262 A-2a Sturmvogel
 me-262a-2a_1;Me 262 A-2a
@@ -6238,8 +6238,8 @@ fiat_g50_seria7as_italy_1;G.50 AS Serie 7
 fiat_g50_seria7as_italy_2;G.50 AS Serie 7
 fiat_cr42_marcolin_italy_shop;Marcolin's C.R.42 CN
 fiat_cr42_marcolin_italy_0;Marcolin's C.R.42 CN
-fiat_cr42_marcolin_italy_1;CR.42 CN
-fiat_cr42_marcolin_italy_2;CR.42 CN
+fiat_cr42_marcolin_italy_1;Marcolin's C.R.42 CN
+fiat_cr42_marcolin_italy_2;Marcolin's C.R.42 CN
 cr_32_shop;CR.32
 cr_32_0;CR.32
 cr_32_1;CR.32
@@ -6377,10 +6377,10 @@ f-84f_shop;F-84F
 f-84f_0;F-84F Thunderstreak
 f-84f_1;F-84F
 f-84f_2;F-84F
-f-84g_shop;F-84G-21
+f-84g_shop;F-84G-21-RE
 f-84g_0;F-84G-21-RE Thunderjet
-f-84g_1;F-84G-21
-f-84g_2;F-84G-21
+f-84g_1;F-84G-21-RE
+f-84g_2;F-84G-21-RE
 f-84g_china_shop;☀F-84G-21-RE
 f-84g_china_0;☀F-84G-21-RE Thunderjet
 f-84g_china_1;☀F-84G-21-RE
@@ -6410,10 +6410,10 @@ bf-109g-14as_shop;▄Bf 109 G-14/AS
 bf-109g-14as_0;▄Bf 109 G-14/AS
 bf-109g-14as_1;▄Bf 109 G-14/AS
 bf-109g-14as_2;▄Bf 109 G-14/AS
-p-51h-5_na_shop;P-51H-5
+p-51h-5_na_shop;P-51H-5-NA
 p-51h-5_na_0;P-51H-5-NA Mustang
-p-51h-5_na_1;P-51H-5
-p-51h-5_na_2;P-51H-5
+p-51h-5_na_1;P-51H-5-NA
+p-51h-5_na_2;P-51H-5-NA
 ki_109_shop;Ki-109
 ki_109_0;Ki-109
 ki_109_1;Ki-109
@@ -6797,14 +6797,14 @@ tandem_mai_shop;Tandem MAI
 tandem_mai_0;Tandem MAI
 tandem_mai_1;Tandem MAI
 tandem_mai_2;Tandem MAI
-h-75a-1_france_shop;▄H-75A-1
-h-75a-1_france_0;▄H-75A-1
-h-75a-1_france_1;▄H-75A-1
-h-75a-1_france_2;▄H-75A-1
-h-75a-4_france_shop;▄H-75A-4
-h-75a-4_france_0;▄H-75A-4
-h-75a-4_france_1;▄H-75A-4
-h-75a-4_france_2;▄H-75A-4
+h-75a-1_france_shop;H-75A-1
+h-75a-1_france_0;H-75A-1
+h-75a-1_france_1;H-75A-1
+h-75a-1_france_2;H-75A-1
+h-75a-4_france_shop;H-75A-4
+h-75a-4_france_0;H-75A-4
+h-75a-4_france_1;H-75A-4
+h-75a-4_france_2;H-75A-4
 ms_405c1_shop;M.S.405C1
 ms_405c1_0;M.S.405C1
 ms_405c1_1;M.S.405C1
@@ -7904,10 +7904,10 @@ mig-21_pfm_shop;MiG-21PFM
 mig-21_pfm_0;MiG-21PFM
 mig-21_pfm_1;MiG-21PFM
 mig-21_pfm_2;MiG-21PFM
-mig-21_sps_k_shop;◄MiG-21SPS-K
-mig-21_sps_k_0;◄MiG-21SPS-K
-mig-21_sps_k_1;◄MiG-21SPS-K
-mig-21_sps_k_2;◄MiG-21SPS-K
+mig-21_sps_k_shop;MiG-21SPS-K
+mig-21_sps_k_0;MiG-21SPS-K
+mig-21_sps_k_1;MiG-21SPS-K
+mig-21_sps_k_2;MiG-21SPS-K
 mig-21_bis_sau_shop;◊MiG-21bis-SAU
 mig-21_bis_sau_0;◊MiG-21bis-SAU
 mig-21_bis_sau_1;◊MiG-21bis-SAU
@@ -7936,14 +7936,14 @@ f-4e_iaf_shop;F-4E
 f-4e_iaf_0;F-4E Kurnass
 f-4e_iaf_1;F-4E
 f-4e_iaf_2;F-4E
-f-4f_shop;◄F-4F [E]
-f-4f_0;◄F-4F Phantom II Early
-f-4f_1;◄F-4F [E]
-f-4f_2;◄F-4F [E]
-f-4f_late_shop;◄F-4F [L]
-f-4f_late_0;◄F-4F Phantom II Late
-f-4f_late_1;◄F-4F [L]
-f-4f_late_2;◄F-4F [L]
+f-4f_shop;F-4F [E]
+f-4f_0;F-4F Phantom II Early
+f-4f_1;F-4F [E]
+f-4f_2;F-4F [E]
+f-4f_late_shop;F-4F [L]
+f-4f_late_0;F-4F Phantom II Late
+f-4f_late_1;F-4F [L]
+f-4f_late_2;F-4F [L]
 f-4ej_shop;F-4EJ
 f-4ej_0;F-4EJ Phantom II
 f-4ej_1;F-4EJ
@@ -8040,10 +8040,10 @@ mig-17_f5_shop;Shenyang F-5
 mig-17_f5_0;Shenyang F-5
 mig-17_f5_1;Shenyang F-5
 mig-17_f5_2;Shenyang F-5
-mig-17_cuba_shop;MiG-17AS
-mig-17_cuba_0;MiG-17AS
-mig-17_cuba_1;MiG-17AS
-mig-17_cuba_2;MiG-17AS
+mig-17_cuba_shop;◗MiG-17AS
+mig-17_cuba_0;◗MiG-17AS
+mig-17_cuba_1;◗MiG-17AS
+mig-17_cuba_2;◗MiG-17AS
 martin_139wc_shop;Martin 139WC
 martin_139wc_0;Martin 139WC
 martin_139wc_1;Martin 139WC
@@ -10739,10 +10739,10 @@ it_lancia3ro_100_shop;Lancia 3Ro (100/17)
 it_lancia3ro_100_0;100/17 su Lancia 3Ro
 it_lancia3ro_100_1;Lancia 3Ro (100/17)
 it_lancia3ro_100_2;Lancia 3Ro (100/17)
-f_14a_early_shop;F-14A
-f_14a_early_0;F-14A Tomcat
-f_14a_early_1;F-14A
-f_14a_early_2;F-14A
+f_14a_early_shop;F-14A [E]
+f_14a_early_0;F-14A Tomcat Early
+f_14a_early_1;F-14A [E]
+f_14a_early_2;F-14A [E]
 cn_ztz_99a_shop;ZTZ99A
 cn_ztz_99a_0;ZTZ99A
 cn_ztz_99a_1;ZTZ99A
@@ -10804,10 +10804,10 @@ us_destroyer_gearing_shop;USS Gearing
 us_destroyer_gearing_0;Gearing-class, USS Gearing (DD-710), 1945
 us_destroyer_gearing_1;USS Gearing
 us_destroyer_gearing_2;USS Gearing
-he_112b_1_italy_shop;He 112 B-1/U2
-he_112b_1_italy_0;He 112 B-1/U2
-he_112b_1_italy_1;He 112 B-1/U2
-he_112b_1_italy_2;He 112 B-1/U2
+he_112b_1_italy_shop;He 112 B-1/U2 (Romania)
+he_112b_1_italy_0;He 112 B-1/U2 (Romanian Air Force)
+he_112b_1_italy_1;He 112 B-1/U2 (Romania)
+he_112b_1_italy_2;He 112 B-1/U2 (Romania)
 ariete_shop;Ariete
 ariete_0;Ariete
 ariete_1;Ariete
@@ -10916,10 +10916,10 @@ su_25_shop;Su-25
 su_25_0;Su-25
 su_25_1;Su-25
 su_25_2;Su-25
-su_25k_shop;Su-25K
-su_25k_0;Su-25K
-su_25k_1;Su-25K
-su_25k_2;Su-25K
+su_25k_shop;▂Su-25K
+su_25k_0;▂Su-25K
+su_25k_1;▂Su-25K
+su_25k_2;▂Su-25K
 fiat_g91_y_shop;G.91 Y
 fiat_g91_y_0;G.91 Y
 fiat_g91_y_1;G.91 Y
@@ -11137,10 +11137,10 @@ fr_vab_santal_shop;SANTAL
 fr_vab_santal_0;Véhicule de l'Avant Blindé, SANTAL
 fr_vab_santal_1;SANTAL
 fr_vab_santal_2;SANTAL
-a_20g_30_ussr_shop;▂A-20G-30
-a_20g_30_ussr_0;▂A-20G-30 Havoc
-a_20g_30_ussr_1;▂A-20G-30
-a_20g_30_ussr_2;▂A-20G-30
+a_20g_30_ussr_shop;☭A-20G-30
+a_20g_30_ussr_0;☭A-20G-30 Havoc
+a_20g_30_ussr_1;☭A-20G-30
+a_20g_30_ussr_2;☭A-20G-30
 fw_190a_5_u14_shop;Fw 190 A-5/U14
 fw_190a_5_u14_0;Fw 190 A-5/U14
 fw_190a_5_u14_1;Fw 190 A-5/U14
@@ -11544,18 +11544,18 @@ f_16a_block_15_adf_italy_shop;▄F-16A ADF
 f_16a_block_15_adf_italy_0;▄F-16A Block 15 ADF Fighting Falcon
 f_16a_block_15_adf_italy_1;▄F-16A ADF
 f_16a_block_15_adf_italy_2;▄F-16A ADF
-tornado_ids_de_mfg_shop;◄Tornado IDS MFG
-tornado_ids_de_mfg_0;◄Tornado IDS Marineflieger
-tornado_ids_de_mfg_1;◄Tornado IDS MFG
-tornado_ids_de_mfg_2;◄Tornado IDS MFG
+tornado_ids_de_mfg_shop;Tornado IDS MFG
+tornado_ids_de_mfg_0;Tornado IDS Marineflieger
+tornado_ids_de_mfg_1;Tornado IDS MFG
+tornado_ids_de_mfg_2;Tornado IDS MFG
 tornado_ids_it_mod95_shop;▄Tornado IDS [L]
 tornado_ids_it_mod95_0;▄Tornado IDS (1995)
 tornado_ids_it_mod95_1;▄Tornado IDS [L]
 tornado_ids_it_mod95_2;▄Tornado IDS [L]
-tornado_ids_de_assta1_shop;◄Tornado IDS
-tornado_ids_de_assta1_0;◄Tornado IDS ASSTA1
-tornado_ids_de_assta1_1;◄Tornado IDS ASSTA1
-tornado_ids_de_assta1_2;◄Tornado IDS ASSTA1
+tornado_ids_de_assta1_shop;Tornado IDS ASSTA1
+tornado_ids_de_assta1_0;Tornado IDS ASSTA1
+tornado_ids_de_assta1_1;Tornado IDS ASSTA1
+tornado_ids_de_assta1_2;Tornado IDS ASSTA1
 saab_j35xs_shop;Saab J35XS
 saab_j35xs_0;Saab J35XS Draken
 saab_j35xs_1;Saab J35XS
@@ -11598,10 +11598,10 @@ fairey_3f_mk3b_1;Fairey IIIF Mk.IIIB
 fairey_3f_mk3b_2;Fairey IIIF Mk.IIIB
 i-15bis_krasnolutsky_shop;Krasnolutsky's I-15bis
 i-15bis_krasnolutsky_0;Krasnolutsky's I-15bis
-i-15bis_krasnolutsky_1;I-15bis
-i-15bis_krasnolutsky_2;I-15bis
+i-15bis_krasnolutsky_1;Krasnolutsky's I-15bis
+i-15bis_krasnolutsky_2;Krasnolutsky's I-15bis
 p-36c_rb_shop;○P-36C
-p-36c_rb_0;○P-36C Hawk
+p-36c_rb_0;○P-36C Hawk (TheRussianBadger)
 p-36c_rb_1;○P-36C
 p-36c_rb_2;○P-36C
 yak_141_shop;Yak-141
@@ -11704,10 +11704,10 @@ us_lvt_a_1_trb_shop;○LVT(A)(1)
 us_lvt_a_1_trb_0;○LVT(A)(1)
 us_lvt_a_1_trb_1;○LVT(A)(1)
 us_lvt_a_1_trb_2;○LVT(A)(1)
-hunter_f58_switzerland_shop;◌Hunter F.58
-hunter_f58_switzerland_0;◌Hunter F.58
-hunter_f58_switzerland_1;◌Hunter F.58
-hunter_f58_switzerland_2;◌Hunter F.58
+hunter_f58_switzerland_shop;Hunter F.58
+hunter_f58_switzerland_0;Hunter F.58
+hunter_f58_switzerland_1;Hunter F.58
+hunter_f58_switzerland_2;Hunter F.58
 ro_44_shop;Ro.44
 ro_44_0;Ro.44
 ro_44_1;Ro.44
@@ -11716,10 +11716,10 @@ f-84g-31-re_china_shop;☀F-84G-31-RE
 f-84g-31-re_china_0;☀F-84G-31-RE Thunderjet
 f-84g-31-re_china_1;☀F-84G-31-RE
 f-84g-31-re_china_2;☀F-84G-31-RE
-f-4e_kurnass_2000_shop;F-4E Kurnass 2000
-f-4e_kurnass_2000_0;F-4E Kurnass 2000
-f-4e_kurnass_2000_1;F-4E Kurnass 2000
-f-4e_kurnass_2000_2;F-4E Kurnass 2000
+f-4e_kurnass_2000_shop;F-4E Kurnass 2000
+f-4e_kurnass_2000_0;F-4E Kurnass 2000
+f-4e_kurnass_2000_1;F-4E Kurnass 2000
+f-4e_kurnass_2000_2;F-4E Kurnass 2000
 it_battleship_caio_duilio_shop;RN Duilio
 it_battleship_caio_duilio_0;Duilio-class, RN Duilio, 1942
 it_battleship_caio_duilio_1;RN Duilio
@@ -11884,10 +11884,10 @@ f_14b_shop;F-14B
 f_14b_0;F-14B Tomcat
 f_14b_1;F-14B
 f_14b_2;F-14B
-tornado_adv_shop;▄Tornado ADV
-tornado_adv_0;▄Tornado ADV
-tornado_adv_1;▄Tornado ADV
-tornado_adv_2;▄Tornado ADV
+tornado_adv_shop;Tornado ADV
+tornado_adv_0;Tornado ADV
+tornado_adv_1;Tornado ADV
+tornado_adv_2;Tornado ADV
 ussr_object_435_shop;Object 435
 ussr_object_435_0;Object 435
 ussr_object_435_1;Object 435
@@ -12017,10 +12017,10 @@ germ_amd_35_kwk_shop;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_0;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_1;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_2;Pz.Sp.Wg.P204(f) KwK 38
-su_25_558arz_shop;Su-25BM
-su_25_558arz_0;Su-25BM 558 ARZ
-su_25_558arz_1;Su-25BM
-su_25_558arz_2;Su-25BM
+su_25_558arz_shop;▂Su-25BM
+su_25_558arz_0;▂Su-25BM 558 ARZ
+su_25_558arz_1;▂Su-25BM
+su_25_558arz_2;▂Su-25BM
 sw_patria_amv_ctcv_105_shop;CT-CV 105HP
 sw_patria_amv_ctcv_105_0;Patria CT-CV 105HP
 sw_patria_amv_ctcv_105_1;CT-CV 105HP
@@ -12331,7 +12331,7 @@ shop/group/tbd_group;TBD/B-18
 shop/group/p-51_early_group;P-51 [E]
 shop/group/p-47_ealy_group;P-47 [E]
 shop/group/f4u_late_group;F4U [L]
-shop/group/b-17_late_group;B-17 [L]
+shop/group/b-17_late_group;B-17/B-24
 shop/group/b_57_group;B-57
 shop/group/f-104_group;F-104
 shop/group/a_4b_group;A-4B/FJ-4B
@@ -12346,12 +12346,12 @@ shop/group/mig_21_germany_group;◊MiG-21
 shop/group/ar_group;Ar-2/SB 2
 shop/group/db_3_group;DB-3/IL-4
 shop/group/il-2i_group;IL-2
-shop/group/la_5_group;La-5 (e)
+shop/group/la_5_group;La-5 [E]
 shop/group/yak-9tk_group;Yak-9T/K
-shop/group/yak-3up_group;Yak-3U/UT
+shop/group/yak-3up_group;Yak-3U/9UT
 shop/group/il_28_group;IL-28
 shop/group/la_200_group;La-200/La-15
-shop/group/su-7_group;Su-7
+shop/group/su-7_group;Su-7B/BKL
 shop/group/mig-19_group;MiG-19/MiG-21
 shop/group/mig_27_group;MiG-27
 shop/group/mig-23m_group;MiG-23
@@ -12516,10 +12516,10 @@ us_t54e2_shop;T54E2
 us_t54e2_0;T54E2
 us_t54e2_1;T54E2
 us_t54e2_2;T54E2
-mig_29_9_12g_shop;◄MiG-29G
-mig_29_9_12g_0;◄MiG-29G Izdeliye 9.12G
-mig_29_9_12g_1;◄MiG-29G
-mig_29_9_12g_2;◄MiG-29G
+mig_29_9_12g_shop;MiG-29G
+mig_29_9_12g_0;MiG-29G Izdeliye 9.12G
+mig_29_9_12g_1;MiG-29G
+mig_29_9_12g_2;MiG-29G
 tiger_had_block2_france_shop;Tiger HAD Block 2
 tiger_had_block2_france_0;EC-665 Tiger HAD Block 2
 tiger_had_block2_france_1;Tiger HAD Block 2
@@ -12644,10 +12644,10 @@ uk_challenger_2_megatron_shop;Challenger 2 OES
 uk_challenger_2_megatron_0;Challenger 2 TES (OES)
 uk_challenger_2_megatron_1;Challenger 2 OES
 uk_challenger_2_megatron_2;Challenger 2 OES
-su_27_shop;Su-27S
-su_27_0;Su-27S
-su_27_1;Su-27S
-su_27_2;Su-27S
+su_27_shop;Su-27
+su_27_0;Su-27
+su_27_1;Su-27
+su_27_2;Su-27
 f_15a_shop;F-15A
 f_15a_0;F-15A Eagle
 f_15a_1;F-15A
@@ -12660,10 +12660,10 @@ f_15j_shop;F-15J
 f_15j_0;F-15J Eagle
 f_15j_1;F-15J
 f_15j_2;F-15J
-tornado_ids_de_wtd61_shop;◄Tornado IDS WTD61
-tornado_ids_de_wtd61_0;◄Tornado IDS WTD61
-tornado_ids_de_wtd61_1;◄Tornado IDS WTD61
-tornado_ids_de_wtd61_2;◄Tornado IDS WTD61
+tornado_ids_de_wtd61_shop;Tornado IDS WTD61
+tornado_ids_de_wtd61_0;Tornado IDS WTD61
+tornado_ids_de_wtd61_1;Tornado IDS WTD61
+tornado_ids_de_wtd61_2;Tornado IDS WTD61
 cn_vt_4b_shop;VT-4A1
 cn_vt_4b_0;VT-4A1
 cn_vt_4b_1;VT-4A1
@@ -12945,8 +12945,8 @@ us_flagstaff_pgh1_1;USS Flagstaff
 us_flagstaff_pgh1_2;USS Flagstaff
 yak-3_eremin_shop;Eremin's Yak-3(e)
 yak-3_eremin_0;Eremin's Yak-3(e)
-yak-3_eremin_1;Yak-3(e)
-yak-3_eremin_2;Yak-3(e)
+yak-3_eremin_1;Eremin's Yak-3(e)
+yak-3_eremin_2;Eremin's Yak-3(e)
 amx_a_1a_brazil_shop;AMX A-1A
 amx_a_1a_brazil_0;AMX A-1A Ghibli
 amx_a_1a_brazil_1;AMX A-1A
@@ -12956,7 +12956,7 @@ cn_zsl_92_0;ZSL92
 cn_zsl_92_1;ZSL92
 cn_zsl_92_2;ZSL92
 f_15c_baz_msip_shop;F-15C
-f_15c_baz_msip_0;F-15C Baz Meshupar
+f_15c_baz_msip_0;F-15C Baz (Improved) Meshupar
 f_15c_baz_msip_1;F-15C
 f_15c_baz_msip_2;F-15C
 f_15c_msip2_shop;F-15C
@@ -12979,10 +12979,10 @@ f-104g_belgium_shop;▄F-104G
 f-104g_belgium_0;▄F-104G Starfighter
 f-104g_belgium_1;▄F-104G [BEL]
 f-104g_belgium_2;▄F-104G [BEL]
-f-4f_kws_lv_shop;◄F-4F ICE
-f-4f_kws_lv_0;◄F-4F KWS LV (ICE) Phantom II
-f-4f_kws_lv_1;◄F-4F ICE
-f-4f_kws_lv_2;◄F-4F ICE
+f-4f_kws_lv_shop;F-4F ICE
+f-4f_kws_lv_0;F-4F KWS LV (ICE) Phantom II
+f-4f_kws_lv_1;F-4F ICE
+f-4f_kws_lv_2;F-4F ICE
 firefly_mk4_netherlands_shop;◘Firefly F Mk IV
 firefly_mk4_netherlands_0;◘Firefly F Mk IV
 firefly_mk4_netherlands_1;◘Firefly F Mk IV
@@ -13043,14 +13043,14 @@ meteor_fmk8_belgium_shop;▄Meteor F Mk.8
 meteor_fmk8_belgium_0;▄Meteor F Mk.8
 meteor_fmk8_belgium_1;▄Meteor F Mk.8
 meteor_fmk8_belgium_2;▄Meteor F Mk.8
-mig-21_bison_shop;▄MiG-21 Bison
-mig-21_bison_0;▄MiG-21 Bison
-mig-21_bison_1;▄MiG-21 Bison
-mig-21_bison_2;▄MiG-21 Bison
-mirage_5ba_shop;▄Mirage 5BA
-mirage_5ba_0;▄Mirage 5BA
-mirage_5ba_1;▄Mirage 5BA
-mirage_5ba_2;▄Mirage 5BA
+mig-21_bison_shop;MiG-21 Bison
+mig-21_bison_0;MiG-21 Bison
+mig-21_bison_1;MiG-21 Bison
+mig-21_bison_2;MiG-21 Bison
+mirage_5ba_shop;Mirage 5BA
+mirage_5ba_0;Mirage 5BA
+mirage_5ba_1;Mirage 5BA
+mirage_5ba_2;Mirage 5BA
 radars/us_an_tps_43_radar_0;AN/TPS-43
 radars/us_an_tps_43_radar_1;AN/TPS-43
 radars/us_an_tps_43_radar_2;AN/TPS-43
@@ -13171,10 +13171,10 @@ pbm_5a_shop;PBM-5A
 pbm_5a_0;PBM-5A Mariner
 pbm_5a_1;PBM-5A
 pbm_5a_2;PBM-5A
-f_14a_iriaf_shop;▄F-14A
-f_14a_iriaf_0;▄F-14A Tomcat IRIAF
-f_14a_iriaf_1;▄F-14A
-f_14a_iriaf_2;▄F-14A
+f_14a_iriaf_shop;☫F-14A
+f_14a_iriaf_0;☫F-14A Tomcat IRIAF
+f_14a_iriaf_1;☫F-14A
+f_14a_iriaf_2;☫F-14A
 a_10c_shop;A-10C
 a_10c_0;A-10C Thunderbolt II
 a_10c_1;A-10C
@@ -13363,16 +13363,16 @@ av_8s_thailand_shop;▄AV-8S [E]
 av_8s_thailand_0;▄AV-8S Matador Early
 av_8s_thailand_1;▄AV-8S [E]
 av_8s_thailand_2;▄AV-8S [E]
-bf-109c_1_promo_shop;Bf 109 C-1
-bf-109c_1_promo_0;Bf 109 C-1
-bf-109c_1_promo_1;Bf 109 C-1
-bf-109c_1_promo_2;Bf 109 C-1
+bf-109c_1_promo_shop;Bf 109 C-1 Promo
+bf-109c_1_promo_0;Bf 109 C-1 (WTM Promo)
+bf-109c_1_promo_1;Bf 109 C-1 Promo
+bf-109c_1_promo_2;Bf 109 C-1 Promo
 cn_plz_05_shop;PLZ05
 cn_plz_05_0;PLZ05
 cn_plz_05_1;PLZ05
 cn_plz_05_2;PLZ05
 f_117_shop;F-117
-f_117_0;F-117 OCIP II Nighthawk
+f_117_0;F-117 Nighthawk
 f_117_1;F-117
 f_117_2;F-117
 f_15e_shop;F-15E
@@ -13495,10 +13495,10 @@ mi_35m_pakistan_shop;▄Mi-35M
 mi_35m_pakistan_0;▄Mi-35M
 mi_35m_pakistan_1;▄Mi-35M
 mi_35m_pakistan_2;▄Mi-35M
-mirage_2000_5ei_shop;☀Mirage 2000-5EI
-mirage_2000_5ei_0;☀Mirage 2000-5EI
-mirage_2000_5ei_1;☀Mirage 2000-5EI
-mirage_2000_5ei_2;☀Mirage 2000-5EI
+mirage_2000_5ei_shop;Mirage 2000-5EI
+mirage_2000_5ei_0;Mirage 2000-5EI
+mirage_2000_5ei_1;Mirage 2000-5EI
+mirage_2000_5ei_2;Mirage 2000-5EI
 mirage_2000d_rmv_shop;Mirage 2000D-RMV
 mirage_2000d_rmv_0;Mirage 2000D-RMV
 mirage_2000d_rmv_1;Mirage 2000D-RMV
@@ -13514,10 +13514,10 @@ saab_ja37di_f21_2;JA37DI F21
 shop/group/germ_roland_osa_group;Roland/Osa
 shop/group/saab_ja37d_group;JA37D/DI
 shop/group/uk_stormer_group;Stormer AD/HVM
-su_22m4_de_wtd61_shop;◄Su-22M4 WTD61
-su_22m4_de_wtd61_0;◄Su-22M4 WTD61
-su_22m4_de_wtd61_1;◄Su-22M4 WTD61
-su_22m4_de_wtd61_2;◄Su-22M4 WTD61
+su_22m4_de_wtd61_shop;Su-22M4 WTD61
+su_22m4_de_wtd61_0;Su-22M4 WTD61
+su_22m4_de_wtd61_1;Su-22M4 WTD61
+su_22m4_de_wtd61_2;Su-22M4 WTD61
 sw_bmp_2md_shop;BMP-2MD
 sw_bmp_2md_0;BMP-2MD
 sw_bmp_2md_1;BMP-2MD
@@ -13546,10 +13546,10 @@ alpha_jet_a_thailand_shop;▄Alpha Jet A
 alpha_jet_a_thailand_0;▄Alpha Jet A
 alpha_jet_a_thailand_1;▄Alpha Jet A
 alpha_jet_a_thailand_2;▄Alpha Jet A
-alpha_jet_th_phase_1_shop;▄Alpha Jet TH
-alpha_jet_th_phase_1_0;▄Alpha Jet TH (Phase 1)
-alpha_jet_th_phase_1_1;▄Alpha Jet TH
-alpha_jet_th_phase_1_2;▄Alpha Jet TH
+alpha_jet_th_phase_1_shop;Alpha Jet TH
+alpha_jet_th_phase_1_0;Alpha Jet TH (Phase 1)
+alpha_jet_th_phase_1_1;Alpha Jet TH
+alpha_jet_th_phase_1_2;Alpha Jet TH
 av_8s_late_thailand_shop;▄AV-8S [L]
 av_8s_late_thailand_0;▄AV-8S Matador Late
 av_8s_late_thailand_1;▄AV-8S [L]
@@ -13574,10 +13574,10 @@ f-5a_thailand_shop;▄F-5A
 f-5a_thailand_0;▄F-5A Freedom Fighter
 f-5a_thailand_1;▄F-5A
 f-5a_thailand_2;▄F-5A
-f-5t_thailand_shop;▄F-5T
-f-5t_thailand_0;▄F-5T Tigris SCU
-f-5t_thailand_1;▄F-5T
-f-5t_thailand_2;▄F-5T
+f-5t_thailand_shop;F-5T
+f-5t_thailand_0;F-5T Tigris SCU
+f-5t_thailand_1;F-5T
+f-5t_thailand_2;F-5T
 f-84g_thailand_shop;▄F-84G-21-RE
 f-84g_thailand_0;▄F-84G-21-RE Thunderjet
 f-84g_thailand_1;▄F-84G-21-RE [THA]
@@ -13735,10 +13735,10 @@ sb2c_5_thailand_shop;▄SB2C-5
 sb2c_5_thailand_0;▄SB2C-5 Helldiver
 sb2c_5_thailand_1;▄SB2C-5 [THA]
 sb2c_5_thailand_2;▄SB2C-5 [THA]
-f-5ag_norway_shop;◢F-5A(G)
-f-5ag_norway_0;◢F-5A(G) Tiger-PAWS
-f-5ag_norway_1;◢F-5A(G)
-f-5ag_norway_2;◢F-5A(G)
+f-5ag_norway_shop;F-5A(G)
+f-5ag_norway_0;F-5A(G) Tiger-PAWS
+f-5ag_norway_1;F-5A(G)
+f-5ag_norway_2;F-5A(G)
 fr_battleship_strasbourg_shop;Strasbourg
 fr_battleship_strasbourg_0;Dunkerque-class, Strasbourg, 1942
 fr_battleship_strasbourg_1;Strasbourg
@@ -13871,7 +13871,7 @@ it_fiat_6614_firos_1;FIROS 6
 it_fiat_6614_firos_2;FIROS 6
 shop/group/f_14_group;F-14
 shop/group/tiger_group;Tiger HAD/Tiger HAC
-shop/group/tornado_ids_it_group;Tornado IDS
+shop/group/tornado_ids_it_group;▄Tornado IDS
 harrier_t10_shop;Harrier T.10
 harrier_t10_0;Harrier T.10
 harrier_t10_1;Harrier T.10
@@ -14080,22 +14080,22 @@ l_39za_shop;▂L-39ZA
 l_39za_0;▂L-39ZA Albatros
 l_39za_1;▂L-39ZA
 l_39za_2;▂L-39ZA
-hunter_f58a_1971_switzerland_shop;◌Hunter F.58A
-hunter_f58a_1971_switzerland_0;◌Hunter F.58A (1971)
-hunter_f58a_1971_switzerland_1;◌Hunter F.58A
-hunter_f58a_1971_switzerland_2;◌Hunter F.58A
+hunter_f58a_1971_switzerland_shop;Hunter F.58A
+hunter_f58a_1971_switzerland_0;Hunter F.58A (1971)
+hunter_f58a_1971_switzerland_1;Hunter F.58A
+hunter_f58a_1971_switzerland_2;Hunter F.58A
 f-5e_switzerland_shop;◌F-5E
 f-5e_switzerland_0;◌F-5E Tiger II
 f-5e_switzerland_1;◌F-5E
 f-5e_switzerland_2;◌F-5E
-nf_5a_netherlands_shop;◘NF-5A
-nf_5a_netherlands_0;◘NF-5A Freedom Fighter
-nf_5a_netherlands_1;◘NF-5A
-nf_5a_netherlands_2;◘NF-5A
-mirage_3s_c70_switzerland_shop;◌Mirage IIIS
-mirage_3s_c70_switzerland_0;◌Mirage IIIS C.70
-mirage_3s_c70_switzerland_1;◌Mirage IIIS
-mirage_3s_c70_switzerland_2;◌Mirage IIIS
+nf_5a_netherlands_shop;NF-5A
+nf_5a_netherlands_0;NF-5A Freedom Fighter
+nf_5a_netherlands_1;NF-5A
+nf_5a_netherlands_2;NF-5A
+mirage_3s_c70_switzerland_shop;Mirage IIIS
+mirage_3s_c70_switzerland_0;Mirage IIIS C.70
+mirage_3s_c70_switzerland_1;Mirage IIIS
+mirage_3s_c70_switzerland_2;Mirage IIIS
 fokker_d21_netherlands_shop;Fokker D.XXI
 fokker_d21_netherlands_0;Fokker D.XXI
 fokker_d21_netherlands_1;Fokker D.XXI
@@ -14400,10 +14400,10 @@ b_66b_shop;B-66B
 b_66b_0;B-66B Destroyer
 b_66b_1;B-66B
 b_66b_2;B-66B
-f-5th_thailand_shop;▄F-5TH
-f-5th_thailand_0;▄F-5TH Super Tigris TCU
-f-5th_thailand_1;▄F-5TH
-f-5th_thailand_2;▄F-5TH
+f-5th_thailand_shop;F-5TH
+f-5th_thailand_0;F-5TH Super Tigris TCU
+f-5th_thailand_1;F-5TH
+f-5th_thailand_2;F-5TH
 mi_35p_indonesia_shop;◥Mi-35P
 mi_35p_indonesia_0;◥Mi-35P
 mi_35p_indonesia_1;◥Mi-35P
@@ -14416,10 +14416,10 @@ fa_18a_raaf_shop;▄F/A-18A
 fa_18a_raaf_0;▄F/A-18A Hornet
 fa_18a_raaf_1;▄F/A-18A
 fa_18a_raaf_2;▄F/A-18A
-fa_18a_hug_2_raaf_shop;▄AF/A-18A [L]
-fa_18a_hug_2_raaf_0;▄AF/A-18A (HUG 2.4) Hornet
-fa_18a_hug_2_raaf_1;▄AF/A-18A [L]
-fa_18a_hug_2_raaf_2;▄AF/A-18A [L]
+fa_18a_hug_2_raaf_shop;AF/A-18A [L]
+fa_18a_hug_2_raaf_0;AF/A-18A (HUG 2.4) Hornet
+fa_18a_hug_2_raaf_1;AF/A-18A [L]
+fa_18a_hug_2_raaf_2;AF/A-18A [L]
 cf_188a_canada_shop;CF-188A
 cf_188a_canada_0;CF-188A
 cf_188a_canada_1;CF-188A
@@ -14665,10 +14665,10 @@ it_c13_tua_shop;C13/TUA
 it_c13_tua_0;OTO C13/TUA
 it_c13_tua_1;C13/TUA
 it_c13_tua_2;C13/TUA
-su_30mk2v_venezuela_shop;▄Su-30MK2 AMV
-su_30mk2v_venezuela_0;▄Su-30MK2 AMV
-su_30mk2v_venezuela_1;▄Su-30MK2 AMV
-su_30mk2v_venezuela_2;▄Su-30MK2 AMV
+su_30mk2v_venezuela_shop;Su-30MK2 AMV
+su_30mk2v_venezuela_0;Su-30MK2 AMV
+su_30mk2v_venezuela_1;Su-30MK2 AMV
+su_30mk2v_venezuela_2;Su-30MK2 AMV
 f_15c_golden_eagle_shop;F-15C Golden Eagle
 f_15c_golden_eagle_0;F-15C Golden Eagle
 f_15c_golden_eagle_1;F-15C Golden Eagle
@@ -14677,10 +14677,10 @@ f_16am_block_20_mlu_norway_shop;◢F-16AM MLU
 f_16am_block_20_mlu_norway_0;◢F-16AM Block 20 MLU Fighting Falcon
 f_16am_block_20_mlu_norway_1;◢F-16AM MLU
 f_16am_block_20_mlu_norway_2;◢F-16AM MLU
-tornado_ids_de_assta3_sle_shop;◄Tornado IDS SLE
-tornado_ids_de_assta3_sle_0;◄Tornado IDS SLE
-tornado_ids_de_assta3_sle_1;◄Tornado IDS SLE
-tornado_ids_de_assta3_sle_2;◄Tornado IDS SLE
+tornado_ids_de_assta3_sle_shop;Tornado IDS SLE
+tornado_ids_de_assta3_sle_0;Tornado IDS SLE
+tornado_ids_de_assta3_sle_1;Tornado IDS SLE
+tornado_ids_de_assta3_sle_2;Tornado IDS SLE
 hawk_200_shop;Hawk 200
 hawk_200_0;Hawk 200
 hawk_200_1;Hawk 200
@@ -14827,10 +14827,10 @@ j_10c_shop;J-10C
 j_10c_0;J-10C
 j_10c_1;J-10C
 j_10c_2;J-10C
-h-75m_china_shop;☀H-75M
-h-75m_china_0;☀H-75M (H-75A-8)
-h-75m_china_1;☀H-75M
-h-75m_china_2;☀H-75M
+h-75m_china_shop;H-75M
+h-75m_china_0;H-75M (H-75A-8)
+h-75m_china_1;H-75M
+h-75m_china_2;H-75M
 fr_1_fireball_shop;FR-1
 fr_1_fireball_0;FR-1 Fireball
 fr_1_fireball_1;FR-1
@@ -14875,18 +14875,18 @@ mig_25pd_shop;MiG-25PD
 mig_25pd_0;MiG-25PD
 mig_25pd_1;MiG-25PD
 mig_25pd_2;MiG-25PD
-mig_29n_shop;▄MiG-29N
-mig_29n_0;▄MiG-29N Izdeliye 9.12SD
-mig_29n_1;▄MiG-29N
-mig_29n_2;▄MiG-29N
-su_30mkm_shop;▄Su-30MKM
-su_30mkm_0;▄Su-30MKM
-su_30mkm_1;▄Su-30MKM
-su_30mkm_2;▄Su-30MKM
-su_30mkk_shop;␗Su-30MKK
-su_30mkk_0;␗Su-30MKK
-su_30mkk_1;␗Su-30MKK
-su_30mkk_2;␗Su-30MKK
+mig_29n_shop;MiG-29N
+mig_29n_0;MiG-29N Izdeliye 9.12SD
+mig_29n_1;MiG-29N
+mig_29n_2;MiG-29N
+su_30mkm_shop;Su-30MKM
+su_30mkm_0;Su-30MKM
+su_30mkm_1;Su-30MKM
+su_30mkm_2;Su-30MKM
+su_30mkk_shop;Su-30MKK
+su_30mkk_0;Su-30MKK
+su_30mkk_1;Su-30MKK
+su_30mkk_2;Su-30MKK
 su_30sm2_shop;Su-30SM2
 su_30sm2_0;Su-30SM2
 su_30sm2_1;Su-30SM2
@@ -14911,10 +14911,10 @@ ef_2000_typhoon_aesa_shop;Typhoon [AESA]
 ef_2000_typhoon_aesa_0;EF-2000 Typhoon [AESA]
 ef_2000_typhoon_aesa_1;Typhoon [AESA]
 ef_2000_typhoon_aesa_2;Typhoon [AESA]
-hawk_209_indonesia_shop;◥Hawk 209
-hawk_209_indonesia_0;◥Hawk 209
-hawk_209_indonesia_1;◥Hawk 209
-hawk_209_indonesia_2;◥Hawk 209
+hawk_209_indonesia_shop;Hawk 209
+hawk_209_indonesia_0;Hawk 209
+hawk_209_indonesia_1;Hawk 209
+hawk_209_indonesia_2;Hawk 209
 cn_hq_11_shop;HQ11
 cn_hq_11_0;HQ11
 cn_hq_11_1;HQ11
@@ -15034,7 +15034,7 @@ me-210_shop;Me 210
 me-210_0;Me 210
 me-210_1;Me 210
 me-210_2;Me 210
-me_210a_1_shop;Me 210A-1
+me_210a_1_shop;Me 210 A-1
 me_210a_1_0;Me 210 A-1 Hornisse
 me_210a_1_1;Me 210 A-1
 me_210a_1_2;Me 210 A-1
