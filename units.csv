@@ -3151,10 +3151,10 @@ p-47d_22_re_shop;P-47D-22-RE
 p-47d_22_re_0;P-47D-22-RE Thunderbolt
 p-47d_22_re_1;P-47D-22-RE
 p-47d_22_re_2;P-47D-22-RE
-thunderbolt_mk1_shop;▄Thunderbolt Mk I
-thunderbolt_mk1_0;▄Thunderbolt Mk I
-thunderbolt_mk1_1;▄Thunderbolt Mk I
-thunderbolt_mk1_2;▄Thunderbolt Mk I
+thunderbolt_mk1_shop;Thunderbolt Mk I
+thunderbolt_mk1_0;Thunderbolt Mk I
+thunderbolt_mk1_1;Thunderbolt Mk I
+thunderbolt_mk1_2;Thunderbolt Mk I
 p-47d_23_re_shop;▄P-47D-23
 p-47d_23_re_0;▄P-47D-23-RE Thunderbolt
 p-47d_23_re_1;▄P-47D-23
@@ -3172,18 +3172,18 @@ f-84f_germany_0;◄F-84F Thunderstreak
 f-84f_germany_1;◄F-84F
 f-84f_germany_2;◄F-84F
 shop/group/p-51_group;P-51 [L]
-p-51b_shop;▄Mustang Mk IA
-p-51b_0;▄Mustang Mk IA
-p-51b_1;▄Mustang Mk IA
-p-51b_2;▄Mustang Mk IA
+p-51b_shop;Mustang Mk IA
+p-51b_0;Mustang Mk IA
+p-51b_1;Mustang Mk IA
+p-51b_2;Mustang Mk IA
 p-51c-10-nt_shop;P-51C-10
 p-51c-10-nt_0;P-51C-10 Mustang
 p-51c-10-nt_1;P-51C-10
 p-51c-10-nt_2;P-51C-10
-p-51c-11-nt_japan_shop;▅P-51C-11
+p-51c-11-nt_japan_shop;▅P-51C-11-NT
 p-51c-11-nt_japan_0;▅P-51C-11-NT
-p-51c-11-nt_japan_1;▅P-51C-11
-p-51c-11-nt_japan_2;▅P-51C-11
+p-51c-11-nt_japan_1;▅P-51C-11-NT
+p-51c-11-nt_japan_2;▅P-51C-11-NT
 p-51d-5_shop;P-51D-5
 p-51d-5_0;P-51D-5 Mustang
 p-51d-5_1;P-51D-5
@@ -3372,10 +3372,10 @@ beaufighter_mk1_40mm_shop;Beaufighter Mk I (40mm)
 beaufighter_mk1_40mm_0;Beaufighter Mk I (40mm Prototype)
 beaufighter_mk1_40mm_1;Beaufighter Mk I (40mm)
 beaufighter_mk1_40mm_2;Beaufighter Mk I (40mm)
-beaufighter_mk21_shop;Beaufighter Mk XXI
-beaufighter_mk21_0;Beaufighter Mk XXI
-beaufighter_mk21_1;Beaufighter Mk XXI
-beaufighter_mk21_2;Beaufighter Mk XXI
+beaufighter_mk21_shop;Beaufighter Mk 21
+beaufighter_mk21_0;Beaufighter Mk 21
+beaufighter_mk21_1;Beaufighter Mk 21
+beaufighter_mk21_2;Beaufighter Mk 21
 beaufighter_mk6c_shop;Beaufighter Mk VIc
 beaufighter_mk6c_0;Beaufighter Mk VIc
 beaufighter_mk6c_1;Beaufighter Mk VIc
@@ -3388,14 +3388,14 @@ beaufort_mkviii_shop;Beaufort Mk VIII
 beaufort_mkviii_0;Beaufort Mk VIII
 beaufort_mkviii_1;Beaufort Mk VIII
 beaufort_mkviii_2;Beaufort Mk VIII
-boomerang_mki_shop;▄Boomerang Mk I
-boomerang_mki_0;▄Boomerang Mk I
-boomerang_mki_1;▄Boomerang Mk I
-boomerang_mki_2;▄Boomerang Mk I
-boomerang_mkii_shop;▄Boomerang Mk II
-boomerang_mkii_0;▄Boomerang Mk II
-boomerang_mkii_1;▄Boomerang Mk II
-boomerang_mkii_2;▄Boomerang Mk II
+boomerang_mki_shop;Boomerang Mk I
+boomerang_mki_0;Boomerang Mk I
+boomerang_mki_1;Boomerang Mk I
+boomerang_mki_2;Boomerang Mk I
+boomerang_mkii_shop;Boomerang Mk II
+boomerang_mkii_0;Boomerang Mk II
+boomerang_mkii_1;Boomerang Mk II
+boomerang_mkii_2;Boomerang Mk II
 d3a1_shop;D3A1
 d3a1_0;D3A1
 d3a1_1;D3A1
@@ -3404,10 +3404,10 @@ f4f-4_shop;F4F-4
 f4f-4_0;F4F-4 Wildcat
 f4f-4_1;F4F-4
 f4f-4_2;F4F-4
-f4f-4_martlet_mk4_shop;▄Martlet Mk IV
-f4f-4_martlet_mk4_0;▄Martlet Mk IV
-f4f-4_martlet_mk4_1;▄Martlet Mk IV
-f4f-4_martlet_mk4_2;▄Martlet Mk IV
+f4f-4_martlet_mk4_shop;Martlet Mk IV
+f4f-4_martlet_mk4_0;Martlet Mk IV
+f4f-4_martlet_mk4_1;Martlet Mk IV
+f4f-4_martlet_mk4_2;Martlet Mk IV
 shop/group/f4f_group;F4F/F6F
 shop/group/f6f_group;F6F
 shop/group/f6f_france_group;▄F6F
@@ -3476,18 +3476,18 @@ hs-129b-2_shop;Hs 129 B-2
 hs-129b-2_0;Hs 129 B-2
 hs-129b-2_1;Hs 129 B-2
 hs-129b-2_2;Hs 129 B-2
-hurricane_mk1_shop;Hurricane Mk I
-hurricane_mk1_0;Hurricane Mk I
-hurricane_mk1_1;Hurricane Mk I
-hurricane_mk1_2;Hurricane Mk I
+hurricane_mk1_shop;Hurricane Mk I [L]
+hurricane_mk1_0;Hurricane Mk I Late
+hurricane_mk1_1;Hurricane Mk I [L]
+hurricane_mk1_2;Hurricane Mk I [L]
 hurricane_mk1_late_shop;Hurricane Mk I [L]
 hurricane_mk1_late_0;Hurricane Mk I Late
 hurricane_mk1_late_1;Hurricane Mk I [L]
 hurricane_mk1_late_2;Hurricane Mk I [L]
-hurricane_mk1_late_ep_shop;Hurricane Mk I FAA M
-hurricane_mk1_late_ep_0;Hurricane Mk I FAA M
-hurricane_mk1_late_ep_1;Hurricane Mk I FAA M
-hurricane_mk1_late_ep_2;Hurricane Mk I FAA M
+hurricane_mk1_late_ep_shop;Hurricane Mk I [L] FAA M
+hurricane_mk1_late_ep_0;Hurricane Mk I Late FAA M
+hurricane_mk1_late_ep_1;Hurricane Mk I [L] FAA M
+hurricane_mk1_late_ep_2;Hurricane Mk I [L] FAA M
 ki_43_3_otsu_shop;Ki-43-III Otsu
 ki_43_3_otsu_0;Ki-43-III Otsu Hayabusa
 ki_43_3_otsu_1;Ki-43-III Otsu
@@ -3502,8 +3502,8 @@ ki_61_1a_hei_1;Ki-61-I Hei
 ki_61_1a_hei_2;Ki-61-I Hei
 ki_61_1a_hei_ep_shop;Tada's Ki-61-I Hei
 ki_61_1a_hei_ep_0;Tada's Ki-61-I Hei Hien
-ki_61_1a_hei_ep_1;Ki-61-I Hei
-ki_61_1a_hei_ep_2;Ki-61-I Hei
+ki_61_1a_hei_ep_1;Tada's Ki-61-I Hei
+ki_61_1a_hei_ep_2;Tada's Ki-61-I Hei
 ki_61_1a_ko_shop;Ki-61-I Ko
 ki_61_1a_ko_0;Ki-61-I Ko Hien
 ki_61_1a_ko_1;Ki-61-I Ko
@@ -3604,10 +3604,10 @@ tempest_mkv_vikkers_shop;Tempest Mk V (Vickers P)
 tempest_mkv_vikkers_0;Tempest Mk V (Vickers P)
 tempest_mkv_vikkers_1;Tempest Mk V (Vickers P)
 tempest_mkv_vikkers_2;Tempest Mk V (Vickers P)
-wirraway_shop;▄Wirraway
-wirraway_0;▄Wirraway
-wirraway_1;▄Wirraway
-wirraway_2;▄Wirraway
+wirraway_shop;Wirraway
+wirraway_0;Wirraway
+wirraway_1;Wirraway
+wirraway_2;Wirraway
 ju-87r-2_shop;Ju 87 R-2
 ju-87r-2_0;Ju 87 R-2
 ju-87r-2_1;Ju 87 R-2
@@ -4003,10 +4003,10 @@ wellington_mk1c_shop;Wellington Mk Ic [E]
 wellington_mk1c_0;Wellington Mk Ic Early
 wellington_mk1c_1;Wellington Mk Ic [E]
 wellington_mk1c_2;Wellington Mk Ic [E]
-shackleton_mr_mk_2_shop;Shackleton MR.2
-shackleton_mr_mk_2_0;Shackleton MR.2
-shackleton_mr_mk_2_1;Shackleton MR.2
-shackleton_mr_mk_2_2;Shackleton MR.2
+shackleton_mr_mk_2_shop;Shackleton MR.Mk.2
+shackleton_mr_mk_2_0;Shackleton MR.Mk.2
+shackleton_mr_mk_2_1;Shackleton MR.Mk.2
+shackleton_mr_mk_2_2;Shackleton MR.Mk.2
 a_5c_shop;A-5C
 a_5c_0;A-5C
 a_5c_1;A-5C
@@ -4151,22 +4151,22 @@ meteor_fmk4_sw_shop;Meteor F Mk.4 G.41G
 meteor_fmk4_sw_0;Meteor F Mk.4 G.41G
 meteor_fmk4_sw_1;Meteor F Mk.4 G.41G
 meteor_fmk4_sw_2;Meteor F Mk.4 G.41G
-hellcat_fmk1_shop;▄Hellcat Mk II
-hellcat_fmk1_0;▄Hellcat Mk II
-hellcat_fmk1_1;▄Hellcat Mk II
-hellcat_fmk1_2;▄Hellcat Mk II
-intruder_mk_1_shop;▄Havoc Mk I
-intruder_mk_1_0;▄Havoc Mk I
-intruder_mk_1_1;▄Havoc Mk I
-intruder_mk_1_2;▄Havoc Mk I
-boston_mk_1_shop;▄Boston Mk I
-boston_mk_1_0;▄Boston Mk I
-boston_mk_1_1;▄Boston Mk I
-boston_mk_1_2;▄Boston Mk I
-db_7_shop;▄DB-7
-db_7_0;▄DB-7
-db_7_1;▄DB-7
-db_7_2;▄DB-7
+hellcat_fmk1_shop;Hellcat Mk II
+hellcat_fmk1_0;Hellcat Mk II
+hellcat_fmk1_1;Hellcat Mk II
+hellcat_fmk1_2;Hellcat Mk II
+intruder_mk_1_shop;Havoc Mk I
+intruder_mk_1_0;Havoc Mk I
+intruder_mk_1_1;Havoc Mk I
+intruder_mk_1_2;Havoc Mk I
+boston_mk_1_shop;Boston Mk I
+boston_mk_1_0;Boston Mk I
+boston_mk_1_1;Boston Mk I
+boston_mk_1_2;Boston Mk I
+db_7_shop;DB-7
+db_7_0;DB-7
+db_7_1;DB-7
+db_7_2;DB-7
 fw-190a-5_japan_shop;▅Fw 190 A-5
 fw-190a-5_japan_0;▅Fw 190 A-5
 fw-190a-5_japan_1;▅Fw 190 A-5
@@ -4534,10 +4534,10 @@ he_112b_2_shop;He 112 B-2/U2
 he_112b_2_0;He 112 B-2/U2
 he_112b_2_1;He 112 B-2/U2
 he_112b_2_2;He 112 B-2/U2
-meteor_fmk8_shop;Meteor F Mk.8
+meteor_fmk8_shop;Meteor F Mk.8 G.41K
 meteor_fmk8_0;Meteor F Mk.8 G.41K
-meteor_fmk8_1;Meteor F Mk.8
-meteor_fmk8_2;Meteor F Mk.8
+meteor_fmk8_1;Meteor F Mk.8 G.41K
+meteor_fmk8_2;Meteor F Mk.8 G.41K
 meteor_fmk8_iaf_shop;Meteor F Mk.8
 meteor_fmk8_iaf_0;Meteor F Mk.8
 meteor_fmk8_iaf_1;Meteor F Mk.8
@@ -4817,8 +4817,8 @@ i-153_m62_zhukovskiy_1;I-153 M62
 i-153_m62_zhukovskiy_2;I-153 M62
 gladiator_mk2_tuck_shop;Tuck's Gladiator Mk II
 gladiator_mk2_tuck_0;Tuck's Gladiator Mk II
-gladiator_mk2_tuck_1;Gladiator Mk II
-gladiator_mk2_tuck_2;Gladiator Mk II
+gladiator_mk2_tuck_1;Tuck's Gladiator Mk II
+gladiator_mk2_tuck_2;Tuck's Gladiator Mk II
 fiat_cr42_marcolin_shop;▀Marcolin's C.R.42 CN
 fiat_cr42_marcolin_0;▀Marcolin's C.R.42 CN
 fiat_cr42_marcolin_1;▀Marcolin's C.R.42 CN
@@ -4829,8 +4829,8 @@ f2a-1_thach_1;F2A-1
 f2a-1_thach_2;F2A-1
 a5m4_hagiri_shop;Hagiri's A5M4
 a5m4_hagiri_0;Hagiri's A5M4
-a5m4_hagiri_1;A5M4
-a5m4_hagiri_2;A5M4
+a5m4_hagiri_1;Hagiri's A5M4
+a5m4_hagiri_2;Hagiri's A5M4
 h-75a-1_finland_shop;Hawk H-75A-1
 h-75a-1_finland_0;Hawk H-75A-1
 h-75a-1_finland_1;Hawk H-75A-1
@@ -5230,10 +5230,10 @@ me-262c-1a_shop;Me 262 C-1a
 me-262c-1a_0;Me 262 C-1a Heimatschützer I
 me-262c-1a_1;Me 262 C-1a
 me-262c-1a_2;Me 262 C-1a
-avenger_mk1_shop;▄Avenger Mk II
-avenger_mk1_0;▄Avenger Mk II
-avenger_mk1_1;▄Avenger Mk II
-avenger_mk1_2;▄Avenger Mk II
+avenger_mk1_shop;Avenger Mk II
+avenger_mk1_0;Avenger Mk II
+avenger_mk1_1;Avenger Mk II
+avenger_mk1_2;Avenger Mk II
 f4u-1a_usmc_shop;F4U-1A (USMC)
 f4u-1a_usmc_0;F4U-1A (USMC) Corsair
 f4u-1a_usmc_1;F4U-1A (USMC)
@@ -5291,8 +5291,8 @@ ki-27_otsu_1;Ki-27 Otsu
 ki-27_otsu_2;Ki-27 Otsu
 ki-27_otsu_ep_shop;Ki-27 Otsu Tachiarai
 ki-27_otsu_ep_0;Ki-27 Otsu Tachiarai
-ki-27_otsu_ep_1;Ki-27 Otsu
-ki-27_otsu_ep_2;Ki-27 Otsu
+ki-27_otsu_ep_1;Ki-27 Otsu Tachiarai
+ki-27_otsu_ep_2;Ki-27 Otsu Tachiarai
 fw-190a-4_shop;Fw 190 A-4
 fw-190a-4_0;Fw 190 A-4
 fw-190a-4_1;Fw 190 A-4
@@ -5366,10 +5366,10 @@ f-105d_shop;F-105D
 f-105d_0;F-105D Thunderchief
 f-105d_1;F-105D
 f-105d_2;F-105D
-pby-5a_raf_shop;▄Catalina Mk IIIa
-pby-5a_raf_0;▄Catalina Mk IIIa
-pby-5a_raf_1;▄Catalina Mk IIIa
-pby-5a_raf_2;▄Catalina Mk IIIa
+pby-5a_raf_shop;Catalina Mk IIIa
+pby-5a_raf_0;Catalina Mk IIIa
+pby-5a_raf_1;Catalina Mk IIIa
+pby-5a_raf_2;Catalina Mk IIIa
 yak-1b_luftwaffe_shop;▀Yak-1B
 yak-1b_luftwaffe_0;▀Yak-1B
 yak-1b_luftwaffe_1;▀Yak-1B
@@ -5498,14 +5498,14 @@ seafire_mk17_shop;Seafire F Mk XVII
 seafire_mk17_0;Seafire F Mk XVII
 seafire_mk17_1;Seafire F Mk XVII
 seafire_mk17_2;Seafire F Mk XVII
-seafire_mk3_shop;Seafire LF Mk.III
-seafire_mk3_0;Seafire LF Mk.III
-seafire_mk3_1;Seafire LF Mk.III
-seafire_mk3_2;Seafire LF Mk.III
-seafire_mk3_france_shop;▄Seafire LF Mk.III
-seafire_mk3_france_0;▄Seafire LF Mk.III
-seafire_mk3_france_1;▄Seafire LF Mk.III
-seafire_mk3_france_2;▄Seafire LF Mk.III
+seafire_mk3_shop;Seafire LF Mk III
+seafire_mk3_0;Seafire LF Mk III
+seafire_mk3_1;Seafire LF Mk III
+seafire_mk3_2;Seafire LF Mk III
+seafire_mk3_france_shop;▄Seafire LF Mk III
+seafire_mk3_france_0;▄Seafire LF Mk III
+seafire_mk3_france_1;▄Seafire LF Mk III
+seafire_mk3_france_2;▄Seafire LF Mk III
 attaker_fb1_shop;Attacker FB.1
 attaker_fb1_0;Attacker FB.1
 attaker_fb1_1;Attacker FB.1
@@ -5606,16 +5606,16 @@ gladiator_mk2_navy_1;Sea Gladiator Mk I
 gladiator_mk2_navy_2;Sea Gladiator Mk I
 spitfire_fr_mk14e_shop;Prendergast's Spitfire FR Mk XIVe
 spitfire_fr_mk14e_0;Prendergast's Spitfire FR Mk XIVe
-spitfire_fr_mk14e_1;Spitfire FR Mk XIVe
-spitfire_fr_mk14e_2;Spitfire FR Mk XIVe
+spitfire_fr_mk14e_1;Prendergast's Spitfire FR Mk XIVe
+spitfire_fr_mk14e_2;Prendergast's Spitfire FR Mk XIVe
 il_2_1942_luftwaffe_shop;▀IL-2 (1942)
 il_2_1942_luftwaffe_0;▀IL-2 (1942)
 il_2_1942_luftwaffe_1;▀IL-2 (1942)
 il_2_1942_luftwaffe_2;▀IL-2 (1942)
 spitfire_ix_plagis_shop;Plagis' Spitfire LF Mk IXc
 spitfire_ix_plagis_0;Plagis' Spitfire LF Mk IXc
-spitfire_ix_plagis_1;Spitfire LF Mk IXc
-spitfire_ix_plagis_2;Spitfire LF Mk IXc
+spitfire_ix_plagis_1;Plagis' Spitfire LF Mk IXc
+spitfire_ix_plagis_2;Plagis' Spitfire LF Mk IXc
 j2m5_shop;J2M5
 j2m5_0;J2M5 Raiden
 j2m5_1;J2M5
@@ -5648,10 +5648,10 @@ sb2c_1c_shop;SB2C-1C
 sb2c_1c_0;SB2C-1C Helldiver
 sb2c_1c_1;SB2C-1C
 sb2c_1c_2;SB2C-1C
-j2m5_30mm_shop;J2M5 [Type 5]
-j2m5_30mm_0;J2M5 Raiden [30mm Type 5]
-j2m5_30mm_1;J2M5 [Type 5]
-j2m5_30mm_2;J2M5 [Type 5]
+j2m5_30mm_shop;J2M5 (Type 5)
+j2m5_30mm_0;J2M5 (Type 5) Raiden
+j2m5_30mm_1;J2M5 (Type 5)
+j2m5_30mm_2;J2M5 (Type 5)
 do_17e_1_shop;Do 17 E-1
 do_17e_1_0;Do 17 E-1
 do_17e_1_1;Do 17 E-1
@@ -5798,7 +5798,7 @@ ki_44_2_hei_china_1;☀Ki-44-II Hei
 ki_44_2_hei_china_2;☀Ki-44-II Hei
 shop/group/ju-88a_group;Ju 88 A
 shop/group/ki_44_group;Ki-44
-shop/group/wellington_group;Wellington
+shop/group/wellington_group;Wellington [E]
 gladiator_mk1_china_shop;☀Gladiator Mk I
 gladiator_mk1_china_0;☀Gladiator Mk I
 gladiator_mk1_china_1;☀Gladiator Mk I
@@ -6042,10 +6042,10 @@ f7f3_shop;F7F-3
 f7f3_0;F7F-3 Tigercat
 f7f3_1;F7F-3
 f7f3_2;F7F-3
-hudson_mk_v_shop;▄Hudson Mk V
-hudson_mk_v_0;▄Hudson Mk V
-hudson_mk_v_1;▄Hudson Mk V
-hudson_mk_v_2;▄Hudson Mk V
+hudson_mk_v_shop;Hudson Mk V
+hudson_mk_v_0;Hudson Mk V
+hudson_mk_v_1;Hudson Mk V
+hudson_mk_v_2;Hudson Mk V
 su-6_m71_shop;Su-6 (M-71F)
 su-6_m71_0;Su-6 (M-71F)
 su-6_m71_1;Su-6 (M-71F)
@@ -6418,10 +6418,10 @@ ki_109_shop;Ki-109
 ki_109_0;Ki-109
 ki_109_1;Ki-109
 ki_109_2;Ki-109
-corsair_fmk2_shop;▄Corsair F Mk II
-corsair_fmk2_0;▄Corsair F Mk II
-corsair_fmk2_1;▄Corsair F Mk II
-corsair_fmk2_2;▄Corsair F Mk II
+corsair_fmk2_shop;Corsair F Mk II
+corsair_fmk2_0;Corsair F Mk II
+corsair_fmk2_1;Corsair F Mk II
+corsair_fmk2_2;Corsair F Mk II
 d4y1_shop;D4Y1
 d4y1_0;D4Y1
 d4y1_1;D4Y1
@@ -11644,10 +11644,10 @@ f_16aj_shop;F-16AJ
 f_16aj_0;F-16AJ Fighting Falcon
 f_16aj_1;F-16AJ
 f_16aj_2;F-16AJ
-tornado_f3_shop;Tornado F.3
-tornado_f3_0;Tornado F.3
-tornado_f3_1;Tornado F.3
-tornado_f3_2;Tornado F.3
+tornado_f3_shop;Tornado F.3 [E]
+tornado_f3_0;Tornado F.3 Early
+tornado_f3_1;Tornado F.3 [E]
+tornado_f3_2;Tornado F.3 [E]
 ah_6m_shop;AH-6M
 ah_6m_0;AH-6M Little Bird
 ah_6m_1;AH-6M
@@ -12355,17 +12355,17 @@ shop/group/su-7_group;Su-7
 shop/group/mig-19_group;MiG-19/MiG-21
 shop/group/mig_27_group;MiG-27
 shop/group/mig-23m_group;MiG-23
-shop/group/blenheim_group;Blenheim
+shop/group/blenheim_group;Blenheim/Beaufort
 shop/group/spitfire_mk1_group;Spitfire [E]
 shop/group/sunderland_group;Sunderland
 shop/group/beaufighter_group;Beaufighter
 shop/group/spitfire_mk5b_group;Spitfire Mk Vb
 shop/group/wellington_late_group;Wellington [L]
 shop/group/spitfire_mk5c_group;Spitfire Mk Vc
-shop/group/brigand_group;Brigand
+shop/group/brigand_group;Brigand/Whirlwind
 shop/group/stirling_group;Stirling
 shop/group/spitfire_mk9e_group;Spitfire F
-shop/group/lincoln_group;Lincoln
+shop/group/lincoln_group;Lincoln/Shackleton
 shop/group/canberra_group;Canberra B
 shop/group/sea_hawk_group;Sea Hawk/Sea Venom
 shop/group/ki-45_eraly_group;Ki-45 [E]
@@ -13087,10 +13087,10 @@ sw_landsverk_ush_204_gk_shop;U-SH 204 GK
 sw_landsverk_ush_204_gk_0;Landsverk U-SH 204 GK
 sw_landsverk_ush_204_gk_1;U-SH 204 GK
 sw_landsverk_ush_204_gk_2;U-SH 204 GK
-tornado_f3_late_shop;Tornado F.3 CSP
-tornado_f3_late_0;Tornado F.3 Capability Sustainment Programme
-tornado_f3_late_1;Tornado F.3 CSP
-tornado_f3_late_2;Tornado F.3 CSP
+tornado_f3_late_shop;Tornado F.3 [L]
+tornado_f3_late_0;Tornado F.3 Late
+tornado_f3_late_1;Tornado F.3 [L]
+tornado_f3_late_2;Tornado F.3 [L]
 uk_battlecruiser_queen_mary_shop;HMS Queen Mary
 uk_battlecruiser_queen_mary_0;Queen Mary-class, HMS Queen Mary (14), 1914
 uk_battlecruiser_queen_mary_1;HMS Queen Mary
@@ -13578,10 +13578,10 @@ f-5t_thailand_shop;▄F-5T
 f-5t_thailand_0;▄F-5T Tigris SCU
 f-5t_thailand_1;▄F-5T
 f-5t_thailand_2;▄F-5T
-f-84g_thailand_shop;▄F-84G-21
+f-84g_thailand_shop;▄F-84G-21-RE
 f-84g_thailand_0;▄F-84G-21-RE Thunderjet
-f-84g_thailand_1;▄F-84G-21 [THA]
-f-84g_thailand_2;▄F-84G-21 [THA]
+f-84g_thailand_1;▄F-84G-21-RE [THA]
+f-84g_thailand_2;▄F-84G-21-RE [THA]
 fr_m44_shop;▄M44
 fr_m44_0;▄Howitzer, Self-propelled, Full Tracked: 155-mm, M44
 fr_m44_1;▄M44
@@ -14108,10 +14108,10 @@ ussr_t_72b3_arena_m_shop;T-72B3A
 ussr_t_72b3_arena_m_0;T-72B3A Arena-M
 ussr_t_72b3_arena_m_1;T-72B3A
 ussr_t_72b3_arena_m_2;T-72B3A
-marut_mk1_shop;▄HF-24
-marut_mk1_0;▄HF-24 Marut
-marut_mk1_1;▄HF-24
-marut_mk1_2;▄HF-24
+marut_mk1_shop;HF-24
+marut_mk1_0;HF-24 Marut
+marut_mk1_1;HF-24
+marut_mk1_2;HF-24
 fa_18c_mlu_2_finland_shop;▄F/A-18C MLU 2
 fa_18c_mlu_2_finland_0;▄F/A-18C MLU 2 Hornet
 fa_18c_mlu_2_finland_1;▄F/A-18C MLU 2
@@ -14348,14 +14348,14 @@ bf_109t_2_1;Bf 109 T-2
 bf_109t_2_2;Bf 109 T-2
 shop/group/mosquito_group;Mosquito
 shop/group/mosquito_norway_group;◢Mosquito
-mosquito_f_mk2_norway_shop;◢Mosquito F.Mk.II
-mosquito_f_mk2_norway_0;◢Mosquito F.Mk.II
-mosquito_f_mk2_norway_1;◢Mosquito F.Mk.II
-mosquito_f_mk2_norway_2;◢Mosquito F.Mk.II
-mosquito_nf_mk2_shop;Mosquito NF.Mk.II
-mosquito_nf_mk2_0;Mosquito NF.Mk.II
-mosquito_nf_mk2_1;Mosquito NF.Mk.II
-mosquito_nf_mk2_2;Mosquito NF.Mk.II
+mosquito_f_mk2_norway_shop;◢Mosquito F Mk II
+mosquito_f_mk2_norway_0;◢Mosquito F Mk II
+mosquito_f_mk2_norway_1;◢Mosquito F Mk II
+mosquito_f_mk2_norway_2;◢Mosquito F Mk II
+mosquito_nf_mk2_shop;Mosquito NF Mk II
+mosquito_nf_mk2_0;Mosquito NF Mk II
+mosquito_nf_mk2_1;Mosquito NF Mk II
+mosquito_nf_mk2_2;Mosquito NF Mk II
 mosquito_fb_mk6_norway_shop;◢Mosquito FB Mk VI
 mosquito_fb_mk6_norway_0;◢Mosquito FB Mk VI
 mosquito_fb_mk6_norway_1;◢Mosquito FB Mk VI
@@ -14368,10 +14368,10 @@ mosquito_fb_mk18_shop;Mosquito FB Mk XVIII
 mosquito_fb_mk18_0;Mosquito FB Mk XVIII
 mosquito_fb_mk18_1;Mosquito FB Mk XVIII
 mosquito_fb_mk18_2;Mosquito FB Mk XVIII
-mosquito_tr_mk33_shop;Mosquito TR.Mk.33
-mosquito_tr_mk33_0;Mosquito TR.Mk.33
-mosquito_tr_mk33_1;Mosquito TR.Mk.33
-mosquito_tr_mk33_2;Mosquito TR.Mk.33
+mosquito_tr_mk33_shop;Mosquito TR Mk 33
+mosquito_tr_mk33_0;Mosquito TR Mk 33
+mosquito_tr_mk33_1;Mosquito TR Mk 33
+mosquito_tr_mk33_2;Mosquito TR Mk 33
 kor_2_shop;KOR-2
 kor_2_0;KOR-2
 kor_2_1;KOR-2
@@ -14624,16 +14624,16 @@ yak_1_litvyak_shop;Yak-1 Litvyak
 yak_1_litvyak_0;Yak-1 Litvyak
 yak_1_litvyak_1;Yak-1 Litvyak
 yak_1_litvyak_2;Yak-1 Litvyak
-mosquito_b_mk16_shop;Mosquito B.Mk.XVI
-mosquito_b_mk16_0;Mosquito B.Mk.XVI
-mosquito_b_mk16_1;Mosquito B.Mk.XVI
-mosquito_b_mk16_2;Mosquito B.Mk.XVI
+mosquito_b_mk16_shop;Mosquito B Mk XVI
+mosquito_b_mk16_0;Mosquito B Mk XVI
+mosquito_b_mk16_1;Mosquito B Mk XVI
+mosquito_b_mk16_2;Mosquito B Mk XVI
 jh_7_shop;JH-7
 jh_7_0;JH-7 Block 02 Flying Leopard
 jh_7_1;JH-7
 jh_7_2;JH-7
 jh_7a_prototype_shop;JH-7A (P)
-jh_7a_prototype_0;JH-7A (Prototype) Flying Leopard
+jh_7a_prototype_0;JH-7A Prototype Flying Leopard
 jh_7a_prototype_1;JH-7A (P)
 jh_7a_prototype_2;JH-7A (P)
 xf5u_1_shop;XF5U-1
