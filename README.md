@@ -22,6 +22,8 @@ Note that is localization is AIR-FOCUSED and generally tries to stick to Gaijin'
 8. Go into the "lang" folder and copy the **NEW** units.csv file and replace the base one.
 Your localization should now be updated.
 ## Updating Localization
+!! If certain titles or texts are broken but no new vehicles have been added, change the language to Russian and back to English and it should fix everything !!
+
 Localizations need to be updated everytime new vehicles are added to War Thunder, or else the text will break. Assuming you already have the custom localizaton, the following instructions will help you update the localization to the newest update, or fix any broken text you might face when certain updates occur, such as events, even when there are no new vehicles.
 1. Delete the "lang" folder from your War Thunder files.
 2. Go into War Thunder and change your language from English to Russian, which should regenerate a new "lang" folder.
