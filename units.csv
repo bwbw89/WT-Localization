@@ -7512,15 +7512,15 @@ mi_4av_0;Mi-4AV
 mi_4av_1;Mi-4AV
 mi_4av_2;Mi-4AV
 ah_1f_shop;AH-1F
-ah_1f_0;AH-1F
+ah_1f_0;AH-1F Cobra
 ah_1f_1;AH-1F
 ah_1f_2;AH-1F
 uh_1c_shop;UH-1C
-uh_1c_0;UH-1C
+uh_1c_0;UH-1C Iroquois
 uh_1c_1;UH-1C
 uh_1c_2;UH-1C
 uh_1c_xm_30_shop;UH-1C XM-30
-uh_1c_xm_30_0;UH-1C XM-30
+uh_1c_xm_30_0;UH-1C XM-30 Iroquois
 uh_1c_xm_30_1;UH-1C XM-30
 uh_1c_xm_30_2;UH-1C XM-30
 mi_24a_shop;Mi-24A
@@ -7536,11 +7536,11 @@ mi_35m_0;Mi-35M
 mi_35m_1;Mi-35M
 mi_35m_2;Mi-35M
 ah_1z_shop;AH-1Z
-ah_1z_0;AH-1Z
+ah_1z_0;AH-1Z Viper
 ah_1z_1;AH-1Z
 ah_1z_2;AH-1Z
 uh_1b_shop;UH-1B
-uh_1b_0;UH-1B
+uh_1b_0;UH-1B Iroquois
 uh_1b_1;UH-1B
 uh_1b_2;UH-1B
 uh_1b_japan_shop;▅UH-1B
@@ -7548,7 +7548,7 @@ uh_1b_japan_0;▅UH-1B Hiyodori
 uh_1b_japan_1;▅UH-1B
 uh_1b_japan_2;▅UH-1B
 ah_1g_shop;AH-1G
-ah_1g_0;AH-1G
+ah_1g_0;AH-1G Cobra
 ah_1g_1;AH-1G
 ah_1g_2;AH-1G
 ju-288c_shop;Ju 288 C
@@ -8225,7 +8225,7 @@ j6k1_0;J6K1
 j6k1_1;J6K1
 j6k1_2;J6K1
 ah_64d_shop;AH-64D
-ah_64d_0;AH-64D
+ah_64d_0;AH-64D Apache Longbow
 ah_64d_1;AH-64D
 ah_64d_2;AH-64D
 ah_64d_japan_shop;AH-64DJP
@@ -8245,7 +8245,7 @@ ah_mk1_0;AH Mk.1 Apache
 ah_mk1_1;AH Mk.1
 ah_mk1_2;AH Mk.1
 ah_64a_shop;AH-64A
-ah_64a_0;AH-64A
+ah_64a_0;AH-64A Apache
 ah_64a_1;AH-64A
 ah_64a_2;AH-64A
 nesher_shop;Nesher
@@ -12767,7 +12767,7 @@ ah_1w_china_0;☀AH-1W
 ah_1w_china_1;☀AH-1W
 ah_1w_china_2;☀AH-1W
 ah_1w_shop;AH-1W
-ah_1w_0;AH-1W
+ah_1w_0;AH-1W Super Cobra
 ah_1w_1;AH-1W
 ah_1w_2;AH-1W
 ah_60_iaf_shop;AH-60
@@ -14453,7 +14453,7 @@ tornado_ids_de_assta1_britain_killstreak_0;☢Tornado IDS ASSTA1
 tornado_ids_de_assta1_britain_killstreak_1;☢Tornado IDS
 tornado_ids_de_assta1_britain_killstreak_2;☢Tornado IDS
 ah_64e_shop;AH-64E
-ah_64e_0;AH-64E
+ah_64e_0;AH-64E Apache Guardian
 ah_64e_1;AH-64E
 ah_64e_2;AH-64E
 cn_vt_4_shop;VT4
@@ -14706,7 +14706,7 @@ ah_64e_britain_0;AH Mk.2 Apache
 ah_64e_britain_1;AH Mk.2
 ah_64e_britain_2;AH Mk.2
 ah_56a_shop;AH-56A
-ah_56a_0;AH-56A
+ah_56a_0;AH-56A Cheyenne
 ah_56a_1;AH-56A
 ah_56a_2;AH-56A
 cn_oplot_t_shop;Oplot-M
