@@ -7522,7 +7522,7 @@ uh_1c_2;UH-1C
 uh_1c_xm_30_shop;UH-1C XM-30
 uh_1c_xm_30_0;UH-1C XM-30
 uh_1c_xm_30_1;UH-1C XM-30
-uh_1c_xm_30_2;UH-1C
+uh_1c_xm_30_2;UH-1C XM-30
 mi_24a_shop;Mi-24A
 mi_24a_0;Mi-24A
 mi_24a_1;Mi-24A
@@ -7571,10 +7571,10 @@ mi_24p_german_shop;◊Mi-24P
 mi_24p_german_0;◊Mi-24P
 mi_24p_german_1;◊Mi-24P
 mi_24p_german_2;◊Mi-24P
-sa_313b_shop;◄SA 313B Alouette II
+sa_313b_shop;◄SA 313B
 sa_313b_0;◄SA 313B Alouette II
-sa_313b_1;◄SA 313B Alouette II
-sa_313b_2;◄SA 313B Alouette II
+sa_313b_1;◄SA 313B
+sa_313b_2;◄SA 313B
 bo_105cb2_shop;BO 105 CB-2
 bo_105cb2_0;BO 105 CB-2
 bo_105cb2_1;BO 105 CB-2
@@ -7675,19 +7675,19 @@ sa_313b_france_shop;SA 313B Alouette II
 sa_313b_france_0;SA 313B Alouette II
 sa_313b_france_1;SA 313B Alouette II
 sa_313b_france_2;SA 313B Alouette II
-sa_316b_shop;SA 316B Alouette III
+sa_316b_shop;SA 316B
 sa_316b_0;SA 316B Alouette III
-sa_316b_1;SA 316B Alouette III
-sa_316b_2;SA 316B Alouette III
+sa_316b_1;SA 316B
+sa_316b_2;SA 316B
 iar_316b_shop;IAR 316B
 iar_316b_0;IAR 316B
 iar_316b_1;IAR 316B
 iar_316b_2;IAR 316B
-sa_341f_shop;SA 341F Gazelle
+sa_341f_shop;SA 341F
 sa_341f_0;SA 341F Gazelle
 sa_341f_1;SA 341F
 sa_341f_2;SA 341F
-sa_342m_shop;SA 342M Gazelle
+sa_342m_shop;SA 342M
 sa_342m_0;SA 342M Gazelle
 sa_342m_1;SA 342M
 sa_342m_2;SA 342M
@@ -7859,10 +7859,10 @@ ah_1s_shop;AH-1S Kisarazu
 ah_1s_0;AH-1S Kisarazu
 ah_1s_1;AH-1S Kisarazu
 ah_1s_2;AH-1S Kisarazu
-ah_1s_early_shop;AH-1E
-ah_1s_early_0;AH-1E
-ah_1s_early_1;AH-1E
-ah_1s_early_2;AH-1E
+ah_1s_early_shop;▅AH-1E
+ah_1s_early_0;▅AH-1E
+ah_1s_early_1;▅AH-1E
+ah_1s_early_2;▅AH-1E
 ah_1s_late_shop;AH-1S
 ah_1s_late_0;AH-1S
 ah_1s_late_1;AH-1S
@@ -7972,30 +7972,30 @@ g_lynx_shop;G-LYNX
 g_lynx_0;G-LYNX
 g_lynx_1;G-LYNX
 g_lynx_2;G-LYNX
-lynx_ah_mk1_shop;Lynx AH.Mk.1
-lynx_ah_mk1_0;Lynx AH.Mk.1
-lynx_ah_mk1_1;Lynx AH.Mk.1
-lynx_ah_mk1_2;Lynx AH.Mk.1
-scout_ah_mk1_shop;Scout AH.Mk.1
-scout_ah_mk1_0;Scout AH.Mk.1
-scout_ah_mk1_1;Scout AH.Mk.1
-scout_ah_mk1_2;Scout AH.Mk.1
-tiger_hap_france_shop;EC-665 Tiger HAP
+lynx_ah_mk1_shop;Lynx AH.1
+lynx_ah_mk1_0;Lynx AH.1
+lynx_ah_mk1_1;Lynx AH.1
+lynx_ah_mk1_2;Lynx AH.1
+scout_ah_mk1_shop;Scout AH.1
+scout_ah_mk1_0;Scout AH.1
+scout_ah_mk1_1;Scout AH.1
+scout_ah_mk1_2;Scout AH.1
+tiger_hap_france_shop;Tiger HAP
 tiger_hap_france_0;EC-665 Tiger HAP
-tiger_hap_france_1;EC-665 Tiger HAP
-tiger_hap_france_2;EC-665 Tiger HAP
-tiger_had_france_shop;EC-665 Tiger HAD
+tiger_hap_france_1;Tiger HAP
+tiger_hap_france_2;Tiger HAP
+tiger_had_france_shop;Tiger HAD
 tiger_had_france_0;EC-665 Tiger HAD
-tiger_had_france_1;EC-665 Tiger HAD
-tiger_had_france_2;EC-665 Tiger HAD
-wasp_has_mk1_shop;Wasp HAS.Mk.1
-wasp_has_mk1_0;Wasp HAS.Mk.1
-wasp_has_mk1_1;Wasp HAS.Mk.1
-wasp_has_mk1_2;Wasp HAS.Mk.1
-tiger_uht_shop;EC-665 Tiger UHT
+tiger_had_france_1;Tiger HAD
+tiger_had_france_2;Tiger HAD
+wasp_has_mk1_shop;Wasp HAS.1
+wasp_has_mk1_0;Wasp HAS.1
+wasp_has_mk1_1;Wasp HAS.1
+wasp_has_mk1_2;Wasp HAS.1
+tiger_uht_shop;Tiger UHT
 tiger_uht_0;EC-665 Tiger UHT
-tiger_uht_1;EC-665 Tiger UHT
-tiger_uht_2;EC-665 Tiger UHT
+tiger_uht_1;Tiger UHT
+tiger_uht_2;Tiger UHT
 swift_f1_shop;Swift F.1
 swift_f1_0;Swift F.1
 swift_f1_1;Swift F.1
@@ -8088,10 +8088,10 @@ a_109_eoa2_shop;A109EOA-2
 a_109_eoa2_0;A109EOA-2
 a_109_eoa2_1;A109EOA-2
 a_109_eoa2_2;A109EOA-2
-ab_205a_1_shop;AB205A-1
-ab_205a_1_0;AB205A-1
-ab_205a_1_1;AB205A-1
-ab_205a_1_2;AB205A-1
+ab_205a_1_shop;AB-205A-1
+ab_205a_1_0;AB-205A-1
+ab_205a_1_1;AB-205A-1
+ab_205a_1_2;AB-205A-1
 pyorremyrsky_shop;VL Pyörremyrsky
 pyorremyrsky_0;VL Pyörremyrsky
 pyorremyrsky_1;VL Pyörremyrsky
@@ -8232,15 +8232,15 @@ ah_64d_japan_shop;AH-64DJP
 ah_64d_japan_0;AH-64DJP
 ah_64d_japan_1;AH-64DJP
 ah_64d_japan_2;AH-64DJP
-ah_64a_peten_shop;▃AH-64A Peten
-ah_64a_peten_0;▃AH-64A Peten
-ah_64a_peten_1;▃AH-64A Peten
-ah_64a_peten_2;▃AH-64A Peten
+ah_64a_peten_shop;AH-64A Peten
+ah_64a_peten_0;AH-64A Peten
+ah_64a_peten_1;AH-64A Peten
+ah_64a_peten_2;AH-64A Peten
 tis_ma_shop;TIS MA
 tis_ma_0;TIS MA
 tis_ma_1;TIS MA
 tis_ma_2;TIS MA
-ah_mk1_shop;AH Mk.1 Apache
+ah_mk1_shop;AH Mk.1
 ah_mk1_0;AH Mk.1 Apache
 ah_mk1_1;AH Mk.1
 ah_mk1_2;AH Mk.1
@@ -10788,10 +10788,10 @@ il_magach_3_shop;Magach 3 (ERA)
 il_magach_3_0;Magach 3 (ERA)
 il_magach_3_1;Magach 3 (ERA)
 il_magach_3_2;Magach 3 (ERA)
-md_500_tow_late_shop;MD500-TOW
-md_500_tow_late_0;MD500-TOW Lahatut
-md_500_tow_late_1;MD500-TOW
-md_500_tow_late_2;MD500-TOW
+md_500_tow_late_shop;MD500-TOW
+md_500_tow_late_0;MD500-TOW Lahatut
+md_500_tow_late_1;MD500-TOW
+md_500_tow_late_2;MD500-TOW
 jp_destroyer_ayanami_shop;JDS Ayanami (DD-103)
 jp_destroyer_ayanami_0;Ayanami-class, JDS Ayanami (DD-103)
 jp_destroyer_ayanami_1;JDS Ayanami
@@ -10840,10 +10840,10 @@ lightning_f53_shop;Lightning F.53
 lightning_f53_0;Lightning F.53
 lightning_f53_1;Lightning F.53
 lightning_f53_2;Lightning F.53
-ah_64d_i_saraph_shop;AH-64D-I
-ah_64d_i_saraph_0;AH-64D-I Saraph
-ah_64d_i_saraph_1;AH-64D-I
-ah_64d_i_saraph_2;AH-64D-I
+ah_64d_i_saraph_shop;AH-64D-I
+ah_64d_i_saraph_0;AH-64D-I Saraph
+ah_64d_i_saraph_1;AH-64D-I
+ah_64d_i_saraph_2;AH-64D-I
 ah_64a_iaf_shop;AH-64A
 ah_64a_iaf_0;AH-64A Peten
 ah_64a_iaf_1;AH-64A
@@ -10964,7 +10964,7 @@ z_19_shop;Z-19
 z_19_0;Z-19
 z_19_1;Z-19
 z_19_2;Z-19
-sa_342l_china_shop;␗SA 342L Gazelle
+sa_342l_china_shop;␗SA 342L
 sa_342l_china_0;␗SA 342L Gazelle
 sa_342l_china_1;␗SA 342L
 sa_342l_china_2;␗SA 342L
@@ -10984,10 +10984,10 @@ harrier_gr7_shop;Harrier GR.7
 harrier_gr7_0;Harrier GR.7
 harrier_gr7_1;Harrier GR.7
 harrier_gr7_2;Harrier GR.7
-t_129_atak_shop;T129 ATAK
+t_129_atak_shop;T129
 t_129_atak_0;T129 ATAK
-t_129_atak_1;T129 ATAK
-t_129_atak_2;T129 ATAK
+t_129_atak_1;T129
+t_129_atak_2;T129
 cn_hj_9_shop;AFT-9
 cn_hj_9_0;AFT-9
 cn_hj_9_1;AFT-9
@@ -12017,10 +12017,10 @@ germ_amd_35_kwk_shop;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_0;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_1;Pz.Sp.Wg.P204(f) KwK 38
 germ_amd_35_kwk_2;Pz.Sp.Wg.P204(f) KwK 38
-su_25_558arz_shop;▂Su-25BM
-su_25_558arz_0;▂Su-25BM 558 ARZ
-su_25_558arz_1;▂Su-25BM
-su_25_558arz_2;▂Su-25BM
+su_25_558arz_shop;▆Su-25BM
+su_25_558arz_0;▆Su-25BM 558 ARZ
+su_25_558arz_1;▆Su-25BM
+su_25_558arz_2;▆Su-25BM
 sw_patria_amv_ctcv_105_shop;CT-CV 105HP
 sw_patria_amv_ctcv_105_0;Patria CT-CV 105HP
 sw_patria_amv_ctcv_105_1;CT-CV 105HP
@@ -13795,14 +13795,14 @@ f_16a_block_10_netz_mod_shop;F-16A [L]
 f_16a_block_10_netz_mod_0;F-16A Block 10 Netz (Mod)
 f_16a_block_10_netz_mod_1;F-16A [L]
 f_16a_block_10_netz_mod_2;F-16A [L]
-tiger_had_spain_shop;▄Tigre HAD-E
-tiger_had_spain_0;▄EC-665 Tigre HAD-E
-tiger_had_spain_1;▄Tigre HAD-E
-tiger_had_spain_2;▄Tigre HAD-E
-tiger_hac_france_shop;EC-665 Tiger HAC
+tiger_had_spain_shop;Tigre HAD-E
+tiger_had_spain_0;EC-665 Tigre HAD-E
+tiger_had_spain_1;Tigre HAD-E
+tiger_had_spain_2;Tigre HAD-E
+tiger_hac_france_shop;Tiger HAC
 tiger_hac_france_0;EC-665 Tiger HAC
-tiger_hac_france_1;EC-665 Tiger HAC
-tiger_hac_france_2;EC-665 Tiger HAC
+tiger_hac_france_1;Tiger HAC
+tiger_hac_france_2;Tiger HAC
 tornado_ids_it_ret8_shop;▄Tornado IDS MLU
 tornado_ids_it_ret8_0;▄Tornado IDS MLU (RET.8)
 tornado_ids_it_ret8_1;▄Tornado IDS MLU
@@ -14701,7 +14701,7 @@ ah_64e_netherlands_shop;◘AH-64E
 ah_64e_netherlands_0;◘AH-64E
 ah_64e_netherlands_1;◘AH-64E
 ah_64e_netherlands_2;◘AH-64E
-ah_64e_britain_shop;AH Mk.2 Apache
+ah_64e_britain_shop;AH Mk.2
 ah_64e_britain_0;AH Mk.2 Apache
 ah_64e_britain_1;AH Mk.2
 ah_64e_britain_2;AH Mk.2
