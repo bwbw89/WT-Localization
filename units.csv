@@ -4007,10 +4007,10 @@ shackleton_mr_mk_2_shop;Shackleton MR.Mk.2
 shackleton_mr_mk_2_0;Shackleton MR.Mk.2
 shackleton_mr_mk_2_1;Shackleton MR.Mk.2
 shackleton_mr_mk_2_2;Shackleton MR.Mk.2
-a_5c_shop;A-5C
-a_5c_0;A-5C
-a_5c_1;A-5C
-a_5c_2;A-5C
+a_5c_shop;╨A-5C
+a_5c_0;╨A-5C
+a_5c_1;╨A-5C
+a_5c_2;╨A-5C
 yah_64_shop;YAH-64
 yah_64_0;YAH-64
 yah_64_1;YAH-64
@@ -15295,3 +15295,7 @@ ussr_ai_sam_launcher_5p85se_2;S-300 [Launcher]
 ussr_ai_sam_launcher_9a310_0;9K37 "BUK", Transporter Erector Launcher and Radar 9A310
 ussr_ai_sam_launcher_9a310_1;BUK [TELAR]
 ussr_ai_sam_launcher_9a310_2;BUK [TELAR]
+f_6c_pakistan_shop;╨F-6C
+f_6c_pakistan_0;╨F-6C
+f_6c_pakistan_1;╨F-6C
+f_6c_pakistan_2;╨F-6C
