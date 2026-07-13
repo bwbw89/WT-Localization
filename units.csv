@@ -4418,10 +4418,10 @@ he51c1_late_0;He 51 C-1 Late
 he51c1_late_1;He 51 C-1 [L]
 he51c1_late_2;He 51 C-1 [L]
 shop/group/he51_group;He 51
-pe-3_shop;Pe-3
-pe-3_0;Pe-3
-pe-3_1;Pe-3
-pe-3_2;Pe-3
+pe-3_shop;Pe-3 [L]
+pe-3_0;Pe-3 Late
+pe-3_1;Pe-3 [L]
+pe-3_2;Pe-3 [L]
 i_29_shop;I-29
 i_29_0;I-29
 i_29_1;I-29
