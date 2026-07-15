@@ -9131,9 +9131,9 @@ uk_at_gun_qf17pounder_2;17pdr AT
 us_at_gun_m1_0;57 mm anti-tank gun M1
 us_at_gun_m1_1;57 mm AT M1
 us_at_gun_m1_2;57 mm AT M1
-us_at_m40_0;106 mm anti-tank gun М40
-us_at_m40_1;106 mm AT М40
-us_at_m40_2;106 mm AT М40
+us_at_m40_0;106 mm anti-tank gun M40
+us_at_m40_1;106 mm AT M40
+us_at_m40_2;106 mm AT M40
 ussr_at_gun_53k_0;45 mm anti-tank gun mod. 1937 (53-K)
 ussr_at_gun_53k_1;45 mm AT 53-K
 ussr_at_gun_53k_2;45 mm AT 53-K
@@ -10376,7 +10376,7 @@ us_destroyer_mitscher_wilkinson_0;Mitscher-class, USS Wilkinson (DL-5), 1958
 us_destroyer_mitscher_wilkinson_1;USS Wilkinson
 us_destroyer_mitscher_wilkinson_2;USS Wilkinson
 ussr_cruiser_kerch_shop;Kerch
-ussr_cruiser_kerch_0;Duca d’Aosta-class, Kerch, 1953
+ussr_cruiser_kerch_0;Duca d'Aosta-class, Kerch, 1953
 ussr_cruiser_kerch_1;Kerch
 ussr_cruiser_kerch_2;Kerch
 ussr_mpk_201k_shop;MPK Pr.201K
@@ -10384,7 +10384,7 @@ ussr_mpk_201k_0;MPK Pr.201K
 ussr_mpk_201k_1;MPK Pr.201K
 ussr_mpk_201k_2;MPK Pr.201K
 it_cruiser_eugenio_di_savoia_shop;RN Eugenio di Savoia
-it_cruiser_eugenio_di_savoia_0;Duca d’Aosta-class, RN Eugenio di Savoia, 1944
+it_cruiser_eugenio_di_savoia_0;Duca d'Aosta-class, RN Eugenio di Savoia, 1944
 it_cruiser_eugenio_di_savoia_1;RN Eugenio di Savoia
 it_cruiser_eugenio_di_savoia_2;RN Eugenio di Savoia
 uk_higgins_78ft_mtb422_shop;MTB-422
@@ -15148,7 +15148,7 @@ fr_destroyer_guepard_class_verdun_0;Guepard-class, Verdun, 1941
 fr_destroyer_guepard_class_verdun_1;Verdun
 fr_destroyer_guepard_class_verdun_2;Verdun
 ussr_d3_tk126_shop;TK-126
-ussr_d3_tk126_0;Pr.P-19-ОК, TK-126
+ussr_d3_tk126_0;Pr.P-19-OK, TK-126
 ussr_d3_tk126_1;TK-126
 ussr_d3_tk126_2;TK-126
 us_destroyer_bagley_class_helm_shop;USS Helm
@@ -15299,8 +15299,8 @@ ussr_kv_8_shop;KV-8
 ussr_kv_8_0;KV-8
 ussr_kv_8_1;KV-8
 ussr_kv_8_2;KV-8
-spitfire_lf_mk9c_cw_greece_shop;▄Spitfire LF Mk IXc (CW)
-spitfire_lf_mk9c_cw_greece_0;▄Spitfire LF Mk IXc (Clipped Wings)
+spitfire_lf_mk9c_cw_greece_shop;▄Spitfire LF Mk IXc (CW)
+spitfire_lf_mk9c_cw_greece_0;▄Spitfire LF Mk IXc (Clipped Wings)
 spitfire_lf_mk9c_cw_greece_1;▄Spitfire LF Mk IXc (CW)
 spitfire_lf_mk9c_cw_greece_2;▄Spitfire LF Mk IXc (CW)
 mi_28n_killstreak_shop;Mi-28N
@@ -15321,8 +15321,8 @@ welkin_fmk1_shop;Welkin F.Mk.I
 welkin_fmk1_0;Welkin F.Mk.I
 welkin_fmk1_1;Welkin F.Mk.I
 welkin_fmk1_2;Welkin F.Mk.I
-spitfire_mk5b_float_shop;Spitfire Mk Vb (Float)
-spitfire_mk5b_float_0;Spitfire Mk Vb (Float)
+spitfire_mk5b_float_shop;Spitfire Mk Vb (Float)
+spitfire_mk5b_float_0;Spitfire Mk Vb (Float)
 spitfire_mk5b_float_1;Spitfire Mk Vb (Float)
 spitfire_mk5b_float_2;Spitfire Mk Vb (Float)
 washington_b1_shop;Washington B.Mk.I
@@ -15349,10 +15349,10 @@ l_39za_art_thailand_shop;L-39ZA/ART
 l_39za_art_thailand_0;L-39ZA/ART Albatros
 l_39za_art_thailand_1;L-39ZA/ART
 l_39za_art_thailand_2;L-39ZA/ART
-fw_189c_0_shop;Fw 189 C
-fw_189c_0_0;Fw 189 C
-fw_189c_0_1;Fw 189 C
-fw_189c_0_2;Fw 189 C
+fw_189c_0_shop;Fw 189 C
+fw_189c_0_0;Fw 189 C
+fw_189c_0_1;Fw 189 C
+fw_189c_0_2;Fw 189 C
 yak_130_early_shop;Yak-130
 yak_130_early_0;Yak-130
 yak_130_early_1;Yak-130
