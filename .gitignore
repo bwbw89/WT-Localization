@@ -1,4 +1,5 @@
+.DS_store
+update_comparison/
+*.csv
 *.txt
-input.csv
-output.csv
-update_comparison
+!units.csv
