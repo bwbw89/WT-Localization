@@ -816,10 +816,10 @@ germ_t_34_747_shop;▀T 34 747 (r)
 germ_t_34_747_0;▀Pz.Kpfw. T 34 747 (r)
 germ_t_34_747_1;▀T 34 747 (r)
 germ_t_34_747_2;▀T 34 747 (r)
-germ_pzkpfw_VI_tiger_P_shop;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_0;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_1;VK 45.01 (P)
-germ_pzkpfw_VI_tiger_P_2;VK 45.01 (P)
+germ_pzkpfw_VI_tiger_P_shop;VK 45.01 [P]
+germ_pzkpfw_VI_tiger_P_0;VK 45.01 [P]
+germ_pzkpfw_VI_tiger_P_1;VK 45.01 [P]
+germ_pzkpfw_VI_tiger_P_2;VK 45.01 [P]
 germ_pzkpfw_VI_ausf_e_tiger_shop;Tiger E
 germ_pzkpfw_VI_ausf_e_tiger_0;Pz.Kpfw. VI Tiger Ausf. E
 germ_pzkpfw_VI_ausf_e_tiger_1;Tiger E
@@ -8076,10 +8076,10 @@ mi_28nm_shop;Mi-28NM
 mi_28nm_0;Mi-28NM
 mi_28nm_1;Mi-28NM
 mi_28nm_2;Mi-28NM
-a_129_a_shop;A129 International (P)
+a_129_a_shop;A129 International [P]
 a_129_a_0;A129 International Prototype
-a_129_a_1;A129 International (P)
-a_129_a_2;A129 International (P)
+a_129_a_1;A129 International [P]
+a_129_a_2;A129 International [P]
 a_129_cbt_shop;A129CBT
 a_129_cbt_0;A129CBT Mangusta
 a_129_cbt_1;A129CBT
@@ -10573,10 +10573,10 @@ cn_m3a3_stuart_1st_ptg_shop;☀M3A3 (1st PTG)
 cn_m3a3_stuart_1st_ptg_0;☀M3A3 (1st PTG)
 cn_m3a3_stuart_1st_ptg_1;☀M3A3 (1st PTG)
 cn_m3a3_stuart_1st_ptg_2;☀M3A3 (1st PTG)
-cn_ztz_96a_prot_shop;ZTZ96A (P)
+cn_ztz_96a_prot_shop;ZTZ96A [P]
 cn_ztz_96a_prot_0;ZTZ96A, Prototype
-cn_ztz_96a_prot_1;ZTZ96A (P)
-cn_ztz_96a_prot_2;ZTZ96A (P)
+cn_ztz_96a_prot_1;ZTZ96A [P]
+cn_ztz_96a_prot_2;ZTZ96A [P]
 cn_ztz_88a_shop;ZTZ88A
 cn_ztz_88a_0;ZTZ88A
 cn_ztz_88a_1;ZTZ88A
@@ -10972,10 +10972,10 @@ ussr_t_80uk_shop;T-80UK
 ussr_t_80uk_0;T-80UK
 ussr_t_80uk_1;T-80UK
 ussr_t_80uk_2;T-80UK
-jp_type_16_mcv_prot_shop;Type 16 (P)
+jp_type_16_mcv_prot_shop;Type 16 [P]
 jp_type_16_mcv_prot_0;Type 16, Prototype
-jp_type_16_mcv_prot_1;Type 16 (P)
-jp_type_16_mcv_prot_2;Type 16 (P)
+jp_type_16_mcv_prot_1;Type 16 [P]
+jp_type_16_mcv_prot_2;Type 16 [P]
 mig_23bn_shop;◊MiG-23BN
 mig_23bn_0;◊MiG-23BN
 mig_23bn_1;◊MiG-23BN
@@ -11876,10 +11876,10 @@ it_freccia_shop;VBM Freccia C/C
 it_freccia_0;Veicolo Blindato Medio 8x8 Freccia, Combat c/c Spike
 it_freccia_1;VBM Freccia C/C
 it_freccia_2;VBM Freccia C/C
-jp_type_87_rcv_prot_shop;Type 87 RCV (P)
-jp_type_87_rcv_prot_0;Type 87 RCV (P)
-jp_type_87_rcv_prot_1;Type 87 RCV (P)
-jp_type_87_rcv_prot_2;Type 87 RCV (P)
+jp_type_87_rcv_prot_shop;Type 87 RCV [P]
+jp_type_87_rcv_prot_0;Type 87 RCV [P]
+jp_type_87_rcv_prot_1;Type 87 RCV [P]
+jp_type_87_rcv_prot_2;Type 87 RCV [P]
 f_14b_shop;F-14B
 f_14b_0;F-14B Tomcat
 f_14b_1;F-14B
@@ -12398,10 +12398,10 @@ shop/group/vampire_fb_group;Vampire
 shop/group/a_4_iaf_group;A-4
 shop/group/so_4050_vautour_iaf_group;S.O.4050 Vautour II
 shop/group/md_460_iaf_group;Super Mystere B2
-jp_type_10_prototype_shop;TKX (P)
-jp_type_10_prototype_0;TKX (P)
-jp_type_10_prototype_1;TKX (P)
-jp_type_10_prototype_2;TKX (P)
+jp_type_10_prototype_shop;TKX [P]
+jp_type_10_prototype_0;TKX [P]
+jp_type_10_prototype_1;TKX [P]
+jp_type_10_prototype_2;TKX [P]
 mi_24d_hungary_shop;◔Mi-24D
 mi_24d_hungary_0;◔Mi-24D
 mi_24d_hungary_1;◔Mi-24D
@@ -13255,10 +13255,10 @@ jf_17_shop;JF-17
 jf_17_0;JF-17 Thunder
 jf_17_1;JF-17
 jf_17_2;JF-17
-jp_icv_prototype_shop;Type 25 RCV (P)
-jp_icv_prototype_0;Type 25 RCV (P)
-jp_icv_prototype_1;Type 25 RCV (P)
-jp_icv_prototype_2;Type 25 RCV (P)
+jp_icv_prototype_shop;Type 25 RCV [P]
+jp_icv_prototype_0;Type 25 RCV [P]
+jp_icv_prototype_1;Type 25 RCV [P]
+jp_icv_prototype_2;Type 25 RCV [P]
 jp_type1_pt2_shop;PT-802
 jp_type1_pt2_0;Type 1, PT-802
 jp_type1_pt2_1;PT-802
@@ -13483,10 +13483,10 @@ jp_destroyer_murasame_shop;JDS Murasame (DD-107)
 jp_destroyer_murasame_0;Murasame-class, JDS Murasame  (DD-107), 1976
 jp_destroyer_murasame_1;JDS Murasame (DD-107)
 jp_destroyer_murasame_2;JDS Murasame (DD-107)
-jp_icv_ifv_prototype_shop;Type 24 ICV (P)
-jp_icv_ifv_prototype_0;Type 24 ICV (P)
-jp_icv_ifv_prototype_1;Type 24 ICV (P)
-jp_icv_ifv_prototype_2;Type 24 ICV (P)
+jp_icv_ifv_prototype_shop;Type 24 ICV [P]
+jp_icv_ifv_prototype_0;Type 24 ICV [P]
+jp_icv_ifv_prototype_1;Type 24 ICV [P]
+jp_icv_ifv_prototype_2;Type 24 ICV [P]
 mi_35m_pakistan_shop;▄Mi-35M
 mi_35m_pakistan_0;▄Mi-35M
 mi_35m_pakistan_1;▄Mi-35M
@@ -14628,10 +14628,10 @@ jh_7_shop;JH-7
 jh_7_0;JH-7 Block 02 Flying Leopard
 jh_7_1;JH-7
 jh_7_2;JH-7
-jh_7a_prototype_shop;JH-7A (P)
+jh_7a_prototype_shop;JH-7A [P]
 jh_7a_prototype_0;JH-7A Prototype Flying Leopard
-jh_7a_prototype_1;JH-7A (P)
-jh_7a_prototype_2;JH-7A (P)
+jh_7a_prototype_1;JH-7A [P]
+jh_7a_prototype_2;JH-7A [P]
 xf5u_1_shop;XF5U-1
 xf5u_1_0;XF5U-1 "Flying Flapjack"
 xf5u_1_1;XF5U-1
@@ -15073,14 +15073,14 @@ ba_65_a80_0;Ba.65 A.80
 ba_65_a80_1;Ba.65 A.80
 ba_65_a80_2;Ba.65 A.80
 shop/group/f_5_f_16_thailand_group;▄F-5/F-16
-il_eitan_shop;Eitan (P)
+il_eitan_shop;Eitan [P]
 il_eitan_0;Eitan Prototype
-il_eitan_1;Eitan (P)
-il_eitan_2;Eitan (P)
-it_centauro_2_shop;Centauro II (P)
+il_eitan_1;Eitan [P]
+il_eitan_2;Eitan [P]
+it_centauro_2_shop;Centauro II [P]
 it_centauro_2_0;Blindo pesante Centauro II, Prototipo
-it_centauro_2_1;Centauro II (P)
-it_centauro_2_2;Centauro II (P)
+it_centauro_2_1;Centauro II [P]
+it_centauro_2_2;Centauro II [P]
 mi_35m_killstreak_shop;Mi-35M
 mi_35m_killstreak_0;Mi-35M
 mi_35m_killstreak_1;Mi-35M
@@ -15496,8 +15496,8 @@ us_destroyer_cf_adams_class_cf_adams_ec_0;Charles F. Adams-class, USS Charles F.
 us_destroyer_cf_adams_class_cf_adams_ec_1;USS Charles F. Adams
 us_destroyer_cf_adams_class_cf_adams_ec_2;USS Charles F. Adams
 ussr_destroyer_rckt_pr956_0;Project 956
-ussr_destroyer_rckt_pr956_1;Project 956
-ussr_destroyer_rckt_pr956_2;Project 956
+ussr_destroyer_rckt_pr956_1;Pr.956
+ussr_destroyer_rckt_pr956_2;Pr.956
 us_cruiser_rckt_california_0;USS California
 us_cruiser_rckt_california_1;USS California
 us_cruiser_rckt_california_2;USS California
@@ -15513,3 +15513,58 @@ jp_type_90b_sm_shop;◍Type 90 (B)
 jp_type_90b_sm_0;◍Type 90 (B)
 jp_type_90b_sm_1;◍Type 90 (B)
 jp_type_90b_sm_2;◍Type 90 (B)
+iar_81c_db_605_shop;IAR-81C (DB 605)
+iar_81c_db_605_0;IAR-81C (DB 605)
+iar_81c_db_605_1;IAR-81C (DB 605)
+iar_81c_db_605_2;IAR-81C (DB 605)
+mig_29smt_9_19_killstreak_shop;☢MiG-29SMT
+mig_29smt_9_19_killstreak_0;☢MiG-29SMT Izdeliye 9.19
+mig_29smt_9_19_killstreak_1;☢MiG-29SMT
+mig_29smt_9_19_killstreak_2;☢MiG-29SMT
+f_16a_block_15_adf_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_italy_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_italy_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_italy_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_italy_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_germany_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_germany_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_germany_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_germany_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_britain_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_britain_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_britain_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_britain_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_france_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_france_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_france_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_france_killstreak_2;☢F-16A ADF
+f_16a_block_15_adf_sweden_killstreak_shop;☢F-16A ADF
+f_16a_block_15_adf_sweden_killstreak_0;☢F-16A Block 15 ADF Fighting Falcon
+f_16a_block_15_adf_sweden_killstreak_1;☢F-16A ADF
+f_16a_block_15_adf_sweden_killstreak_2;☢F-16A ADF
+f_16a_block_20_mlu_killstreak_shop;☢F-16A MLU
+f_16a_block_20_mlu_killstreak_0;☢F-16A Block 20 MLU Fighting Falcon
+f_16a_block_20_mlu_killstreak_1;☢F-16A MLU
+f_16a_block_20_mlu_killstreak_2;☢F-16A MLU
+f_2a_killstreak_shop;☢F-2A
+f_2a_killstreak_0;☢F-2A
+f_2a_killstreak_1;☢F-2A
+f_2a_killstreak_2;☢F-2A
+f_16d_block_40_barak_2_killstreak_shop;☢F-16D
+f_16d_block_40_barak_2_killstreak_0;☢F-16D Block 40 Barak II
+f_16c_block_40_barak_2_killstreak_1;☢F-16D
+f_16c_block_40_barak_2_killstreak_2;☢F-16D
+ussr_mpk_pr_1124_ec_0;Pr.1124, MPK-33
+ussr_mpk_pr_1124_ec_1;MPK-33
+ussr_mpk_pr_1124_ec_2;MPK-33
+uk_fv107_scimitar_mk2_shop;Scimitar Mk.2
+uk_fv107_scimitar_mk2_0;FV107 Scimitar Mk.2
+uk_fv107_scimitar_mk2_1;Scimitar Mk.2
+uk_fv107_scimitar_mk2_2;Scimitar Mk.2
+it_fiat_6616_ub_shop;FIAT 6616UB
+it_fiat_6616_ub_0;FIAT Tipo 6616UB-16
+it_fiat_6616_ub_1;FIAT 6616UB
+it_fiat_6616_ub_2;FIAT 6616UB
