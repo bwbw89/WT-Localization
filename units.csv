@@ -6503,10 +6503,10 @@ so_4050_vautour_2a_shop;Vautour IIA
 so_4050_vautour_2a_0;S.O.4050 Vautour IIA
 so_4050_vautour_2a_1;Vautour IIA
 so_4050_vautour_2a_2;Vautour IIA
-so_4050_vautour_2n_shop;Vautour IIN [E]
-so_4050_vautour_2n_0;S.O.4050 Vautour IIN Early
-so_4050_vautour_2n_1;Vautour IIN [E]
-so_4050_vautour_2n_2;Vautour IIN [E]
+so_4050_vautour_2n_shop;Vautour IIN(C)
+so_4050_vautour_2n_0;S.O.4050 Vautour IIN 'Classique' (V2N)
+so_4050_vautour_2n_1;Vautour IIN(C)
+so_4050_vautour_2n_2;Vautour IIN(C)
 so_4050_vautour_2a_iaf_shop;Vautour IIA IAF
 so_4050_vautour_2a_iaf_0;S.O.4050 Vautour IIA IAF
 so_4050_vautour_2a_iaf_1;Vautour IIA IAF
@@ -6515,10 +6515,10 @@ so_4050_vautour_2a_israel_iaf_shop;Vautour IIA
 so_4050_vautour_2a_israel_iaf_0;S.O.4050 Vautour IIA
 so_4050_vautour_2a_israel_iaf_1;Vautour IIA
 so_4050_vautour_2a_israel_iaf_2;Vautour IIA
-so_4050_vautour_2n_iaf_shop;Vautour IIN
-so_4050_vautour_2n_iaf_0;S.O.4050 Vautour IIN
-so_4050_vautour_2n_iaf_1;Vautour IIN
-so_4050_vautour_2n_iaf_2;Vautour IIN
+so_4050_vautour_2n_iaf_shop;Vautour IIN(C)
+so_4050_vautour_2n_iaf_0;S.O.4050 Vautour IIN 'Classique' (V2N)
+so_4050_vautour_2n_iaf_1;Vautour IIN(C)
+so_4050_vautour_2n_iaf_2;Vautour IIN(C)
 f-84f_iaf_shop;F-84F IAF
 f-84f_iaf_0;F-84F Thunderstreak IAF
 f-84f_iaf_1;F-84F IAF
@@ -10924,10 +10924,10 @@ fiat_g91_y_shop;G.91 Y
 fiat_g91_y_0;G.91 Y
 fiat_g91_y_1;G.91 Y
 fiat_g91_y_2;G.91 Y
-so_4050_vautour_2n_late_shop;Vautour IIN [L]
-so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN Late
-so_4050_vautour_2n_late_1;Vautour IIN [L]
-so_4050_vautour_2n_late_2;Vautour IIN [L]
+so_4050_vautour_2n_late_shop;Vautour IIN(M)
+so_4050_vautour_2n_late_0;S.O.4050 Vautour IIN 'Monobloc' (V2-1N)
+so_4050_vautour_2n_late_1;Vautour IIN(M)
+so_4050_vautour_2n_late_2;Vautour IIN(M)
 mirage_2000c_s5_shop;Mirage 2000C-S5
 mirage_2000c_s5_0;Mirage 2000C-S5
 mirage_2000c_s5_1;Mirage 2000C-S5
@@ -15555,8 +15555,8 @@ f_2a_killstreak_1;☢F-2A
 f_2a_killstreak_2;☢F-2A
 f_16d_block_40_barak_2_killstreak_shop;☢F-16D
 f_16d_block_40_barak_2_killstreak_0;☢F-16D Block 40 Barak II
-f_16c_block_40_barak_2_killstreak_1;☢F-16D
-f_16c_block_40_barak_2_killstreak_2;☢F-16D
+f_16d_block_40_barak_2_killstreak_1;☢F-16D
+f_16d_block_40_barak_2_killstreak_2;☢F-16D
 ussr_mpk_pr_1124_ec_0;Pr.1124, MPK-33
 ussr_mpk_pr_1124_ec_1;MPK-33
 ussr_mpk_pr_1124_ec_2;MPK-33
