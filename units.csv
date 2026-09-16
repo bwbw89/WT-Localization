@@ -3836,19 +3836,19 @@ tu-1_shop;Tu-1
 tu-1_0;Tu-1
 tu-1_1;Tu-1
 tu-1_2;Tu-1
-tu-2_shop;Tu-2S (7)
+tu-2_shop;Tu-2S
 tu-2_0;Tu-2S (7 series) factory No.23
 tu-2_1;Tu-2S
 tu-2_2;Tu-2S
-tu-2_early_shop;Tu-2 (5)
+tu-2_early_shop;Tu-2
 tu-2_early_0;Tu-2 (5 series) factory No.166
 tu-2_early_1;Tu-2
 tu-2_early_2;Tu-2
-tu-2_postwar_shop;Tu-2S-44 (1)
+tu-2_postwar_shop;Tu-2S-44
 tu-2_postwar_0;Tu-2S-44 (1 series) factory No.166
 tu-2_postwar_1;Tu-2S-44
 tu-2_postwar_2;Tu-2S-44
-tu-2_postwar_late_shop;Tu-2S-59 (8)
+tu-2_postwar_late_shop;Tu-2S-59
 tu-2_postwar_late_0;Tu-2S-59 (8 series) factory No.39
 tu-2_postwar_late_1;Tu-2S-59
 tu-2_postwar_late_2;Tu-2S-59
@@ -4685,7 +4685,7 @@ mig-9_late_china_shop;␗MiG-9 [L]
 mig-9_late_china_0;␗MiG-9 Late
 mig-9_late_china_1;␗MiG-9 [L]
 mig-9_late_china_2;␗MiG-9 [L]
-tu-2_postwar_china_shop;␗Tu-2S-44 (1)
+tu-2_postwar_china_shop;␗Tu-2S-44
 tu-2_postwar_china_0;␗Tu-2S-44 (1 series) factory No.166
 tu-2_postwar_china_1;␗Tu-2S-44
 tu-2_postwar_china_2;␗Tu-2S-44
@@ -12870,7 +12870,7 @@ sw_strv121b_christian2_shop;Christian II
 sw_strv121b_christian2_0;Stridsvagn 121B Christian II
 sw_strv121b_christian2_1;Christian II
 sw_strv121b_christian2_2;Christian II
-tu-2_postwar_late_hungary_shop;◔Tu-2S-59 (8)
+tu-2_postwar_late_hungary_shop;◔Tu-2S-59
 tu-2_postwar_late_hungary_0;◔Tu-2S-59 (8 series) factory No.39
 tu-2_postwar_late_hungary_1;◔Tu-2S-59
 tu-2_postwar_late_hungary_2;◔Tu-2S-59
